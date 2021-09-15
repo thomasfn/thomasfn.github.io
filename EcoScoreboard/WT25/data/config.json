@@ -12,7 +12,7 @@
       "Description": "Deadliest murderer",
       "StatName": "animalshunted",
       "Multiplier": 1.0,
-      "Unit": "innocent creatures",
+      "Unit": "innocent creatures killed",
       "Format": "RoundedNumber",
       "Max": 10
     },
@@ -33,18 +33,10 @@
       "Max": 10
     },
     {
-      "Description": "Best logger",
+      "Description": "Loves getting wood",
       "StatName": "ChopTree",
       "Multiplier": 1.0,
-      "Unit": "swings on a tree",
-      "Format": "RoundedNumber",
-      "Max": 10
-    },
-    {
-      "Description": "Deadliest tree murderer",
-      "StatName": "treesfelled",
-      "Multiplier": 1.0,
-      "Unit": "innocent trees felled",
+      "Unit": "trees felled",
       "Format": "RoundedNumber",
       "Max": 10
     },
@@ -52,7 +44,7 @@
       "Description": "Is not stumped",
       "StatName": "ChopStump",
       "Multiplier": 1.0,
-      "Unit": "swings on a tree stump",
+      "Unit": "tree stumps removed",
       "Format": "RoundedNumber",
       "Max": 10
     },
@@ -89,7 +81,7 @@
       "Max": 10
     },
     {
-      "Description": "King of the party",
+      "Description": "Life of the party",
       "StatName": "JoinedWorkParty",
       "Multiplier": 1.0,
       "Unit": "work parties joined",
@@ -164,12 +156,12 @@
       "Description": "Deadliest plant murderer",
       "StatName": "plantsharvested",
       "Multiplier": 1.0,
-      "Unit": "innocent plants",
+      "Unit": "innocent plants picked",
       "Format": "RoundedNumber",
       "Max": 10
     },
     {
-      "Description": "Expert plow wielder",
+      "Description": "Expert at plowing",
       "StatName": "PlowField",
       "Multiplier": 1.0,
       "Unit": "blocks plowed",
