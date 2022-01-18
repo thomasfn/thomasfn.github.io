@@ -154,14 +154,6 @@
       "Max": 10
     },
     {
-      "Description": "Laziest senator",
-      "StatName": "DidntVote",
-      "Multiplier": 1.0,
-      "Unit": "votes ignored",
-      "Format": "RoundedNumber",
-      "Max": 10
-    },
-    {
       "Description": "Loves democracy",
       "StatName": "Vote",
       "Multiplier": 1.0,
