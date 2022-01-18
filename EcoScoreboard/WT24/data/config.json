@@ -1,0 +1,188 @@
+{
+  "Scoreboards": [
+    {
+      "Description": "Craziest miner",
+      "StatName": "blocksmined",
+      "Multiplier": 1.0,
+      "Unit": "blocks",
+      "Format": "RoundedNumber",
+      "Max": 10
+    },
+    {
+      "Description": "Deadliest murderer",
+      "StatName": "animalshunted",
+      "Multiplier": 1.0,
+      "Unit": "innocent creatures killed",
+      "Format": "RoundedNumber",
+      "Max": 10
+    },
+    {
+      "Description": "Messiest logger",
+      "StatName": "CreateTreeDebris",
+      "Multiplier": 1.0,
+      "Unit": "debris created",
+      "Format": "RoundedNumber",
+      "Max": 10
+    },
+    {
+      "Description": "Cleanest logger",
+      "StatName": "CleanupTreeDebris",
+      "Multiplier": 1.0,
+      "Unit": "debris removed",
+      "Format": "RoundedNumber",
+      "Max": 10
+    },
+    {
+      "Description": "Loves getting wood",
+      "StatName": "ChopTree",
+      "Multiplier": 1.0,
+      "Unit": "trees felled",
+      "Format": "RoundedNumber",
+      "Max": 10
+    },
+    {
+      "Description": "Is not stumped",
+      "StatName": "ChopStump",
+      "Multiplier": 1.0,
+      "Unit": "tree stumps removed",
+      "Format": "RoundedNumber",
+      "Max": 10
+    },
+    {
+      "Description": "Biggest mouth",
+      "StatName": "ChatSent",
+      "Multiplier": 1.0,
+      "Unit": "chat messages sent",
+      "Format": "RoundedNumber",
+      "Max": 10
+    },
+    {
+      "Description": "Busiest builder",
+      "StatName": "ConstructOrDeconstruct",
+      "Multiplier": 1.0,
+      "Unit": "blocks placed + removed",
+      "Format": "RoundedNumber",
+      "Max": 10
+    },
+    {
+      "Description": "Busiest worker",
+      "StatName": "CreateWorkOrder",
+      "Multiplier": 1.0,
+      "Unit": "work orders created",
+      "Format": "RoundedNumber",
+      "Max": 10
+    },
+    {
+      "Description": "Busiest crafter",
+      "StatName": "ItemCraftedAction",
+      "Multiplier": 1.0,
+      "Unit": "items created",
+      "Format": "RoundedNumber",
+      "Max": 10
+    },
+    {
+      "Description": "Life of the party",
+      "StatName": "JoinedWorkParty",
+      "Multiplier": 1.0,
+      "Unit": "work parties joined",
+      "Format": "RoundedNumber",
+      "Max": 10
+    },
+    {
+      "Description": "Best merchant",
+      "StatName": "CurrencyTrade",
+      "Multiplier": 1.0,
+      "Unit": "trades made",
+      "Format": "RoundedNumber",
+      "Max": 10
+    },
+    {
+      "Description": "Biggest capitalist",
+      "StatName": "income",
+      "Multiplier": 1.0,
+      "Unit": "money received",
+      "Format": "Euros",
+      "Max": 10
+    },
+    {
+      "Description": "Richest OAP",
+      "StatName": "milipensionperhour",
+      "Multiplier": 0.001,
+      "Unit": "euros (hourly pension)",
+      "Format": "Euros",
+      "Max": 10
+    },
+    {
+      "Description": "Laziest senator",
+      "StatName": "DidntVote",
+      "Multiplier": 1.0,
+      "Unit": "votes ignored",
+      "Format": "RoundedNumber",
+      "Max": 10
+    },
+    {
+      "Description": "Victims of theft",
+      "StatName": "taxpaid",
+      "Multiplier": 1.0,
+      "Unit": "euros",
+      "Format": "Euros",
+      "Max": 10
+    },
+    {
+      "Description": "Refuses to use a bin",
+      "StatName": "DropGarbage",
+      "Multiplier": 1.0,
+      "Unit": "garbage dropped",
+      "Format": "RoundedNumber",
+      "Max": 10
+    },
+    {
+      "Description": "Smelliest farts",
+      "StatName": "emissions",
+      "Multiplier": 0.001,
+      "Unit": "total ppm emitted",
+      "Format": "Number",
+      "Max": 10
+    },
+    {
+      "Description": "Greenest fingers",
+      "StatName": "PlantSeeds",
+      "Multiplier": 1.0,
+      "Unit": "seeds planted",
+      "Format": "RoundedNumber",
+      "Max": 10
+    },
+    {
+      "Description": "Deadliest plant murderer",
+      "StatName": "plantsharvested",
+      "Multiplier": 1.0,
+      "Unit": "innocent plants picked",
+      "Format": "RoundedNumber",
+      "Max": 10
+    },
+    {
+      "Description": "Expert at plowing",
+      "StatName": "PlowField",
+      "Multiplier": 1.0,
+      "Unit": "blocks plowed",
+      "Format": "RoundedNumber",
+      "Max": 10
+    },
+    {
+      "Description": "Needs help",
+      "StatName": "Play",
+      "Multiplier": 0.00833333333333333333333333333333,
+      "Unit": "hours played",
+      "Format": "RoundedNumber",
+      "Max": 10
+    },
+    {
+      "Description": "Hates grass",
+      "StatName": "TampRoad",
+      "Multiplier": 1.0,
+      "Unit": "dirt roads tamped",
+      "Format": "RoundedNumber",
+      "Max": 10
+    }
+  ]
+}

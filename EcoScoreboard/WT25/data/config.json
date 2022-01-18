@@ -4,7 +4,15 @@
       "Description": "Craziest miner",
       "StatName": "blocksmined",
       "Multiplier": 1.0,
-      "Unit": "blocks",
+      "Unit": "blocks mined (excl. coal)",
+      "Format": "RoundedNumber",
+      "Max": 10
+    },
+    {
+      "Description": "Phobia of cubes",
+      "StatName": "DigOrMine",
+      "Multiplier": 1.0,
+      "Unit": "blocks mined & dug",
       "Format": "RoundedNumber",
       "Max": 10
     },
@@ -57,6 +65,30 @@
       "Max": 10
     },
     {
+      "Description": "Blame for potholes",
+      "StatName": "federalasphaltroadsplaced",
+      "Multiplier": 1.0,
+      "Unit": "asphalt road blocks placed on federal highway",
+      "Format": "RoundedNumber",
+      "Max": 10
+    },
+    {
+      "Description": "Cobblestone? This isn't minecraft",
+      "StatName": "federalstoneroadsplaced",
+      "Multiplier": 1.0,
+      "Unit": "stone road blocks placed on federal highway",
+      "Format": "RoundedNumber",
+      "Max": 10
+    },
+    {
+      "Description": "Obssessed with rearranging furniture",
+      "StatName": "PlaceOrPickUpObject",
+      "Multiplier": 1.0,
+      "Unit": "world objects placed + removed",
+      "Format": "RoundedNumber",
+      "Max": 10
+    },
+    {
       "Description": "Busiest builder",
       "StatName": "ConstructOrDeconstruct",
       "Multiplier": 1.0,
@@ -105,6 +137,14 @@
       "Max": 10
     },
     {
+      "Description": "Deep pockets",
+      "StatName": "purchased",
+      "Multiplier": 1.0,
+      "Unit": "money spent (at stores)",
+      "Format": "Euros",
+      "Max": 10
+    },
+    {
       "Description": "Richest OAP",
       "StatName": "milipensionperhour",
       "Multiplier": 0.001,
@@ -117,6 +157,14 @@
       "StatName": "DidntVote",
       "Multiplier": 1.0,
       "Unit": "votes ignored",
+      "Format": "RoundedNumber",
+      "Max": 10
+    },
+    {
+      "Description": "Loves democracy",
+      "StatName": "Vote",
+      "Multiplier": 1.0,
+      "Unit": "votes cast",
       "Format": "RoundedNumber",
       "Max": 10
     },
