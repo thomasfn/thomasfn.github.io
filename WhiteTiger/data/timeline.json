@@ -3,30 +3,35 @@
     {
       "Id": 29,
       "Title": "WT29",
-      "Victory": null,
+      "Victory": true,
       "Subtext": "",
       "NotableEvents": [
-        "First playtest on Eco 9.5"
+        "First playtest on Eco 9.5",
+        "Elmeye was Prime Minister",
+        "Shadow The Builder built an epic government building"
       ],
       "HasScoreboard": true
     },
     {
       "Id": 28,
       "Title": "WT28",
-      "Victory": null,
+      "Victory": true,
       "Subtext": "",
-      "NotableEvents": [],
+      "NotableEvents": [
+        "Cycle finished early for playtest"
+      ],
       "HasScoreboard": true
     },
     {
       "Id": 27,
       "Title": "WT27",
-      "Victory": null,
+      "Victory": true,
       "Subtext": "Christmas Cycle #2",
       "NotableEvents": [
         "Mountain Unica lead to elevated highways worldwide",
         "Plant fiber was nerfed heavily",
         "First two PMs elected did not come to work",
+        "Daniel and Elmeye as Mayor and Deputy Mayor",
         "BlueDagger built a floating island and a glass water tunnel"
       ],
       "HasScoreboard": true
@@ -34,13 +39,13 @@
     {
       "Id": 26,
       "Title": "WT26",
-      "Victory": null,
+      "Victory": true,
       "Subtext": "Company Tax/Research Garbage Cycle",
       "NotableEvents": [
         "Some groups reached a point of almost 100% taxation on all sales and transfers",
         "Onyx served 4 terms as PM due to low gov interest",
         "1st week Land claim paper prices fluctuated like an ECG diagram",
-        "We had a spaceship (Star Trek mothership variant)"
+        "Elmeye built the Starship Enterprise-E"
       ],
       "HasScoreboard": true
     },
@@ -57,7 +62,7 @@
     {
       "Id": 24,
       "Title": "WT24",
-      "Victory": null,
+      "Victory": true,
       "Subtext": "VAT/Starvation/Optional Goal Cycle",
       "NotableEvents": [
         "A lot of stuff went wrong on this cycle",
@@ -74,19 +79,20 @@
     {
       "Id": 23,
       "Title": "WT23",
-      "Victory": null,
+      "Victory": true,
       "Subtext": "Birthday Cycle",
       "NotableEvents": [
         "The capital was one of the most beautiful we ever had, with an amazing mayor giving subsidies for everything possible from building materials to food and furniture",
         "Phillip Jay was president",
-        "100 cart revolution protest."
+        "100 cart revolution protest.",
+        "Dreamstate was promoted to GM"
       ],
       "HasScoreboard": false
     },
     {
       "Id": 22,
       "Title": "WT22",
-      "Victory": null,
+      "Victory": true,
       "Subtext": "University Cycle",
       "NotableEvents": [
         "Dreamstate/Elmeye got sued",
@@ -98,28 +104,30 @@
     {
       "Id": 21,
       "Title": "WT21",
-      "Victory": null,
+      "Victory": true,
       "Subtext": "Solar Panel Cycle",
       "NotableEvents": [
         "First cycle with Donation Receipts",
         "The competition was cutthroat and fierce",
         "People got disqualified",
         "Kaapo built epic monument",
-        "Also something something HippoCo and 6k electronics scroll"
+        "Also something something HippoCo and 6k electronics scroll",
+        "Elmeye was promoted to GM"
       ],
       "HasScoreboard": false
     },
     {
       "Id": 20,
       "Title": "WT20",
-      "Victory": null,
+      "Victory": true,
       "Subtext": "Variable Land Claim Paper Cycle",
       "NotableEvents": [
         "Daniel PM first half. In this cycle of White Tiger we had Land Claim Papers with a variable price",
         "The bank director could raise and lower the price of the LCP as they saw fit",
         "It also had a new version of the Emission Permit system where you could purchase the amount of permits you thought you'd need",
         "ELAN and LKAB had around 80% of the EPs until the bank was forced to sell their Emission Permits",
-        "There was a stampede at the Emission Permit shop when this was announced"
+        "There was a stampede at the Emission Permit shop when this was announced",
+        "Roads were 4 claims wide"
       ],
       "HasScoreboard": false
     },
@@ -146,13 +154,13 @@
     {
       "Id": 18,
       "Title": "WT18",
-      "Victory": null,
+      "Victory": true,
       "Subtext": "Labour-tax Christmas Cycle",
       "NotableEvents": [
         "This cycle introduced labour tax",
         "People hated it so much they went into politics and deleted any remains of this law and it was mostly a banned term from that point out",
         "Thomasfn was renamed Thomas the Tax engine",
-        "Daniel got promoted to GM",
+        "Daniel was promoted to GM",
         "Also there were christmas trees and reindeer elk"
       ],
       "HasScoreboard": false
