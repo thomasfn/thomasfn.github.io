@@ -1,0 +1,241 @@
+﻿{
+  "TimelineEntries": [
+    {
+      "Id": 29,
+      "Title": "WT29",
+      "Victory": null,
+      "Subtext": "",
+      "NotableEvents": [
+        "First playtest on Eco 9.5"
+      ],
+      "HasScoreboard": true
+    },
+    {
+      "Id": 28,
+      "Title": "WT28",
+      "Victory": null,
+      "Subtext": "",
+      "NotableEvents": [],
+      "HasScoreboard": true
+    },
+    {
+      "Id": 27,
+      "Title": "WT27",
+      "Victory": null,
+      "Subtext": "Christmas Cycle #2",
+      "NotableEvents": [
+        "Mountain Unica lead to elevated highways worldwide",
+        "Plant fiber was nerfed heavily",
+        "First two PMs elected did not come to work",
+        "BlueDagger built a floating island and a glass water tunnel"
+      ],
+      "HasScoreboard": true
+    },
+    {
+      "Id": 26,
+      "Title": "WT26",
+      "Victory": null,
+      "Subtext": "Company Tax/Research Garbage Cycle",
+      "NotableEvents": [
+        "Some groups reached a point of almost 100% taxation on all sales and transfers",
+        "Onyx served 4 terms as PM due to low gov interest",
+        "1st week Land claim paper prices fluctuated like an ECG diagram",
+        "We had a spaceship (Star Trek mothership variant)"
+      ],
+      "HasScoreboard": true
+    },
+    {
+      "Id": 25,
+      "Title": "WT25",
+      "Victory": false,
+      "Subtext": "UBI/Liquidity Tax/Group Skill Req Cycle",
+      "NotableEvents": [
+        "Gov was flooded with lawsuits and ragequits in early weeks"
+      ],
+      "HasScoreboard": true
+    },
+    {
+      "Id": 24,
+      "Title": "WT24",
+      "Victory": null,
+      "Subtext": "VAT/Starvation/Optional Goal Cycle",
+      "NotableEvents": [
+        "A lot of stuff went wrong on this cycle",
+        "It was a disaster",
+        "The Emission Permit System broke",
+        "Food values were changed and people starved in the streets of Unica",
+        "From this point on, cooks were always going to be rich",
+        "We got new endgame goals",
+        "No longer just a computer lab",
+        "We needed to build bunkers, global power, lasers to be divided among the states"
+      ],
+      "HasScoreboard": true
+    },
+    {
+      "Id": 23,
+      "Title": "WT23",
+      "Victory": null,
+      "Subtext": "Birthday Cycle",
+      "NotableEvents": [
+        "The capital was one of the most beautiful we ever had, with an amazing mayor giving subsidies for everything possible from building materials to food and furniture",
+        "Phillip Jay was president",
+        "100 cart revolution protest."
+      ],
+      "HasScoreboard": false
+    },
+    {
+      "Id": 22,
+      "Title": "WT22",
+      "Victory": null,
+      "Subtext": "University Cycle",
+      "NotableEvents": [
+        "Dreamstate/Elmeye got sued",
+        "Vogeldreck made a race track",
+        "rev made a Sears Tower"
+      ],
+      "HasScoreboard": false
+    },
+    {
+      "Id": 21,
+      "Title": "WT21",
+      "Victory": null,
+      "Subtext": "Solar Panel Cycle",
+      "NotableEvents": [
+        "First cycle with Donation Receipts",
+        "The competition was cutthroat and fierce",
+        "People got disqualified",
+        "Kaapo built epic monument",
+        "Also something something HippoCo and 6k electronics scroll"
+      ],
+      "HasScoreboard": false
+    },
+    {
+      "Id": 20,
+      "Title": "WT20",
+      "Victory": null,
+      "Subtext": "Variable Land Claim Paper Cycle",
+      "NotableEvents": [
+        "Daniel PM first half. In this cycle of White Tiger we had Land Claim Papers with a variable price",
+        "The bank director could raise and lower the price of the LCP as they saw fit",
+        "It also had a new version of the Emission Permit system where you could purchase the amount of permits you thought you'd need",
+        "ELAN and LKAB had around 80% of the EPs until the bank was forced to sell their Emission Permits",
+        "There was a stampede at the Emission Permit shop when this was announced"
+      ],
+      "HasScoreboard": false
+    },
+    {
+      "Id": 19,
+      "Title": "WT19",
+      "Victory": true,
+      "Subtext": "Erato/Valheim Cycle",
+      "NotableEvents": [
+        "Erato was a friendly player who took the banking system to the extreme",
+        "Paying loans with new loans",
+        "Buying up a lot of property in the city while doing nothing with them",
+        "Selling cars filled with tailings",
+        "It was also the first cycle where we had Emission Permits",
+        "You could buy and sell permits to other people and use them to pay for the pollution you created",
+        "People went into 100.000 negative EP and eventually got bailed out by something trivial like 20 cents on the Dollar (we had Dollar back then)",
+        "Also Valheim released and a lot of people left",
+        "There was also a big trial when BasTheBear was caught doing naughty things in chat",
+        "Riots ensued in the streets of Unica until a fair verdict was found",
+        "After many hours of deliberation the judges came to the conclusion that BasTheBear should work off his debt to society by digging a tunnel through a mountain for 10 hours"
+      ],
+      "HasScoreboard": false
+    },
+    {
+      "Id": 18,
+      "Title": "WT18",
+      "Victory": null,
+      "Subtext": "Labour-tax Christmas Cycle",
+      "NotableEvents": [
+        "This cycle introduced labour tax",
+        "People hated it so much they went into politics and deleted any remains of this law and it was mostly a banned term from that point out",
+        "Thomasfn was renamed Thomas the Tax engine",
+        "Daniel got promoted to GM",
+        "Also there were christmas trees and reindeer elk"
+      ],
+      "HasScoreboard": false
+    },
+    {
+      "Id": 17,
+      "Title": "WT17",
+      "Victory": false,
+      "Subtext": "",
+      "NotableEvents": [
+        "Nemo - Mr Magic was mayor",
+        "ELAN had 99% of all money in the world and only bought bison carcass"
+      ],
+      "HasScoreboard": false
+    },
+    {
+      "Id": 16,
+      "Title": "WT16",
+      "Victory": null,
+      "Subtext": "Thanos Cycle",
+      "NotableEvents": [
+        "Where a law made half the population disappear with 1 law",
+        "Both ELAN and LKAB got fudged on that one",
+        "The 2 biggest groups were competing to shoot down the meteor",
+        "A law was made that only allowed the PM to do this"
+      ],
+      "HasScoreboard": false
+    },
+    {
+      "Id": 15,
+      "Title": "WT15",
+      "Victory": null,
+      "Subtext": "9.0 Staging Cycle",
+      "NotableEvents": [
+        "This cycle was not public",
+        "The 9.0 playtesters + those who bought the bigger ECO supporter packs were able to play"
+      ],
+      "HasScoreboard": false
+    },
+    {
+      "Id": 14,
+      "Title": "WT14",
+      "Victory": null,
+      "Subtext": "",
+      "NotableEvents": [
+        "Jungle Capital",
+        "Hiroyugane(GM) was PM most of the time."
+      ],
+      "HasScoreboard": false
+    },
+    {
+      "Id": 13,
+      "Title": "WT13",
+      "Victory": false,
+      "Subtext": "",
+      "NotableEvents": [
+        "Capital was in the mountains this cycle",
+        "People were very tired of mining basements due to all basalt",
+        "Meteor won this cycle even though Ice Forge, Hiogu and Jacco fought bravely to the end"
+      ],
+      "HasScoreboard": false
+    },
+    {
+      "Id": 12,
+      "Title": "WT12",
+      "Victory": true,
+      "Subtext": "The Otter Cycle",
+      "NotableEvents": [
+        "After successful meteor shooting Dennis spawned another meteor along with a million otters"
+      ],
+      "HasScoreboard": false
+    },
+    {
+      "Id": 11,
+      "Title": "WT11",
+      "Victory": true,
+      "Subtext": "The First Cycle",
+      "NotableEvents": [
+        "First WT. GORM Corp (gande octe rev megagroda) shot down the meteor",
+        "Kaapo built epic monument",
+        "Capital had severe chunk loading issues"
+      ],
+      "HasScoreboard": false
+    }
+  ]
+}
