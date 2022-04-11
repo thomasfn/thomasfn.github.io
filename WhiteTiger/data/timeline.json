@@ -179,7 +179,7 @@
     {
       "Id": 16,
       "Title": "WT16",
-      "Victory": null,
+      "Victory": true,
       "Subtext": "Thanos Cycle",
       "NotableEvents": [
         "Where a law made half the population disappear with 1 law",
@@ -192,18 +192,21 @@
     {
       "Id": 15,
       "Title": "WT15",
-      "Victory": null,
+      "StartDate": "17/7/2020",
+      "Victory": true,
       "Subtext": "9.0 Staging Cycle",
       "NotableEvents": [
         "This cycle was not public",
-        "The 9.0 playtesters + those who bought the bigger ECO supporter packs were able to play"
+        "The 9.0 playtesters + those who bought the bigger ECO supporter packs were able to play",
+        "Nemo - Mr Magic pulled trigger on lasers"
       ],
       "HasScoreboard": false
     },
     {
       "Id": 14,
       "Title": "WT14",
-      "Victory": null,
+      "StartDate": "18/2/2020",
+      "Victory": true,
       "Subtext": "",
       "NotableEvents": [
         "Jungle Capital",
@@ -214,6 +217,7 @@
     {
       "Id": 13,
       "Title": "WT13",
+      "StartDate": "29/11/2019",
       "Victory": false,
       "Subtext": "",
       "NotableEvents": [
@@ -226,6 +230,8 @@
     {
       "Id": 12,
       "Title": "WT12",
+      "StartDate": "13/9/2019",
+      "EndDate": "10/10/2019",
       "Victory": true,
       "Subtext": "The Otter Cycle",
       "NotableEvents": [
@@ -236,6 +242,7 @@
     {
       "Id": 11,
       "Title": "WT11",
+      "StartDate": "2/8/2019",
       "Victory": true,
       "Subtext": "The First Cycle",
       "NotableEvents": [
