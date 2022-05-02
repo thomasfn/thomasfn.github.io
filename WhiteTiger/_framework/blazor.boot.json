@@ -7,7 +7,7 @@
   "linkerEnabled": true,
   "resources": {
     "assembly": {
-      "EcoWhiteTigerScoreboard.Frontend.dll": "sha256-k7GA\/+6BwhwU5ZqCOuFYhoB9AF1wjvgv\/kQwH1Ivgig=",
+      "EcoWhiteTigerScoreboard.Frontend.dll": "sha256-i3wx7\/Q0S5BFmGqTXIB4HhpZ\/xDoCF3Qz6Cc7em3RzY=",
       "Microsoft.AspNetCore.Components.dll": "sha256-FNjv80EiXVpsL9EzVI+Z7jq7h+Vucaw8X4yd8nzIL4c=",
       "Microsoft.AspNetCore.Components.Forms.dll": "sha256-ILDWELV8EnbBMdxBm+PcqIQqyvWLetEAl7KGi+TVTDE=",
       "Microsoft.AspNetCore.Components.Web.dll": "sha256-Xa00NvdosdhmXjGJn+qrLVOV6U\/C41ut7Cu5B8DT8Fc=",
@@ -44,9 +44,9 @@
       "System.ObjectModel.dll": "sha256-dg8hU1tUmlXGIh7zG+qsrRLObvyTixEUo6YuLrJLxAg=",
       "System.Private.CoreLib.dll": "sha256-5lI6yRkFamoWfkd8Cpf3RiiKRLfxiroeRSjhCd\/kynU=",
       "System.Private.Runtime.InteropServices.JavaScript.dll": "sha256-5a3+TxHfMxN78esEAMxKpXQ8Ms9eOqAHunkoFY8MbTU=",
-      "System.Private.Uri.dll": "sha256-4f1BSjGiSSB4tAzcqdyhuole7dGraQ+6LF0mvFOpD5U=",
+      "System.Private.Uri.dll": "sha256-8KxlySDu1VXXrMIXFh3b0cjr1jqbTAAcmBJ5s8ByjvI=",
       "System.Runtime.CompilerServices.Unsafe.dll": "sha256-pboIs9f2VIFXqCFHxgzhAkwhq+Vjkbm4tbx1jlqlCAs=",
-      "System.Runtime.dll": "sha256-GtBpmwVR2WUgD0wRT+yhJc5pTC2UCpAWQzFATjfBmkI=",
+      "System.Runtime.dll": "sha256-upo5lYHXE1YKe1IgQBlJccLkabbRRa5nnygzaAHoEwQ=",
       "System.Runtime.InteropServices.RuntimeInformation.dll": "sha256-7OVcnv96gJSFTrh90xHbPtLuP3eEMBonHn\/cto70WSE=",
       "System.Runtime.Numerics.dll": "sha256-kEPwcGaO2aMB18JO6haoqc8XTzDLC6ES8C5LjFhYmrw=",
       "System.Text.Encodings.Web.dll": "sha256-I9H\/oBAXuKgbDZypJILfJASFnsQSvLdkNo\/vOKDBXBY=",

@@ -4,19 +4,79 @@
       "Id": 30,
       "Title": "WT30",
       "StartDate": "1/4/2022",
-      "Victory": null,
-      "Subtext": "",
+      "Victory": true,
+      "Victories": {
+        "Domination": {
+          "Achieved": false,
+          "Conditions": [
+            "The office of Prime Minister must be held by the same player throughout the whole cycle.",
+            "A personal cult around the Prime Minister must be established and visible throughout the country.",
+            "The Prime Minister must have acted within the boundaries of the constitution at all times."
+          ],
+          "Rewards": [
+            "For the following cycle, the sitting Prime Minister may choose to become President and to add one twist to the server concept. (Agreement with Game Masters required)"
+          ]
+        },
+        "Science": {
+          "Achieved": false,
+          "Conditions": [
+            "A spaceport carrying a rocket must be built.",
+            "A library with at least 5 copies of each Skill Book must be established in the Federal University.",
+            "The population on the server needs to achieve at least 35 “Global Level-Ups” (visible in the tooltip for the specialty) for each of the following specialties: Electronics, Industry"
+          ],
+          "Rewards": [
+            "In the following cycle, the Federal University starts with 1.000 pieces of each Basic Research Paper and the Minister of Education may continue his office until the first general election ends."
+          ]
+        },
+        "Diplomatic": {
+          "Achieved": false,
+          "Conditions": [
+            "All four states must build iconic embassy buildings in Unica.",
+            "All four states must have had a Governor throughout the vast majority of the cycle and have one during the victory ceremony."
+          ],
+          "Rewards": [
+            "For the following cycle, the currently sitting Governors may collegially determine the borders, location and size of the four states after having seen the new map."
+          ]
+        },
+        "Religion": {
+          "Achieved": false,
+          "Conditions": [
+            "At least one fictitious and fun religion must be founded and the majority of active citizens at the time of the victory ceremony must be followers of any religion.",
+            "A religion must build at least one prestigious church building, appoint members into fitting religious offices and at least conduct minor role play supporting it.",
+            "A religion must charge their followers a membership fee."
+          ],
+          "Rewards": [
+            "For the next cycle, the religion with the most followers at the end of the cycle becomes state-religion with a tax funded government office."
+          ]
+        },
+        "Culture": {
+          "Achieved": true,
+          "Conditions": [
+            "All buildings in the government district of Unica must be built to be iconic and merge their gameplay functionality with aesthetic and roleplay supporting decorations in a manner that makes the buildings look like a usable prestigious real-life counterpart.",
+            "The Presidential Square in Unica must be upgraded to a monumental Presidential Palace and feature a realistic civil defense bunker for the general public underground."
+          ],
+          "Rewards": [
+            "For the following cycle, the recipes for T4 building materials and furniture are changed to make their costs on par with T3 materials and furniture."
+          ]
+        }
+      },
+      "Subtext": "9.5 Playtest Cycle #2",
       "NotableEvents": [
-        "Second playtest on Eco 9.5"
+        "Second playtest on Eco 9.5",
+        "Unica had a moat which everyone loved",
+        "TserMatt made a newspaper called 'The Verbose Tiger'",
+        "24/7, a tree cutting company, got sued for cutting trees",
+        "Carts were buggy for a while and couldn't be interacted with, leading to a cart graveyard",
+        "The last week had mini meteors leading up to the end"
       ],
-      "HasScoreboard": false
+      "HasScoreboard": true
     },
     {
       "Id": 29,
       "Title": "WT29",
       "StartDate": "25/2/2022",
       "Victory": true,
-      "Subtext": "",
+      "Subtext": "9.5 Playtest Cycle #1",
       "NotableEvents": [
         "First playtest on Eco 9.5",
         "Elmeye was Prime Minister",
