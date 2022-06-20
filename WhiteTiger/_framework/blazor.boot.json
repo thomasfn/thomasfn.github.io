@@ -7,7 +7,7 @@
   "linkerEnabled": true,
   "resources": {
     "assembly": {
-      "EcoWhiteTigerScoreboard.Frontend.dll": "sha256-i3wx7\/Q0S5BFmGqTXIB4HhpZ\/xDoCF3Qz6Cc7em3RzY=",
+      "EcoWhiteTigerScoreboard.Frontend.dll": "sha256-A2jCbVXPjXtX5AXTXt6GlFp62MKY4JZ6UNWgvtJviqs=",
       "Microsoft.AspNetCore.Components.dll": "sha256-FNjv80EiXVpsL9EzVI+Z7jq7h+Vucaw8X4yd8nzIL4c=",
       "Microsoft.AspNetCore.Components.Forms.dll": "sha256-ILDWELV8EnbBMdxBm+PcqIQqyvWLetEAl7KGi+TVTDE=",
       "Microsoft.AspNetCore.Components.Web.dll": "sha256-Xa00NvdosdhmXjGJn+qrLVOV6U\/C41ut7Cu5B8DT8Fc=",
