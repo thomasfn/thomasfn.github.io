@@ -1,0 +1,2164 @@
+{
+  "FoodItems": [
+    {
+      "InternalName": "AcornItem",
+      "Name": "Acorn",
+      "NamePlural": "Acorns",
+      "Calories": 0.0,
+      "Carbs": 0.0,
+      "Vitamins": 0.0,
+      "Protein": 0.0,
+      "Fat": 0.0
+    },
+    {
+      "InternalName": "AcornPowderItem",
+      "Name": "Acorn Powder",
+      "NamePlural": "Acorn Powder",
+      "Calories": 40.0,
+      "Carbs": 1.0,
+      "Vitamins": 5.0,
+      "Protein": 5.0,
+      "Fat": 2.0
+    },
+    {
+      "InternalName": "AgaveLeavesItem",
+      "Name": "Agave Leaves",
+      "NamePlural": "Agave Leaves",
+      "Calories": 200.0,
+      "Carbs": 2.0,
+      "Vitamins": 4.0,
+      "Protein": 1.0,
+      "Fat": 1.0
+    },
+    {
+      "InternalName": "AgaveSeedItem",
+      "Name": "Agave Seed",
+      "NamePlural": "Agave Seeds",
+      "Calories": 0.0,
+      "Carbs": 0.0,
+      "Vitamins": 0.0,
+      "Protein": 0.0,
+      "Fat": 0.0
+    },
+    {
+      "InternalName": "AgoutiEnchiladasItem",
+      "Name": "Agouti Enchiladas",
+      "NamePlural": "Agouti Enchiladas",
+      "Calories": 800.0,
+      "Carbs": 20.0,
+      "Vitamins": 3.0,
+      "Protein": 8.0,
+      "Fat": 27.0
+    },
+    {
+      "InternalName": "AmanitaMushroomSporesItem",
+      "Name": "Amanita Mushroom Spores",
+      "NamePlural": "Amanita Mushroom Spores",
+      "Calories": 0.0,
+      "Carbs": 0.0,
+      "Vitamins": 0.0,
+      "Protein": 0.0,
+      "Fat": 0.0
+    },
+    {
+      "InternalName": "AmanitaMushroomsItem",
+      "Name": "Amanita Mushrooms",
+      "NamePlural": "Amanita Mushrooms",
+      "Calories": -200.0,
+      "Carbs": 0.0,
+      "Vitamins": 0.0,
+      "Protein": 0.0,
+      "Fat": 0.0
+    },
+    {
+      "InternalName": "ArcticWillowSeedItem",
+      "Name": "Arctic Willow Seed",
+      "NamePlural": "Arctic Willow Seeds",
+      "Calories": 0.0,
+      "Carbs": 0.0,
+      "Vitamins": 0.0,
+      "Protein": 0.0,
+      "Fat": 0.0
+    },
+    {
+      "InternalName": "AutumnStewItem",
+      "Name": "Autumn Stew",
+      "NamePlural": "Autumn Stews",
+      "Calories": 1200.0,
+      "Carbs": 13.0,
+      "Vitamins": 12.0,
+      "Protein": 8.0,
+      "Fat": 5.0
+    },
+    {
+      "InternalName": "BakedAgaveItem",
+      "Name": "Baked Agave",
+      "NamePlural": "Baked Agaves",
+      "Calories": 700.0,
+      "Carbs": 14.0,
+      "Vitamins": 8.0,
+      "Protein": 2.0,
+      "Fat": 4.0
+    },
+    {
+      "InternalName": "BakedBeetItem",
+      "Name": "Baked Beet",
+      "NamePlural": "Baked Beets",
+      "Calories": 700.0,
+      "Carbs": 10.0,
+      "Vitamins": 15.0,
+      "Protein": 1.0,
+      "Fat": 2.0
+    },
+    {
+      "InternalName": "BakedCornItem",
+      "Name": "Baked Corn",
+      "NamePlural": "Baked Corn",
+      "Calories": 700.0,
+      "Carbs": 12.0,
+      "Vitamins": 11.0,
+      "Protein": 3.0,
+      "Fat": 2.0
+    },
+    {
+      "InternalName": "BakedHeartOfPalmItem",
+      "Name": "Baked Heart Of Palm",
+      "NamePlural": "Baked Hearts Of Palm",
+      "Calories": 700.0,
+      "Carbs": 12.0,
+      "Vitamins": 6.0,
+      "Protein": 6.0,
+      "Fat": 4.0
+    },
+    {
+      "InternalName": "BakedMeatItem",
+      "Name": "Baked Meat",
+      "NamePlural": "Baked Meat",
+      "Calories": 700.0,
+      "Carbs": 0.0,
+      "Vitamins": 0.0,
+      "Protein": 17.0,
+      "Fat": 13.0
+    },
+    {
+      "InternalName": "BakedRoastItem",
+      "Name": "Baked Roast",
+      "NamePlural": "Baked Roasts",
+      "Calories": 1000.0,
+      "Carbs": 4.0,
+      "Vitamins": 4.0,
+      "Protein": 16.0,
+      "Fat": 10.0
+    },
+    {
+      "InternalName": "BakedTaroItem",
+      "Name": "Baked Taro",
+      "NamePlural": "Baked Taros",
+      "Calories": 700.0,
+      "Carbs": 8.0,
+      "Vitamins": 12.0,
+      "Protein": 6.0,
+      "Fat": 2.0
+    },
+    {
+      "InternalName": "BakedTomatoItem",
+      "Name": "Baked Tomato",
+      "NamePlural": "Baked Tomatoes",
+      "Calories": 700.0,
+      "Carbs": 16.0,
+      "Vitamins": 6.0,
+      "Protein": 1.0,
+      "Fat": 5.0
+    },
+    {
+      "InternalName": "BanhXeoItem",
+      "Name": "Banh Xeo",
+      "NamePlural": "Banh Xeos",
+      "Calories": 1550.0,
+      "Carbs": 26.0,
+      "Vitamins": 4.0,
+      "Protein": 17.0,
+      "Fat": 10.0
+    },
+    {
+      "InternalName": "BannockItem",
+      "Name": "Bannock",
+      "NamePlural": "Bannocks",
+      "Calories": 700.0,
+      "Carbs": 15.0,
+      "Vitamins": 0.0,
+      "Protein": 3.0,
+      "Fat": 6.0
+    },
+    {
+      "InternalName": "BarrelCactusSeedItem",
+      "Name": "Barrel Cactus Seed",
+      "NamePlural": "Barrel Cactus Seeds",
+      "Calories": 0.0,
+      "Carbs": 0.0,
+      "Vitamins": 0.0,
+      "Protein": 0.0,
+      "Fat": 0.0
+    },
+    {
+      "InternalName": "BasicSaladItem",
+      "Name": "Basic Salad",
+      "NamePlural": "Basic Salads",
+      "Calories": 800.0,
+      "Carbs": 18.0,
+      "Vitamins": 10.0,
+      "Protein": 6.0,
+      "Fat": 4.0
+    },
+    {
+      "InternalName": "BeanPasteItem",
+      "Name": "Bean Paste",
+      "NamePlural": "Bean Paste",
+      "Calories": 40.0,
+      "Carbs": 3.0,
+      "Vitamins": 0.0,
+      "Protein": 5.0,
+      "Fat": 7.0
+    },
+    {
+      "InternalName": "BeanSproutItem",
+      "Name": "Bean Sprout",
+      "NamePlural": "Bean Sprouts",
+      "Calories": 100.0,
+      "Carbs": 2.0,
+      "Vitamins": 5.0,
+      "Protein": 1.0,
+      "Fat": 0.0
+    },
+    {
+      "InternalName": "BeansItem",
+      "Name": "Beans",
+      "NamePlural": "Beans",
+      "Calories": 150.0,
+      "Carbs": 1.0,
+      "Vitamins": 0.0,
+      "Protein": 4.0,
+      "Fat": 3.0
+    },
+    {
+      "InternalName": "BearSUPREMEItem",
+      "Name": "Bear S U P R E M E",
+      "NamePlural": "Bear S U P R E M Es",
+      "Calories": 1250.0,
+      "Carbs": 6.0,
+      "Vitamins": 9.0,
+      "Protein": 22.0,
+      "Fat": 23.0
+    },
+    {
+      "InternalName": "BearclawItem",
+      "Name": "Bearclaw",
+      "NamePlural": "Bearclaws",
+      "Calories": 850.0,
+      "Carbs": 14.0,
+      "Vitamins": 7.0,
+      "Protein": 4.0,
+      "Fat": 21.0
+    },
+    {
+      "InternalName": "BeetItem",
+      "Name": "Beet",
+      "NamePlural": "Beets",
+      "Calories": 230.0,
+      "Carbs": 2.0,
+      "Vitamins": 4.0,
+      "Protein": 0.0,
+      "Fat": 2.0
+    },
+    {
+      "InternalName": "BeetCampfireSaladItem",
+      "Name": "Beet Campfire Salad",
+      "NamePlural": "Beet Campfire Salads",
+      "Calories": 900.0,
+      "Carbs": 8.0,
+      "Vitamins": 13.0,
+      "Protein": 4.0,
+      "Fat": 3.0
+    },
+    {
+      "InternalName": "BeetGreensItem",
+      "Name": "Beet Greens",
+      "NamePlural": "Beet Greens",
+      "Calories": 100.0,
+      "Carbs": 3.0,
+      "Vitamins": 4.0,
+      "Protein": 1.0,
+      "Fat": 0.0
+    },
+    {
+      "InternalName": "BeetSeedItem",
+      "Name": "Beet Seed",
+      "NamePlural": "Beet Seeds",
+      "Calories": 0.0,
+      "Carbs": 0.0,
+      "Vitamins": 0.0,
+      "Protein": 0.0,
+      "Fat": 0.0
+    },
+    {
+      "InternalName": "BigBluestemSeedItem",
+      "Name": "Big Bluestem Seed",
+      "NamePlural": "Big Bluestem Seeds",
+      "Calories": 0.0,
+      "Carbs": 0.0,
+      "Vitamins": 0.0,
+      "Protein": 0.0,
+      "Fat": 0.0
+    },
+    {
+      "InternalName": "BirchSeedItem",
+      "Name": "Birch Seed",
+      "NamePlural": "Birch Seeds",
+      "Calories": 0.0,
+      "Carbs": 0.0,
+      "Vitamins": 0.0,
+      "Protein": 0.0,
+      "Fat": 0.0
+    },
+    {
+      "InternalName": "BisonChowFunItem",
+      "Name": "Bison Chow Fun",
+      "NamePlural": "Bison Chow Funs",
+      "Calories": 1450.0,
+      "Carbs": 32.0,
+      "Vitamins": 3.0,
+      "Protein": 7.0,
+      "Fat": 14.0
+    },
+    {
+      "InternalName": "BoiledGrainsItem",
+      "Name": "Boiled Grains",
+      "NamePlural": "Boiled Grains",
+      "Calories": 350.0,
+      "Carbs": 9.0,
+      "Vitamins": 1.0,
+      "Protein": 2.0,
+      "Fat": 0.0
+    },
+    {
+      "InternalName": "BoiledRiceItem",
+      "Name": "Boiled Rice",
+      "NamePlural": "Boiled Rice",
+      "Calories": 210.0,
+      "Carbs": 13.0,
+      "Vitamins": 0.0,
+      "Protein": 2.0,
+      "Fat": 0.0
+    },
+    {
+      "InternalName": "BoiledSausageItem",
+      "Name": "Boiled Sausage",
+      "NamePlural": "Boiled Sausages",
+      "Calories": 600.0,
+      "Carbs": 0.0,
+      "Vitamins": 0.0,
+      "Protein": 27.0,
+      "Fat": 22.0
+    },
+    {
+      "InternalName": "BoleteMushroomSporesItem",
+      "Name": "Bolete Mushroom Spores",
+      "NamePlural": "Bolete Mushroom Spores",
+      "Calories": 0.0,
+      "Carbs": 0.0,
+      "Vitamins": 0.0,
+      "Protein": 0.0,
+      "Fat": 0.0
+    },
+    {
+      "InternalName": "BoleteMushroomsItem",
+      "Name": "Bolete Mushrooms",
+      "NamePlural": "Bolete Mushrooms",
+      "Calories": 200.0,
+      "Carbs": 2.0,
+      "Vitamins": 1.0,
+      "Protein": 4.0,
+      "Fat": 1.0
+    },
+    {
+      "InternalName": "BreadItem",
+      "Name": "Bread",
+      "NamePlural": "Bread",
+      "Calories": 750.0,
+      "Carbs": 23.0,
+      "Vitamins": 2.0,
+      "Protein": 6.0,
+      "Fat": 4.0
+    },
+    {
+      "InternalName": "BullrushSeedItem",
+      "Name": "Bullrush Seed",
+      "NamePlural": "Bullrush Seeds",
+      "Calories": 0.0,
+      "Carbs": 0.0,
+      "Vitamins": 0.0,
+      "Protein": 0.0,
+      "Fat": 0.0
+    },
+    {
+      "InternalName": "BunchgrassSeedItem",
+      "Name": "Bunchgrass Seed",
+      "NamePlural": "Bunchgrass Seeds",
+      "Calories": 0.0,
+      "Carbs": 0.0,
+      "Vitamins": 0.0,
+      "Protein": 0.0,
+      "Fat": 0.0
+    },
+    {
+      "InternalName": "CamasBreadItem",
+      "Name": "Camas Bread",
+      "NamePlural": "Camas Bread",
+      "Calories": 800.0,
+      "Carbs": 13.0,
+      "Vitamins": 7.0,
+      "Protein": 5.0,
+      "Fat": 11.0
+    },
+    {
+      "InternalName": "CamasBulbItem",
+      "Name": "Camas Bulb",
+      "NamePlural": "Camas Bulbs",
+      "Calories": 150.0,
+      "Carbs": 1.0,
+      "Vitamins": 0.0,
+      "Protein": 2.0,
+      "Fat": 5.0
+    },
+    {
+      "InternalName": "CamasBulbBakeItem",
+      "Name": "Camas Bulb Bake",
+      "NamePlural": "Camas Bulb Bakes",
+      "Calories": 700.0,
+      "Carbs": 12.0,
+      "Vitamins": 4.0,
+      "Protein": 7.0,
+      "Fat": 5.0
+    },
+    {
+      "InternalName": "CamasPasteItem",
+      "Name": "Camas Paste",
+      "NamePlural": "Camas Paste",
+      "Calories": 60.0,
+      "Carbs": 3.0,
+      "Vitamins": 0.0,
+      "Protein": 2.0,
+      "Fat": 10.0
+    },
+    {
+      "InternalName": "CampfireRoastItem",
+      "Name": "Campfire Roast",
+      "NamePlural": "Campfire Roasts",
+      "Calories": 1000.0,
+      "Carbs": 0.0,
+      "Vitamins": 0.0,
+      "Protein": 16.0,
+      "Fat": 12.0
+    },
+    {
+      "InternalName": "CampfireSaladItem",
+      "Name": "Campfire Salad",
+      "NamePlural": "Campfire Salads",
+      "Calories": 0.0,
+      "Carbs": 0.0,
+      "Vitamins": 0.0,
+      "Protein": 0.0,
+      "Fat": 0.0
+    },
+    {
+      "InternalName": "CampfireStewItem",
+      "Name": "Campfire Stew",
+      "NamePlural": "Campfire Stews",
+      "Calories": 1200.0,
+      "Carbs": 5.0,
+      "Vitamins": 4.0,
+      "Protein": 10.0,
+      "Fat": 9.0
+    },
+    {
+      "InternalName": "CedarSeedItem",
+      "Name": "Cedar Seed",
+      "NamePlural": "Cedar Seeds",
+      "Calories": 0.0,
+      "Carbs": 0.0,
+      "Vitamins": 0.0,
+      "Protein": 0.0,
+      "Fat": 0.0
+    },
+    {
+      "InternalName": "CeibaSeedItem",
+      "Name": "Ceiba Seed",
+      "NamePlural": "Ceiba Seeds",
+      "Calories": 0.0,
+      "Carbs": 0.0,
+      "Vitamins": 0.0,
+      "Protein": 0.0,
+      "Fat": 0.0
+    },
+    {
+      "InternalName": "CerealGermItem",
+      "Name": "Cereal Germ",
+      "NamePlural": "Cereal Germs",
+      "Calories": 20.0,
+      "Carbs": 5.0,
+      "Vitamins": 3.0,
+      "Protein": 0.0,
+      "Fat": 7.0
+    },
+    {
+      "InternalName": "CharredAgaveItem",
+      "Name": "Charred Agave",
+      "NamePlural": "Charred Agaves",
+      "Calories": 350.0,
+      "Carbs": 5.0,
+      "Vitamins": 3.0,
+      "Protein": 1.0,
+      "Fat": 3.0
+    },
+    {
+      "InternalName": "CharredBeansItem",
+      "Name": "Charred Beans",
+      "NamePlural": "Charred Beans",
+      "Calories": 350.0,
+      "Carbs": 1.0,
+      "Vitamins": 0.0,
+      "Protein": 8.0,
+      "Fat": 3.0
+    },
+    {
+      "InternalName": "CharredBeetItem",
+      "Name": "Charred Beet",
+      "NamePlural": "Charred Beets",
+      "Calories": 350.0,
+      "Carbs": 3.0,
+      "Vitamins": 6.0,
+      "Protein": 0.0,
+      "Fat": 3.0
+    },
+    {
+      "InternalName": "CharredCactusFruitItem",
+      "Name": "Charred Cactus Fruit",
+      "NamePlural": "Charred Cactus Fruits",
+      "Calories": 200.0,
+      "Carbs": 4.0,
+      "Vitamins": 6.0,
+      "Protein": 0.0,
+      "Fat": 2.0
+    },
+    {
+      "InternalName": "CharredCamasBulbItem",
+      "Name": "Charred Camas Bulb",
+      "NamePlural": "Charred Camas Bulbs",
+      "Calories": 350.0,
+      "Carbs": 2.0,
+      "Vitamins": 1.0,
+      "Protein": 3.0,
+      "Fat": 6.0
+    },
+    {
+      "InternalName": "CharredCornItem",
+      "Name": "Charred Corn",
+      "NamePlural": "Charred Corn",
+      "Calories": 350.0,
+      "Carbs": 7.0,
+      "Vitamins": 4.0,
+      "Protein": 1.0,
+      "Fat": 0.0
+    },
+    {
+      "InternalName": "CharredFireweedShootsItem",
+      "Name": "Charred Fireweed Shoots",
+      "NamePlural": "Charred Fireweed Shoots",
+      "Calories": 350.0,
+      "Carbs": 5.0,
+      "Vitamins": 6.0,
+      "Protein": 1.0,
+      "Fat": 0.0
+    },
+    {
+      "InternalName": "CharredFishItem",
+      "Name": "Charred Fish",
+      "NamePlural": "Charred Fish",
+      "Calories": 400.0,
+      "Carbs": 0.0,
+      "Vitamins": 0.0,
+      "Protein": 11.0,
+      "Fat": 4.0
+    },
+    {
+      "InternalName": "CharredHeartOfPalmItem",
+      "Name": "Charred Heart Of Palm",
+      "NamePlural": "Charred Hearts Of Palm",
+      "Calories": 210.0,
+      "Carbs": 6.0,
+      "Vitamins": 2.0,
+      "Protein": 3.0,
+      "Fat": 1.0
+    },
+    {
+      "InternalName": "CharredMeatItem",
+      "Name": "Charred Meat",
+      "NamePlural": "Charred Meat",
+      "Calories": 400.0,
+      "Carbs": 0.0,
+      "Vitamins": 0.0,
+      "Protein": 5.0,
+      "Fat": 10.0
+    },
+    {
+      "InternalName": "CharredMushroomsItem",
+      "Name": "Charred Mushrooms",
+      "NamePlural": "Charred Mushrooms",
+      "Calories": 350.0,
+      "Carbs": 3.0,
+      "Vitamins": 1.0,
+      "Protein": 6.0,
+      "Fat": 2.0
+    },
+    {
+      "InternalName": "CharredPapayaItem",
+      "Name": "Charred Papaya",
+      "NamePlural": "Charred Papayas",
+      "Calories": 350.0,
+      "Carbs": 3.0,
+      "Vitamins": 8.0,
+      "Protein": 1.0,
+      "Fat": 0.0
+    },
+    {
+      "InternalName": "CharredPineappleItem",
+      "Name": "Charred Pineapple",
+      "NamePlural": "Charred Pineapples",
+      "Calories": 350.0,
+      "Carbs": 8.0,
+      "Vitamins": 3.0,
+      "Protein": 1.0,
+      "Fat": 0.0
+    },
+    {
+      "InternalName": "CharredSausageItem",
+      "Name": "Charred Sausage",
+      "NamePlural": "Charred Sausages",
+      "Calories": 700.0,
+      "Carbs": 0.0,
+      "Vitamins": 0.0,
+      "Protein": 10.0,
+      "Fat": 14.0
+    },
+    {
+      "InternalName": "CharredTaroItem",
+      "Name": "Charred Taro",
+      "NamePlural": "Charred Taro",
+      "Calories": 350.0,
+      "Carbs": 10.0,
+      "Vitamins": 1.0,
+      "Protein": 1.0,
+      "Fat": 0.0
+    },
+    {
+      "InternalName": "CharredTomatoItem",
+      "Name": "Charred Tomato",
+      "NamePlural": "Charred Tomatoes",
+      "Calories": 350.0,
+      "Carbs": 7.0,
+      "Vitamins": 4.0,
+      "Protein": 1.0,
+      "Fat": 0.0
+    },
+    {
+      "InternalName": "ClamChowderItem",
+      "Name": "Clam Chowder",
+      "NamePlural": "Clam Chowders",
+      "Calories": 800.0,
+      "Carbs": 21.0,
+      "Vitamins": 2.0,
+      "Protein": 15.0,
+      "Fat": 7.0
+    },
+    {
+      "InternalName": "CookeinaMushroomSporesItem",
+      "Name": "Cookeina Mushroom Spores",
+      "NamePlural": "Cookeina Mushroom Spores",
+      "Calories": 0.0,
+      "Carbs": 0.0,
+      "Vitamins": 0.0,
+      "Protein": 0.0,
+      "Fat": 0.0
+    },
+    {
+      "InternalName": "CookeinaMushroomsItem",
+      "Name": "Cookeina Mushrooms",
+      "NamePlural": "Cookeina Mushrooms",
+      "Calories": 200.0,
+      "Carbs": 2.0,
+      "Vitamins": 1.0,
+      "Protein": 4.0,
+      "Fat": 1.0
+    },
+    {
+      "InternalName": "CornItem",
+      "Name": "Corn",
+      "NamePlural": "Corn",
+      "Calories": 230.0,
+      "Carbs": 4.0,
+      "Vitamins": 3.0,
+      "Protein": 1.0,
+      "Fat": 0.0
+    },
+    {
+      "InternalName": "CornFrittersItem",
+      "Name": "Corn Fritters",
+      "NamePlural": "Corn Fritters",
+      "Calories": 500.0,
+      "Carbs": 13.0,
+      "Vitamins": 8.0,
+      "Protein": 4.0,
+      "Fat": 22.0
+    },
+    {
+      "InternalName": "CornSeedItem",
+      "Name": "Corn Seed",
+      "NamePlural": "Corn Seeds",
+      "Calories": 0.0,
+      "Carbs": 0.0,
+      "Vitamins": 0.0,
+      "Protein": 0.0,
+      "Fat": 0.0
+    },
+    {
+      "InternalName": "CornStarchItem",
+      "Name": "Corn Starch",
+      "NamePlural": "Corn Starches",
+      "Calories": 10.0,
+      "Carbs": 0.0,
+      "Vitamins": 0.0,
+      "Protein": 0.0,
+      "Fat": 0.0
+    },
+    {
+      "InternalName": "CornmealItem",
+      "Name": "Cornmeal",
+      "NamePlural": "Cornmeal",
+      "Calories": 60.0,
+      "Carbs": 9.0,
+      "Vitamins": 0.0,
+      "Protein": 3.0,
+      "Fat": 3.0
+    },
+    {
+      "InternalName": "CottonSeedItem",
+      "Name": "Cotton Seed",
+      "NamePlural": "Cotton Seeds",
+      "Calories": 0.0,
+      "Carbs": 0.0,
+      "Vitamins": 0.0,
+      "Protein": 0.0,
+      "Fat": 0.0
+    },
+    {
+      "InternalName": "CreosoteBushSeedItem",
+      "Name": "Creosote Bush Seed",
+      "NamePlural": "Creosote Bush Seeds",
+      "Calories": 0.0,
+      "Carbs": 0.0,
+      "Vitamins": 0.0,
+      "Protein": 0.0,
+      "Fat": 0.0
+    },
+    {
+      "InternalName": "CriminiMushroomSporesItem",
+      "Name": "Crimini Mushroom Spores",
+      "NamePlural": "Crimini Mushroom Spores",
+      "Calories": 0.0,
+      "Carbs": 0.0,
+      "Vitamins": 0.0,
+      "Protein": 0.0,
+      "Fat": 0.0
+    },
+    {
+      "InternalName": "CriminiMushroomsItem",
+      "Name": "Crimini Mushrooms",
+      "NamePlural": "Crimini Mushrooms",
+      "Calories": 200.0,
+      "Carbs": 2.0,
+      "Vitamins": 1.0,
+      "Protein": 4.0,
+      "Fat": 1.0
+    },
+    {
+      "InternalName": "CrimsonSaladItem",
+      "Name": "Crimson Salad",
+      "NamePlural": "Crimson Salads",
+      "Calories": 1200.0,
+      "Carbs": 15.0,
+      "Vitamins": 24.0,
+      "Protein": 7.0,
+      "Fat": 10.0
+    },
+    {
+      "InternalName": "CrispyBaconItem",
+      "Name": "Crispy Bacon",
+      "NamePlural": "Crispy Bacon",
+      "Calories": 800.0,
+      "Carbs": 0.0,
+      "Vitamins": 0.0,
+      "Protein": 18.0,
+      "Fat": 26.0
+    },
+    {
+      "InternalName": "DwarfWillowSeedItem",
+      "Name": "Dwarf Willow Seed",
+      "NamePlural": "Dwarf Willow Seeds",
+      "Calories": 0.0,
+      "Carbs": 0.0,
+      "Vitamins": 0.0,
+      "Protein": 0.0,
+      "Fat": 0.0
+    },
+    {
+      "InternalName": "ElkTacoItem",
+      "Name": "Elk Taco",
+      "NamePlural": "Elk Tacos",
+      "Calories": 700.0,
+      "Carbs": 15.0,
+      "Vitamins": 6.0,
+      "Protein": 8.0,
+      "Fat": 22.0
+    },
+    {
+      "InternalName": "ElkWellingtonItem",
+      "Name": "Elk Wellington",
+      "NamePlural": "Elk Wellingtons",
+      "Calories": 1450.0,
+      "Carbs": 10.0,
+      "Vitamins": 4.0,
+      "Protein": 26.0,
+      "Fat": 22.0
+    },
+    {
+      "InternalName": "FantasticForestPizzaItem",
+      "Name": "Fantastic Forest Pizza",
+      "NamePlural": "Fantastic Forest Pizzas",
+      "Calories": 1250.0,
+      "Carbs": 27.0,
+      "Vitamins": 13.0,
+      "Protein": 4.0,
+      "Fat": 10.0
+    },
+    {
+      "InternalName": "FernCampfireSaladItem",
+      "Name": "Fern Campfire Salad",
+      "NamePlural": "Fern Campfire Salads",
+      "Calories": 900.0,
+      "Carbs": 9.0,
+      "Vitamins": 13.0,
+      "Protein": 5.0,
+      "Fat": 1.0
+    },
+    {
+      "InternalName": "FernSporeItem",
+      "Name": "Fern Spore",
+      "NamePlural": "Fern Spores",
+      "Calories": 0.0,
+      "Carbs": 0.0,
+      "Vitamins": 0.0,
+      "Protein": 0.0,
+      "Fat": 0.0
+    },
+    {
+      "InternalName": "FiddleheadsItem",
+      "Name": "Fiddleheads",
+      "NamePlural": "Fiddleheads",
+      "Calories": 150.0,
+      "Carbs": 2.0,
+      "Vitamins": 5.0,
+      "Protein": 1.0,
+      "Fat": 0.0
+    },
+    {
+      "InternalName": "FieldCampfireStewItem",
+      "Name": "Field Campfire Stew",
+      "NamePlural": "Field Campfire Stews",
+      "Calories": 1100.0,
+      "Carbs": 12.0,
+      "Vitamins": 4.0,
+      "Protein": 4.0,
+      "Fat": 8.0
+    },
+    {
+      "InternalName": "FilmyFernSporeItem",
+      "Name": "Filmy Fern Spore",
+      "NamePlural": "Filmy Fern Spores",
+      "Calories": 0.0,
+      "Carbs": 0.0,
+      "Vitamins": 0.0,
+      "Protein": 0.0,
+      "Fat": 0.0
+    },
+    {
+      "InternalName": "FirSeedItem",
+      "Name": "Fir Seed",
+      "NamePlural": "Fir Seeds",
+      "Calories": 0.0,
+      "Carbs": 0.0,
+      "Vitamins": 0.0,
+      "Protein": 0.0,
+      "Fat": 0.0
+    },
+    {
+      "InternalName": "FireweedSeedItem",
+      "Name": "Fireweed Seed",
+      "NamePlural": "Fireweed Seeds",
+      "Calories": 0.0,
+      "Carbs": 0.0,
+      "Vitamins": 0.0,
+      "Protein": 0.0,
+      "Fat": 0.0
+    },
+    {
+      "InternalName": "FireweedShootsItem",
+      "Name": "Fireweed Shoots",
+      "NamePlural": "Fireweed Shoots",
+      "Calories": 150.0,
+      "Carbs": 3.0,
+      "Vitamins": 4.0,
+      "Protein": 1.0,
+      "Fat": 0.0
+    },
+    {
+      "InternalName": "FishNChipsItem",
+      "Name": "Fish N Chips",
+      "NamePlural": "Fish N Chips",
+      "Calories": 1000.0,
+      "Carbs": 20.0,
+      "Vitamins": 0.0,
+      "Protein": 10.0,
+      "Fat": 20.0
+    },
+    {
+      "InternalName": "FlatbreadItem",
+      "Name": "Flatbread",
+      "NamePlural": "Flatbreads",
+      "Calories": 500.0,
+      "Carbs": 17.0,
+      "Vitamins": 2.0,
+      "Protein": 8.0,
+      "Fat": 3.0
+    },
+    {
+      "InternalName": "FlaxSeedItem",
+      "Name": "Flax Seed",
+      "NamePlural": "Flax Seeds",
+      "Calories": 0.0,
+      "Carbs": 0.0,
+      "Vitamins": 0.0,
+      "Protein": 0.0,
+      "Fat": 0.0
+    },
+    {
+      "InternalName": "FlourItem",
+      "Name": "Flour",
+      "NamePlural": "Flour",
+      "Calories": 50.0,
+      "Carbs": 15.0,
+      "Vitamins": 0.0,
+      "Protein": 0.0,
+      "Fat": 0.0
+    },
+    {
+      "InternalName": "FriedCamasItem",
+      "Name": "Fried Camas",
+      "NamePlural": "Fried Camas",
+      "Calories": 700.0,
+      "Carbs": 9.0,
+      "Vitamins": 2.0,
+      "Protein": 3.0,
+      "Fat": 10.0
+    },
+    {
+      "InternalName": "FriedFiddleheadsItem",
+      "Name": "Fried Fiddleheads",
+      "NamePlural": "Fried Fiddleheads",
+      "Calories": 700.0,
+      "Carbs": 11.0,
+      "Vitamins": 4.0,
+      "Protein": 3.0,
+      "Fat": 6.0
+    },
+    {
+      "InternalName": "FriedHareHaunchesItem",
+      "Name": "Fried Hare Haunches",
+      "NamePlural": "Fried Hare Haunches",
+      "Calories": 750.0,
+      "Carbs": 6.0,
+      "Vitamins": 4.0,
+      "Protein": 15.0,
+      "Fat": 27.0
+    },
+    {
+      "InternalName": "FriedHeartsOfPalmItem",
+      "Name": "Fried Hearts Of Palm",
+      "NamePlural": "Fried Hearts Of Palm",
+      "Calories": 700.0,
+      "Carbs": 13.0,
+      "Vitamins": 2.0,
+      "Protein": 3.0,
+      "Fat": 6.0
+    },
+    {
+      "InternalName": "FriedTaroItem",
+      "Name": "Fried Taro",
+      "NamePlural": "Fried Taro",
+      "Calories": 700.0,
+      "Carbs": 14.0,
+      "Vitamins": 1.0,
+      "Protein": 1.0,
+      "Fat": 8.0
+    },
+    {
+      "InternalName": "FriedTomatoesItem",
+      "Name": "Fried Tomatoes",
+      "NamePlural": "Fried Tomatoes",
+      "Calories": 700.0,
+      "Carbs": 11.0,
+      "Vitamins": 2.0,
+      "Protein": 3.0,
+      "Fat": 8.0
+    },
+    {
+      "InternalName": "FriedVegetablesItem",
+      "Name": "Fried Vegetables",
+      "NamePlural": "Fried Vegetables",
+      "Calories": 560.0,
+      "Carbs": 11.0,
+      "Vitamins": 2.0,
+      "Protein": 3.0,
+      "Fat": 8.0
+    },
+    {
+      "InternalName": "FruitMuffinItem",
+      "Name": "Fruit Muffin",
+      "NamePlural": "Fruit Muffins",
+      "Calories": 800.0,
+      "Carbs": 10.0,
+      "Vitamins": 16.0,
+      "Protein": 5.0,
+      "Fat": 4.0
+    },
+    {
+      "InternalName": "FruitSaladItem",
+      "Name": "Fruit Salad",
+      "NamePlural": "Fruit Salads",
+      "Calories": 900.0,
+      "Carbs": 12.0,
+      "Vitamins": 19.0,
+      "Protein": 4.0,
+      "Fat": 3.0
+    },
+    {
+      "InternalName": "FruitTartItem",
+      "Name": "Fruit Tart",
+      "NamePlural": "Fruit Tarts",
+      "Calories": 800.0,
+      "Carbs": 22.0,
+      "Vitamins": 14.0,
+      "Protein": 3.0,
+      "Fat": 9.0
+    },
+    {
+      "InternalName": "GiantCactusFruitItem",
+      "Name": "Giant Cactus Fruit",
+      "NamePlural": "Giant Cactus Fruits",
+      "Calories": 100.0,
+      "Carbs": 2.0,
+      "Vitamins": 4.0,
+      "Protein": 0.0,
+      "Fat": 2.0
+    },
+    {
+      "InternalName": "GrassSeedItem",
+      "Name": "Grass Seed",
+      "NamePlural": "Grass Seeds",
+      "Calories": 0.0,
+      "Carbs": 0.0,
+      "Vitamins": 0.0,
+      "Protein": 0.0,
+      "Fat": 0.0
+    },
+    {
+      "InternalName": "HeartOfPalmItem",
+      "Name": "Heart Of Palm",
+      "NamePlural": "Hearts Of Palm",
+      "Calories": 100.0,
+      "Carbs": 4.0,
+      "Vitamins": 2.0,
+      "Protein": 2.0,
+      "Fat": 0.0
+    },
+    {
+      "InternalName": "HeartyHometownPizzaItem",
+      "Name": "Hearty Hometown Pizza",
+      "NamePlural": "Hearty Hometown Pizzas",
+      "Calories": 1200.0,
+      "Carbs": 28.0,
+      "Vitamins": 3.0,
+      "Protein": 7.0,
+      "Fat": 11.0
+    },
+    {
+      "InternalName": "HeliconiaSeedItem",
+      "Name": "Heliconia Seed",
+      "NamePlural": "Heliconia Seeds",
+      "Calories": 0.0,
+      "Carbs": 0.0,
+      "Vitamins": 0.0,
+      "Protein": 0.0,
+      "Fat": 0.0
+    },
+    {
+      "InternalName": "HosomakiItem",
+      "Name": "Hosomaki",
+      "NamePlural": "Hosomaki",
+      "Calories": 700.0,
+      "Carbs": 25.0,
+      "Vitamins": 0.0,
+      "Protein": 23.0,
+      "Fat": 5.0
+    },
+    {
+      "InternalName": "HuckleberriesItem",
+      "Name": "Huckleberries",
+      "NamePlural": "Huckleberries",
+      "Calories": 150.0,
+      "Carbs": 2.0,
+      "Vitamins": 6.0,
+      "Protein": 0.0,
+      "Fat": 0.0
+    },
+    {
+      "InternalName": "HuckleberryExtractItem",
+      "Name": "Huckleberry Extract",
+      "NamePlural": "Huckleberry Extracts",
+      "Calories": 60.0,
+      "Carbs": 0.0,
+      "Vitamins": 15.0,
+      "Protein": 0.0,
+      "Fat": 0.0
+    },
+    {
+      "InternalName": "HuckleberryFritterItem",
+      "Name": "Huckleberry Fritter",
+      "NamePlural": "Huckleberry Fritters",
+      "Calories": 900.0,
+      "Carbs": 16.0,
+      "Vitamins": 8.0,
+      "Protein": 0.0,
+      "Fat": 20.0
+    },
+    {
+      "InternalName": "HuckleberryPieItem",
+      "Name": "Huckleberry Pie",
+      "NamePlural": "Huckleberry Pies",
+      "Calories": 1300.0,
+      "Carbs": 13.0,
+      "Vitamins": 16.0,
+      "Protein": 5.0,
+      "Fat": 10.0
+    },
+    {
+      "InternalName": "HuckleberrySeedItem",
+      "Name": "Huckleberry Seed",
+      "NamePlural": "Huckleberry Seeds",
+      "Calories": 0.0,
+      "Carbs": 0.0,
+      "Vitamins": 0.0,
+      "Protein": 0.0,
+      "Fat": 0.0
+    },
+    {
+      "InternalName": "HydrocolloidsItem",
+      "Name": "Hydrocolloids",
+      "NamePlural": "Hydrocolloids",
+      "Calories": 10.0,
+      "Carbs": 0.0,
+      "Vitamins": 0.0,
+      "Protein": 0.0,
+      "Fat": 0.0
+    },
+    {
+      "InternalName": "InfusedOilItem",
+      "Name": "Infused Oil",
+      "NamePlural": "Infused Oil",
+      "Calories": 120.0,
+      "Carbs": 0.0,
+      "Vitamins": 3.0,
+      "Protein": 0.0,
+      "Fat": 12.0
+    },
+    {
+      "InternalName": "JointfirSeedItem",
+      "Name": "Jointfir Seed",
+      "NamePlural": "Jointfir Seeds",
+      "Calories": 0.0,
+      "Carbs": 0.0,
+      "Vitamins": 0.0,
+      "Protein": 0.0,
+      "Fat": 0.0
+    },
+    {
+      "InternalName": "JoshuaSeedItem",
+      "Name": "Joshua Seed",
+      "NamePlural": "Joshua Seeds",
+      "Calories": 0.0,
+      "Carbs": 0.0,
+      "Vitamins": 0.0,
+      "Protein": 0.0,
+      "Fat": 0.0
+    },
+    {
+      "InternalName": "JungleCampfireSaladItem",
+      "Name": "Jungle Campfire Salad",
+      "NamePlural": "Jungle Campfire Salads",
+      "Calories": 900.0,
+      "Carbs": 11.0,
+      "Vitamins": 10.0,
+      "Protein": 4.0,
+      "Fat": 3.0
+    },
+    {
+      "InternalName": "JungleCampfireStewItem",
+      "Name": "Jungle Campfire Stew",
+      "NamePlural": "Jungle Campfire Stews",
+      "Calories": 1100.0,
+      "Carbs": 6.0,
+      "Vitamins": 3.0,
+      "Protein": 8.0,
+      "Fat": 11.0
+    },
+    {
+      "InternalName": "KelpSeedItem",
+      "Name": "Kelp Seed",
+      "NamePlural": "Kelp Seeds",
+      "Calories": 0.0,
+      "Carbs": 0.0,
+      "Vitamins": 0.0,
+      "Protein": 0.0,
+      "Fat": 0.0
+    },
+    {
+      "InternalName": "KelpyCrabRollItem",
+      "Name": "Kelpy Crab Roll",
+      "NamePlural": "Kelpy Crab Rolls",
+      "Calories": 1350.0,
+      "Carbs": 22.0,
+      "Vitamins": 5.0,
+      "Protein": 13.0,
+      "Fat": 11.0
+    },
+    {
+      "InternalName": "KingFernSporeItem",
+      "Name": "King Fern Spore",
+      "NamePlural": "King Fern Spores",
+      "Calories": 0.0,
+      "Carbs": 0.0,
+      "Vitamins": 0.0,
+      "Protein": 0.0,
+      "Fat": 0.0
+    },
+    {
+      "InternalName": "LatticeMushroomSporesItem",
+      "Name": "Lattice Mushroom Spores",
+      "NamePlural": "Lattice Mushroom Spores",
+      "Calories": 0.0,
+      "Carbs": 0.0,
+      "Vitamins": 0.0,
+      "Protein": 0.0,
+      "Fat": 0.0
+    },
+    {
+      "InternalName": "LeavenedDoughItem",
+      "Name": "Leavened Dough",
+      "NamePlural": "Leavened Doughs",
+      "Calories": 10.0,
+      "Carbs": 6.0,
+      "Vitamins": 5.0,
+      "Protein": 18.0,
+      "Fat": 13.0
+    },
+    {
+      "InternalName": "LiquidNitrogenItem",
+      "Name": "Liquid Nitrogen",
+      "NamePlural": "Liquid Nitrogen",
+      "Calories": 10.0,
+      "Carbs": 0.0,
+      "Vitamins": 0.0,
+      "Protein": 0.0,
+      "Fat": 0.0
+    },
+    {
+      "InternalName": "LoadedTaroFriesItem",
+      "Name": "Loaded Taro Fries",
+      "NamePlural": "Loaded Taro Fries",
+      "Calories": 1200.0,
+      "Carbs": 14.0,
+      "Vitamins": 0.0,
+      "Protein": 6.0,
+      "Fat": 18.0
+    },
+    {
+      "InternalName": "LupineSeedItem",
+      "Name": "Lupine Seed",
+      "NamePlural": "Lupine Seeds",
+      "Calories": 0.0,
+      "Carbs": 0.0,
+      "Vitamins": 0.0,
+      "Protein": 0.0,
+      "Fat": 0.0
+    },
+    {
+      "InternalName": "MacaronsItem",
+      "Name": "Macarons",
+      "NamePlural": "Macarons",
+      "Calories": 1000.0,
+      "Carbs": 20.0,
+      "Vitamins": 16.0,
+      "Protein": 7.0,
+      "Fat": 14.0
+    },
+    {
+      "InternalName": "MaltodextrinItem",
+      "Name": "Maltodextrin",
+      "NamePlural": "Maltodextrins",
+      "Calories": 10.0,
+      "Carbs": 0.0,
+      "Vitamins": 0.0,
+      "Protein": 0.0,
+      "Fat": 0.0
+    },
+    {
+      "InternalName": "MeatPieItem",
+      "Name": "Meat Pie",
+      "NamePlural": "Meat Pies",
+      "Calories": 1300.0,
+      "Carbs": 18.0,
+      "Vitamins": 2.0,
+      "Protein": 4.0,
+      "Fat": 20.0
+    },
+    {
+      "InternalName": "MeatStockItem",
+      "Name": "Meat Stock",
+      "NamePlural": "Meat Stocks",
+      "Calories": 600.0,
+      "Carbs": 3.0,
+      "Vitamins": 0.0,
+      "Protein": 8.0,
+      "Fat": 9.0
+    },
+    {
+      "InternalName": "MeatyStewItem",
+      "Name": "Meaty Stew",
+      "NamePlural": "Meaty Stews",
+      "Calories": 1100.0,
+      "Carbs": 4.0,
+      "Vitamins": 1.0,
+      "Protein": 13.0,
+      "Fat": 10.0
+    },
+    {
+      "InternalName": "MilkItem",
+      "Name": "Milk",
+      "NamePlural": "Milk",
+      "Calories": 120.0,
+      "Carbs": 3.0,
+      "Vitamins": 0.0,
+      "Protein": 10.0,
+      "Fat": 7.0
+    },
+    {
+      "InternalName": "MillionairesSaladItem",
+      "Name": "Millionaires Salad",
+      "NamePlural": "Millionaires Salads",
+      "Calories": 1000.0,
+      "Carbs": 18.0,
+      "Vitamins": 26.0,
+      "Protein": 6.0,
+      "Fat": 6.0
+    },
+    {
+      "InternalName": "MochiItem",
+      "Name": "Mochi",
+      "NamePlural": "Mochis",
+      "Calories": 750.0,
+      "Carbs": 25.0,
+      "Vitamins": 5.0,
+      "Protein": 0.0,
+      "Fat": 0.0
+    },
+    {
+      "InternalName": "OceanSpraySeedItem",
+      "Name": "Ocean Spray Seed",
+      "NamePlural": "Ocean Spray Seeds",
+      "Calories": 0.0,
+      "Carbs": 0.0,
+      "Vitamins": 0.0,
+      "Protein": 0.0,
+      "Fat": 0.0
+    },
+    {
+      "InternalName": "OilItem",
+      "Name": "Oil",
+      "NamePlural": "Oil",
+      "Calories": 120.0,
+      "Carbs": 0.0,
+      "Vitamins": 0.0,
+      "Protein": 0.0,
+      "Fat": 15.0
+    },
+    {
+      "InternalName": "OrchidSeedItem",
+      "Name": "Orchid Seed",
+      "NamePlural": "Orchid Seeds",
+      "Calories": 0.0,
+      "Carbs": 0.0,
+      "Vitamins": 0.0,
+      "Protein": 0.0,
+      "Fat": 0.0
+    },
+    {
+      "InternalName": "PalmSeedItem",
+      "Name": "Palm Seed",
+      "NamePlural": "Palm Seeds",
+      "Calories": 0.0,
+      "Carbs": 0.0,
+      "Vitamins": 0.0,
+      "Protein": 0.0,
+      "Fat": 0.0
+    },
+    {
+      "InternalName": "PapayaItem",
+      "Name": "Papaya",
+      "NamePlural": "Papayas",
+      "Calories": 200.0,
+      "Carbs": 2.0,
+      "Vitamins": 5.0,
+      "Protein": 1.0,
+      "Fat": 0.0
+    },
+    {
+      "InternalName": "PapayaSeedItem",
+      "Name": "Papaya Seed",
+      "NamePlural": "Papaya Seeds",
+      "Calories": 0.0,
+      "Carbs": 0.0,
+      "Vitamins": 0.0,
+      "Protein": 0.0,
+      "Fat": 0.0
+    },
+    {
+      "InternalName": "PastryDoughItem",
+      "Name": "Pastry Dough",
+      "NamePlural": "Pastry Doughs",
+      "Calories": 10.0,
+      "Carbs": 4.0,
+      "Vitamins": 4.0,
+      "Protein": 0.0,
+      "Fat": 0.0
+    },
+    {
+      "InternalName": "PhadThaiItem",
+      "Name": "Phad Thai",
+      "NamePlural": "Phad Thais",
+      "Calories": 1200.0,
+      "Carbs": 9.0,
+      "Vitamins": 3.0,
+      "Protein": 13.0,
+      "Fat": 19.0
+    },
+    {
+      "InternalName": "PineappleItem",
+      "Name": "Pineapple",
+      "NamePlural": "Pineapples",
+      "Calories": 200.0,
+      "Carbs": 6.0,
+      "Vitamins": 2.0,
+      "Protein": 0.0,
+      "Fat": 0.0
+    },
+    {
+      "InternalName": "PineappleFriendRiceItem",
+      "Name": "Pineapple Friend Rice",
+      "NamePlural": "Pineapple Friend Rices",
+      "Calories": 720.0,
+      "Carbs": 20.0,
+      "Vitamins": 9.0,
+      "Protein": 12.0,
+      "Fat": 12.0
+    },
+    {
+      "InternalName": "PineappleSeedItem",
+      "Name": "Pineapple Seed",
+      "NamePlural": "Pineapple Seeds",
+      "Calories": 0.0,
+      "Carbs": 0.0,
+      "Vitamins": 0.0,
+      "Protein": 0.0,
+      "Fat": 0.0
+    },
+    {
+      "InternalName": "PirozhokItem",
+      "Name": "Pirozhok",
+      "NamePlural": "Pirozhki",
+      "Calories": 850.0,
+      "Carbs": 14.0,
+      "Vitamins": 4.0,
+      "Protein": 19.0,
+      "Fat": 10.0
+    },
+    {
+      "InternalName": "PokeBowlItem",
+      "Name": "Poke Bowl",
+      "NamePlural": "Poke Bowls",
+      "Calories": 1100.0,
+      "Carbs": 24.0,
+      "Vitamins": 4.0,
+      "Protein": 10.0,
+      "Fat": 11.0
+    },
+    {
+      "InternalName": "PreparedMeatItem",
+      "Name": "Prepared Meat",
+      "NamePlural": "Prepared Meat",
+      "Calories": 600.0,
+      "Carbs": 0.0,
+      "Vitamins": 0.0,
+      "Protein": 4.0,
+      "Fat": 6.0
+    },
+    {
+      "InternalName": "PricklyPearFruitItem",
+      "Name": "Prickly Pear Fruit",
+      "NamePlural": "Prickly Pear Fruits",
+      "Calories": 190.0,
+      "Carbs": 2.0,
+      "Vitamins": 4.0,
+      "Protein": 1.0,
+      "Fat": 1.0
+    },
+    {
+      "InternalName": "PricklyPearSeedItem",
+      "Name": "Prickly Pear Seed",
+      "NamePlural": "Prickly Pear Seeds",
+      "Calories": 0.0,
+      "Carbs": 0.0,
+      "Vitamins": 0.0,
+      "Protein": 0.0,
+      "Fat": 0.0
+    },
+    {
+      "InternalName": "PrimeCutItem",
+      "Name": "Prime Cut",
+      "NamePlural": "Prime Cuts",
+      "Calories": 600.0,
+      "Carbs": 0.0,
+      "Vitamins": 0.0,
+      "Protein": 9.0,
+      "Fat": 4.0
+    },
+    {
+      "InternalName": "PumpkinItem",
+      "Name": "Pumpkin",
+      "NamePlural": "Pumpkins",
+      "Calories": 340.0,
+      "Carbs": 5.0,
+      "Vitamins": 2.0,
+      "Protein": 1.0,
+      "Fat": 0.0
+    },
+    {
+      "InternalName": "PumpkinSeedItem",
+      "Name": "Pumpkin Seed",
+      "NamePlural": "Pumpkin Seeds",
+      "Calories": 0.0,
+      "Carbs": 0.0,
+      "Vitamins": 0.0,
+      "Protein": 0.0,
+      "Fat": 0.0
+    },
+    {
+      "InternalName": "PupusasItem",
+      "Name": "Pupusas",
+      "NamePlural": "Pupusas",
+      "Calories": 900.0,
+      "Carbs": 6.0,
+      "Vitamins": 14.0,
+      "Protein": 11.0,
+      "Fat": 9.0
+    },
+    {
+      "InternalName": "RawBaconItem",
+      "Name": "Raw Bacon",
+      "NamePlural": "Raw Bacon",
+      "Calories": 200.0,
+      "Carbs": 0.0,
+      "Vitamins": 0.0,
+      "Protein": 3.0,
+      "Fat": 9.0
+    },
+    {
+      "InternalName": "RawFishItem",
+      "Name": "Raw Fish",
+      "NamePlural": "Raw Fishes",
+      "Calories": 200.0,
+      "Carbs": 0.0,
+      "Vitamins": 0.0,
+      "Protein": 7.0,
+      "Fat": 3.0
+    },
+    {
+      "InternalName": "RawMeatItem",
+      "Name": "Raw Meat",
+      "NamePlural": "Raw Meat",
+      "Calories": 250.0,
+      "Carbs": 0.0,
+      "Vitamins": 0.0,
+      "Protein": 4.0,
+      "Fat": 8.0
+    },
+    {
+      "InternalName": "RawRoastItem",
+      "Name": "Raw Roast",
+      "NamePlural": "Raw Roasts",
+      "Calories": 600.0,
+      "Carbs": 0.0,
+      "Vitamins": 0.0,
+      "Protein": 6.0,
+      "Fat": 5.0
+    },
+    {
+      "InternalName": "RawSausageItem",
+      "Name": "Raw Sausage",
+      "NamePlural": "Raw Sausages",
+      "Calories": 500.0,
+      "Carbs": 0.0,
+      "Vitamins": 0.0,
+      "Protein": 4.0,
+      "Fat": 8.0
+    },
+    {
+      "InternalName": "RedwoodSeedItem",
+      "Name": "Redwood Seed",
+      "NamePlural": "Redwood Seeds",
+      "Calories": 0.0,
+      "Carbs": 0.0,
+      "Vitamins": 0.0,
+      "Protein": 0.0,
+      "Fat": 0.0
+    },
+    {
+      "InternalName": "RiceItem",
+      "Name": "Rice",
+      "NamePlural": "Rice",
+      "Calories": 150.0,
+      "Carbs": 7.0,
+      "Vitamins": 0.0,
+      "Protein": 1.0,
+      "Fat": 0.0
+    },
+    {
+      "InternalName": "RiceFlourItem",
+      "Name": "Rice Flour",
+      "NamePlural": "Rice Flour",
+      "Calories": 50.0,
+      "Carbs": 15.0,
+      "Vitamins": 0.0,
+      "Protein": 0.0,
+      "Fat": 0.0
+    },
+    {
+      "InternalName": "RiceNoodlesItem",
+      "Name": "Rice Noodles",
+      "NamePlural": "Rice Noodles",
+      "Calories": 200.0,
+      "Carbs": 10.0,
+      "Vitamins": 0.0,
+      "Protein": 0.0,
+      "Fat": 0.0
+    },
+    {
+      "InternalName": "RoastPumpkinItem",
+      "Name": "Roast Pumpkin",
+      "NamePlural": "Roast Pumpkins",
+      "Calories": 1400.0,
+      "Carbs": 23.0,
+      "Vitamins": 7.0,
+      "Protein": 2.0,
+      "Fat": 2.0
+    },
+    {
+      "InternalName": "RootCampfireSaladItem",
+      "Name": "Root Campfire Salad",
+      "NamePlural": "Root Campfire Salads",
+      "Calories": 950.0,
+      "Carbs": 8.0,
+      "Vitamins": 11.0,
+      "Protein": 5.0,
+      "Fat": 4.0
+    },
+    {
+      "InternalName": "RootCampfireStewItem",
+      "Name": "Root Campfire Stew",
+      "NamePlural": "Root Campfire Stews",
+      "Calories": 1100.0,
+      "Carbs": 6.0,
+      "Vitamins": 5.0,
+      "Protein": 5.0,
+      "Fat": 12.0
+    },
+    {
+      "InternalName": "SaguaroSeedItem",
+      "Name": "Saguaro Seed",
+      "NamePlural": "Saguaro Seeds",
+      "Calories": 0.0,
+      "Carbs": 0.0,
+      "Vitamins": 0.0,
+      "Protein": 0.0,
+      "Fat": 0.0
+    },
+    {
+      "InternalName": "SaxifrageSeedItem",
+      "Name": "Saxifrage Seed",
+      "NamePlural": "Saxifrage Seeds",
+      "Calories": 0.0,
+      "Carbs": 0.0,
+      "Vitamins": 0.0,
+      "Protein": 0.0,
+      "Fat": 0.0
+    },
+    {
+      "InternalName": "ScrapMeatItem",
+      "Name": "Scrap Meat",
+      "NamePlural": "Scrap Meat",
+      "Calories": 50.0,
+      "Carbs": 0.0,
+      "Vitamins": 0.0,
+      "Protein": 5.0,
+      "Fat": 5.0
+    },
+    {
+      "InternalName": "SeagrassSeedItem",
+      "Name": "Seagrass Seed",
+      "NamePlural": "Seagrass Seeds",
+      "Calories": 0.0,
+      "Carbs": 0.0,
+      "Vitamins": 0.0,
+      "Protein": 0.0,
+      "Fat": 0.0
+    },
+    {
+      "InternalName": "SearedMeatItem",
+      "Name": "Seared Meat",
+      "NamePlural": "Seared Meat",
+      "Calories": 600.0,
+      "Carbs": 4.0,
+      "Vitamins": 7.0,
+      "Protein": 19.0,
+      "Fat": 17.0
+    },
+    {
+      "InternalName": "SeededCamasRollItem",
+      "Name": "Seeded Camas Roll",
+      "NamePlural": "Seeded Camas Rolls",
+      "Calories": 1400.0,
+      "Carbs": 20.0,
+      "Vitamins": 16.0,
+      "Protein": 2.0,
+      "Fat": 13.0
+    },
+    {
+      "InternalName": "SensuousSeaPizzaItem",
+      "Name": "Sensuous Sea Pizza",
+      "NamePlural": "Sensuous Sea Pizzas",
+      "Calories": 1200.0,
+      "Carbs": 28.0,
+      "Vitamins": 4.0,
+      "Protein": 11.0,
+      "Fat": 7.0
+    },
+    {
+      "InternalName": "SharkFilletSoupItem",
+      "Name": "Shark Fillet Soup",
+      "NamePlural": "Shark Fillet Soups",
+      "Calories": 1400.0,
+      "Carbs": 10.0,
+      "Vitamins": 2.0,
+      "Protein": 17.0,
+      "Fat": 11.0
+    },
+    {
+      "InternalName": "SimmeredMeatItem",
+      "Name": "Simmered Meat",
+      "NamePlural": "Simmered Meat",
+      "Calories": 900.0,
+      "Carbs": 6.0,
+      "Vitamins": 5.0,
+      "Protein": 18.0,
+      "Fat": 13.0
+    },
+    {
+      "InternalName": "SimpleSyrupItem",
+      "Name": "Simple Syrup",
+      "NamePlural": "Simple Syrups",
+      "Calories": 400.0,
+      "Carbs": 12.0,
+      "Vitamins": 0.0,
+      "Protein": 0.0,
+      "Fat": 3.0
+    },
+    {
+      "InternalName": "SmoothGutNoodleRollItem",
+      "Name": "Smooth Gut Noodle Roll",
+      "NamePlural": "Smooth Gut Noodle Rolls",
+      "Calories": 1200.0,
+      "Carbs": 19.0,
+      "Vitamins": 1.0,
+      "Protein": 15.0,
+      "Fat": 9.0
+    },
+    {
+      "InternalName": "SpikyRollItem",
+      "Name": "Spiky Roll",
+      "NamePlural": "Spiky Rolls",
+      "Calories": 1300.0,
+      "Carbs": 20.0,
+      "Vitamins": 2.0,
+      "Protein": 17.0,
+      "Fat": 7.0
+    },
+    {
+      "InternalName": "SpruceSeedItem",
+      "Name": "Spruce Seed",
+      "NamePlural": "Spruce Seeds",
+      "Calories": 0.0,
+      "Carbs": 0.0,
+      "Vitamins": 0.0,
+      "Protein": 0.0,
+      "Fat": 0.0
+    },
+    {
+      "InternalName": "StuffedTurkeyItem",
+      "Name": "Stuffed Turkey",
+      "NamePlural": "Stuffed Turkeys",
+      "Calories": 1600.0,
+      "Carbs": 17.0,
+      "Vitamins": 7.0,
+      "Protein": 24.0,
+      "Fat": 16.0
+    },
+    {
+      "InternalName": "SugarItem",
+      "Name": "Sugar",
+      "NamePlural": "Sugar",
+      "Calories": 50.0,
+      "Carbs": 15.0,
+      "Vitamins": 0.0,
+      "Protein": 0.0,
+      "Fat": 0.0
+    },
+    {
+      "InternalName": "SugarcaneItem",
+      "Name": "Sugarcane",
+      "NamePlural": "Sugarcanes",
+      "Calories": 1.0,
+      "Carbs": 0.0,
+      "Vitamins": 0.0,
+      "Protein": 0.0,
+      "Fat": 1.0
+    },
+    {
+      "InternalName": "SunButterItem",
+      "Name": "Sun Butter",
+      "NamePlural": "Sun Butters",
+      "Calories": 0.0,
+      "Carbs": 0.0,
+      "Vitamins": 0.0,
+      "Protein": 0.0,
+      "Fat": 0.0
+    },
+    {
+      "InternalName": "SunCheeseItem",
+      "Name": "Sun Cheese",
+      "NamePlural": "Sun Cheeses",
+      "Calories": 250.0,
+      "Carbs": 2.0,
+      "Vitamins": 0.0,
+      "Protein": 4.0,
+      "Fat": 12.0
+    },
+    {
+      "InternalName": "SunflowerItem",
+      "Name": "Sunflower",
+      "NamePlural": "Sunflowers",
+      "Calories": 50.0,
+      "Carbs": 2.0,
+      "Vitamins": 0.0,
+      "Protein": 2.0,
+      "Fat": 4.0
+    },
+    {
+      "InternalName": "SunflowerSeedItem",
+      "Name": "Sunflower Seed",
+      "NamePlural": "Sunflower Seeds",
+      "Calories": 0.0,
+      "Carbs": 0.0,
+      "Vitamins": 0.0,
+      "Protein": 0.0,
+      "Fat": 0.0
+    },
+    {
+      "InternalName": "SweetSaladItem",
+      "Name": "Sweet Salad",
+      "NamePlural": "Sweet Salads",
+      "Calories": 1200.0,
+      "Carbs": 18.0,
+      "Vitamins": 22.0,
+      "Protein": 9.0,
+      "Fat": 7.0
+    },
+    {
+      "InternalName": "TallowItem",
+      "Name": "Tallow",
+      "NamePlural": "Tallow",
+      "Calories": 200.0,
+      "Carbs": 0.0,
+      "Vitamins": 0.0,
+      "Protein": 0.0,
+      "Fat": 8.0
+    },
+    {
+      "InternalName": "TaroFriesItem",
+      "Name": "Taro Fries",
+      "NamePlural": "Taro Fries",
+      "Calories": 600.0,
+      "Carbs": 10.0,
+      "Vitamins": 0.0,
+      "Protein": 2.0,
+      "Fat": 20.0
+    },
+    {
+      "InternalName": "TaroRootItem",
+      "Name": "Taro Root",
+      "NamePlural": "Taro Roots",
+      "Calories": 250.0,
+      "Carbs": 6.0,
+      "Vitamins": 1.0,
+      "Protein": 1.0,
+      "Fat": 0.0
+    },
+    {
+      "InternalName": "TaroSeedItem",
+      "Name": "Taro Seed",
+      "NamePlural": "Taro Seeds",
+      "Calories": 0.0,
+      "Carbs": 0.0,
+      "Vitamins": 0.0,
+      "Protein": 0.0,
+      "Fat": 0.0
+    },
+    {
+      "InternalName": "TastyTropicalPizzaItem",
+      "Name": "Tasty Tropical Pizza",
+      "NamePlural": "Tasty Tropical Pizzas",
+      "Calories": 1200.0,
+      "Carbs": 28.0,
+      "Vitamins": 4.0,
+      "Protein": 6.0,
+      "Fat": 12.0
+    },
+    {
+      "InternalName": "TomatoItem",
+      "Name": "Tomato",
+      "NamePlural": "Tomatoes",
+      "Calories": 240.0,
+      "Carbs": 5.0,
+      "Vitamins": 2.0,
+      "Protein": 1.0,
+      "Fat": 0.0
+    },
+    {
+      "InternalName": "TomatoSeedItem",
+      "Name": "Tomato Seed",
+      "NamePlural": "Tomato Seeds",
+      "Calories": 0.0,
+      "Carbs": 0.0,
+      "Vitamins": 0.0,
+      "Protein": 0.0,
+      "Fat": 0.0
+    },
+    {
+      "InternalName": "ToppedPorridgeItem",
+      "Name": "Topped Porridge",
+      "NamePlural": "Topped Porridge",
+      "Calories": 700.0,
+      "Carbs": 10.0,
+      "Vitamins": 10.0,
+      "Protein": 4.0,
+      "Fat": 0.0
+    },
+    {
+      "InternalName": "TortillaItem",
+      "Name": "Tortilla",
+      "NamePlural": "Tortillas",
+      "Calories": 350.0,
+      "Carbs": 20.0,
+      "Vitamins": 0.0,
+      "Protein": 10.0,
+      "Fat": 0.0
+    },
+    {
+      "InternalName": "TransglutaminaseItem",
+      "Name": "Transglutaminase",
+      "NamePlural": "Transglutaminases",
+      "Calories": 10.0,
+      "Carbs": 0.0,
+      "Vitamins": 0.0,
+      "Protein": 0.0,
+      "Fat": 0.0
+    },
+    {
+      "InternalName": "TrilliumSeedItem",
+      "Name": "Trillium Seed",
+      "NamePlural": "Trillium Seeds",
+      "Calories": 0.0,
+      "Carbs": 0.0,
+      "Vitamins": 0.0,
+      "Protein": 0.0,
+      "Fat": 0.0
+    },
+    {
+      "InternalName": "VegetableMedleyItem",
+      "Name": "Vegetable Medley",
+      "NamePlural": "Vegetable Medleys",
+      "Calories": 900.0,
+      "Carbs": 8.0,
+      "Vitamins": 17.0,
+      "Protein": 4.0,
+      "Fat": 7.0
+    },
+    {
+      "InternalName": "VegetableSoupItem",
+      "Name": "Vegetable Soup",
+      "NamePlural": "Vegetable Soups",
+      "Calories": 1200.0,
+      "Carbs": 12.0,
+      "Vitamins": 19.0,
+      "Protein": 4.0,
+      "Fat": 7.0
+    },
+    {
+      "InternalName": "VegetableStockItem",
+      "Name": "Vegetable Stock",
+      "NamePlural": "Vegetable Stocks",
+      "Calories": 700.0,
+      "Carbs": 11.0,
+      "Vitamins": 11.0,
+      "Protein": 1.0,
+      "Fat": 2.0
+    },
+    {
+      "InternalName": "WaterweedSeedItem",
+      "Name": "Waterweed Seed",
+      "NamePlural": "Waterweed Seeds",
+      "Calories": 0.0,
+      "Carbs": 0.0,
+      "Vitamins": 0.0,
+      "Protein": 0.0,
+      "Fat": 0.0
+    },
+    {
+      "InternalName": "WheatItem",
+      "Name": "Wheat",
+      "NamePlural": "Wheat",
+      "Calories": 150.0,
+      "Carbs": 6.0,
+      "Vitamins": 0.0,
+      "Protein": 2.0,
+      "Fat": 0.0
+    },
+    {
+      "InternalName": "WheatSeedItem",
+      "Name": "Wheat Seed",
+      "NamePlural": "Wheat Seeds",
+      "Calories": 0.0,
+      "Carbs": 0.0,
+      "Vitamins": 0.0,
+      "Protein": 0.0,
+      "Fat": 0.0
+    },
+    {
+      "InternalName": "WhiteBursageSeedItem",
+      "Name": "White Bursage Seed",
+      "NamePlural": "White Bursage Seeds",
+      "Calories": 0.0,
+      "Carbs": 0.0,
+      "Vitamins": 0.0,
+      "Protein": 0.0,
+      "Fat": 0.0
+    },
+    {
+      "InternalName": "WildMixItem",
+      "Name": "Wild Mix",
+      "NamePlural": "Wild Mixes",
+      "Calories": 800.0,
+      "Carbs": 15.0,
+      "Vitamins": 21.0,
+      "Protein": 6.0,
+      "Fat": 4.0
+    },
+    {
+      "InternalName": "WildStewItem",
+      "Name": "Wild Stew",
+      "NamePlural": "Wild Stews",
+      "Calories": 1100.0,
+      "Carbs": 8.0,
+      "Vitamins": 12.0,
+      "Protein": 2.0,
+      "Fat": 6.0
+    },
+    {
+      "InternalName": "WiltedFiddleheadsItem",
+      "Name": "Wilted Fiddleheads",
+      "NamePlural": "Wilted Fiddleheads",
+      "Calories": 350.0,
+      "Carbs": 4.0,
+      "Vitamins": 7.0,
+      "Protein": 1.0,
+      "Fat": 0.0
+    },
+    {
+      "InternalName": "WorldlyDonutItem",
+      "Name": "Worldly Donut",
+      "NamePlural": "Worldly Donuts",
+      "Calories": 750.0,
+      "Carbs": 15.0,
+      "Vitamins": 2.0,
+      "Protein": 2.0,
+      "Fat": 17.0
+    },
+    {
+      "InternalName": "YeastItem",
+      "Name": "Yeast",
+      "NamePlural": "Yeast",
+      "Calories": 60.0,
+      "Carbs": 0.0,
+      "Vitamins": 7.0,
+      "Protein": 8.0,
+      "Fat": 0.0
+    }
+  ]
+}
