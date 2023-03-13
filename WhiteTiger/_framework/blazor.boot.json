@@ -8,7 +8,7 @@
   "resources": {
     "assembly": {
       "Blazored.LocalStorage.dll": "sha256-eXVgTw72kEn74FZgDQbLtvAmXbiZDSj5gzUnxVmwowQ=",
-      "EcoWhiteTigerScoreboard.Frontend.dll": "sha256-FX+++shFvh2zowzmTeUoK25p7WmWSx3Rw0BfxW22GMU=",
+      "EcoWhiteTigerScoreboard.Frontend.dll": "sha256-QHcOcZgxz49rhjwqQuajxIDkaqyY9lzr8ZT5A1tEtxM=",
       "Microsoft.AspNetCore.Components.dll": "sha256-hPfKyfrk15nAfA5YDWcwKNRE8j9CvgkFToh8FpUxTEE=",
       "Microsoft.AspNetCore.Components.Forms.dll": "sha256-mMAvME0N3JYHVEVcs\/l3o685lcq\/fJC6xr3mJ3iNAGY=",
       "Microsoft.AspNetCore.Components.Web.dll": "sha256-s\/csLRtByF\/NBDSpdI\/V9dFVwVXaVd3VX\/XNZ3nItHg=",

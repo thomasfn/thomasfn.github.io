@@ -1,6 +1,75 @@
 ﻿{
   "TimelineEntries": [
     {
+      "Id": 35,
+      "Title": "WT35",
+      "StartDate": "10/2/2023",
+      "Victory": true,
+      "Victories": {
+        "Domination": {
+          "Achieved": false,
+          "Conditions": [
+            "The office of Prime Minister must be held by the same player during the whole cycle.",
+            "A positive cult of personality without major opposition must be established around the Prime Minister’s person and its effects must be visible throughout the whole world.",
+            "The Prime Minister must faithfully and lawfully execute all of his duties at all times."
+          ],
+          "Rewards": [
+            "For the following cycle, the sitting Prime Minister may choose to become President and to add one twist to the server concept. (Agreement with Game Masters required)"
+          ]
+        },
+        "Science": {
+          "Achieved": false,
+          "Conditions": [
+            "A spaceport carrying a rocket must be built.",
+            "A library with at least 5 copies of each Skill Book must be established in the Federal University.",
+            "The population on the server needs to achieve at least 35 “Global Level-Ups” (visible in the tooltip for the specialty) for each of the following specialties: Electronics, Industry"
+          ],
+          "Rewards": [
+            "In the following cycle, the Federal University starts with 1.000 pieces of each Basic Research Paper and the Minister of Education may continue his office until the first general election ends."
+          ]
+        },
+        "Diplomatic": {
+          "Achieved": false,
+          "Conditions": [
+            "All four states must build iconic embassy buildings in Unica.",
+            "All four states must have had a Governor throughout the vast majority of the cycle and have one during the victory ceremony."
+          ],
+          "Rewards": [
+            "For the following cycle, the currently sitting Governors may collegially determine the borders, location and size of the four states after having seen the new map."
+          ]
+        },
+        "Religion": {
+          "Achieved": false,
+          "Conditions": [
+            "At least one religion must be founded and the majority of active citizens at the time of the victory ceremony must be followers of any religion.",
+            "Religions must be fictitious and positive, charge their followers a membership fee, build at least one prestigious church building, appoint members into fitting religious offices and at least conduct minor role play supporting it."
+          ],
+          "Rewards": [
+            "For the next cycle, the religion with the most followers at the end of the cycle becomes state-religion with a tax funded government office."
+          ]
+        },
+        "Culture": {
+          "Achieved": false,
+          "Conditions": [
+            "All buildings in the government district of Unica must be built to be iconic and merge their gameplay functionality with aesthetic and roleplay supporting decorations in a manner that makes the buildings look like a usable prestigious real-life counterpart.",
+            "The Presidential Square in Unica must be upgraded to a monumental Presidential Palace and feature a realistic civil defense bunker for the general public underground."
+          ],
+          "Rewards": [
+            "For the following cycle, the recipes for T4 building materials and furniture are changed to make their costs on par with T3 materials and furniture."
+          ]
+        }
+      },
+      "Subtext": "The Last 9.x Cycle",
+      "NotableEvents": [
+        "The state religion was funded by a constitutional labor tax",
+        "Pepzi was PM for most of the cycle",
+        "Food shortage in first week due to expensive LCPs that limited farming",
+        "96dwilliams tried to improve the EP law but it backfired and eventually was reverted",
+        "There was an energy crisis when nobody sold green energy to the gov, the grid was powered privately by Odin's Green Powerplant for a while"
+      ],
+      "HasScoreboard": true
+    },
+    {
       "Id": 34,
       "Title": "WT34",
       "StartDate": "9/12/2022",
@@ -65,9 +134,10 @@
         "Another bug caused people to become small when using a wood cart",
         "Upgrades had a new set of recipes using research papers and generic labor",
         "For a long time Jabroni held the monopoly on Fertilizers, making him very wealthy as one of the upgrade recipes needed fert papers",
-        "The government tried to raise rent tax to 50% but there were riots so they had to back down",
+        "The government tried to raise rent tax to 40% but there were riots so they had to back down",
         "Cinea and Naarke started a state backed otter-based religion",
         "ShadowTheBuilder built many awesome buildings including various dedications to The Great Otter",
+        "BeleHoover built the Garbage Mountain Museum displaying over 18,000 pieces of garbage and signage with real-world facts about garbage pollution",
         "The Glassholes (Ed & Racman) built a crazy glass maze"
       ],
       "HasScoreboard": true
@@ -439,7 +509,7 @@
       "Subtext": "Birthday Cycle",
       "NotableEvents": [
         "The capital was one of the most beautiful we ever had, with an amazing mayor giving subsidies for everything possible from building materials to food and furniture",
-        "Phillip Jay was president",
+        "Philip Jay was president",
         "100 cart revolution protest.",
         "Dreamstate was promoted to GM"
       ],
