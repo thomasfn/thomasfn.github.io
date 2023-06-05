@@ -1,0 +1,94 @@
+{
+  "Events": [
+    {
+      "Timestamp": 2344.701026916504,
+      "Type": "SkillDiscovered",
+      "Description": "Masonry discovered by LForward"
+    },
+    {
+      "Timestamp": 3107.910842895508,
+      "Type": "SkillDiscovered",
+      "Description": "Carpentry discovered by LForward"
+    },
+    {
+      "Timestamp": 3528.624221801758,
+      "Type": "SkillDiscovered",
+      "Description": "Butchery discovered by dFour"
+    },
+    {
+      "Timestamp": 5203.047454833984,
+      "Type": "SkillDiscovered",
+      "Description": "Tailoring discovered by LForward"
+    },
+    {
+      "Timestamp": 5658.254318237305,
+      "Type": "SkillDiscovered",
+      "Description": "Basic Engineering discovered by LForward"
+    },
+    {
+      "Timestamp": 8556.042297363281,
+      "Type": "SkillDiscovered",
+      "Description": "Smelting discovered by LForward"
+    },
+    {
+      "Timestamp": 9011.654693603516,
+      "Type": "SkillDiscovered",
+      "Description": "Farming discovered by Red_Baron"
+    },
+    {
+      "Timestamp": 14642.956558227539,
+      "Type": "SkillDiscovered",
+      "Description": "Pottery discovered by LForward"
+    },
+    {
+      "Timestamp": 16191.396057128906,
+      "Type": "SkillDiscovered",
+      "Description": "Glassworking discovered by LForward"
+    },
+    {
+      "Timestamp": 20473.903175354004,
+      "Type": "SkillDiscovered",
+      "Description": "Cooking discovered by LForward"
+    },
+    {
+      "Timestamp": 20579.630310058594,
+      "Type": "SkillDiscovered",
+      "Description": "Paper Milling discovered by DarkDeathFlame"
+    },
+    {
+      "Timestamp": 24235.3002243042,
+      "Type": "SkillDiscovered",
+      "Description": "Mechanics discovered by LForward"
+    },
+    {
+      "Timestamp": 27849.583038330078,
+      "Type": "SkillDiscovered",
+      "Description": "Advanced Smelting discovered by LForward"
+    },
+    {
+      "Timestamp": 50057.03439331055,
+      "Type": "SkillDiscovered",
+      "Description": "Oil Drilling discovered by LForward"
+    },
+    {
+      "Timestamp": 51102.20626068115,
+      "Type": "SkillDiscovered",
+      "Description": "Industry discovered by LForward"
+    },
+    {
+      "Timestamp": 60141.67949676514,
+      "Type": "SkillDiscovered",
+      "Description": "Composites discovered by LForward"
+    },
+    {
+      "Timestamp": 64807.49631500244,
+      "Type": "SkillDiscovered",
+      "Description": "Electronics discovered by LForward"
+    },
+    {
+      "Timestamp": 68461.75524902344,
+      "Type": "SkillDiscovered",
+      "Description": "Advanced Masonry discovered by LForward"
+    }
+  ]
+}
