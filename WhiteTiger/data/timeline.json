@@ -1,6 +1,20 @@
 ﻿{
   "TimelineEntries": [
     {
+      "Id": "36",
+      "Title": "WT36",
+      "StartDate": "28/6/2023",
+      "Victory": true,
+      "Subtext": "10.0 Playtest Cycle",
+      "NotableEvents": [
+        "First playtest on Eco 10.0",
+        "Many issues at the start like not being able to build, logging in as another person, losing citizenship and regular server crashes",
+        "Parliament was dissolved mid-cycle at request of Ztae, the Prime Minister at the time",
+        "Major energy crisis later on in the cycle due to power balance changes and 10x increase of pumpjack drilling time"
+      ],
+      "HasScoreboard": true
+    },
+    {
       "Id": "wc1",
       "Title": "WC1",
       "StartDate": "02/06/2023",
