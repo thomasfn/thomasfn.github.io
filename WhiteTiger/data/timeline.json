@@ -1,11 +1,22 @@
 ﻿{
   "TimelineEntries": [
     {
+      "Id": "37",
+      "Title": "WT37",
+      "StartDate": "30/8/2023",
+      "Victory": true,
+      "Subtext": "10.0 Playtest Cycle #2",
+      "NotableEvents": [
+        "Second playtest on Eco 10.0"
+      ],
+      "HasScoreboard": true
+    },
+    {
       "Id": "36",
       "Title": "WT36",
       "StartDate": "28/6/2023",
       "Victory": true,
-      "Subtext": "10.0 Playtest Cycle",
+      "Subtext": "10.0 Playtest Cycle #1",
       "NotableEvents": [
         "First playtest on Eco 10.0",
         "Many issues at the start like not being able to build, logging in as another person, losing citizenship and regular server crashes",
