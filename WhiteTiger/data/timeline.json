@@ -1,13 +1,82 @@
 ﻿{
   "TimelineEntries": [
     {
+      "Id": "39",
+      "Title": "WT39",
+      "StartDate": "15/12/2023",
+      "Victory": true,
+      "Victories": {
+        "Domination": {
+          "Achieved": true,
+          "Conditions": [
+            "The office of Prime Minister must be held by the same player during the whole cycle.",
+            "A positive cult of personality without major opposition must be established around the Prime Minister’s person and its effects must be visible throughout the whole world.",
+            "The Prime Minister must faithfully and lawfully execute all of his duties at all times."
+          ],
+          "Rewards": [
+            "For the following cycle, the sitting Prime Minister may choose to become President and to add one twist to the server concept. (Agreement with Game Masters required)"
+          ]
+        },
+        "Religion": {
+          "Achieved": true,
+          "Conditions": [
+            "At least one religion must be founded and the majority of active citizens at the time of the victory ceremony must be followers of any religion.",
+            "Religions must be fictitious and positive, charge their followers a membership fee, build at least one prestigious church building, appoint members into fitting religious offices and at least conduct minor role play supporting it."
+          ],
+          "Rewards": [
+            "For the following cycle, the religion with the most followers at the end of the cycle becomes the state religion with a tax funded government office to facilitate endeavors typical for that religion."
+          ]
+        },
+        "Science": {
+          "Achieved": false,
+          "Conditions": [
+            "A monumental spaceport featuring a command center and a rocket must be built.",
+            "A library with at least 5 copies of each Skill Book must be established in the Federal University.",
+            "The population on the server needs to achieve at least 35 “Global Level-Ups” (visible in the tooltip for the specialty) for each of the following specialties: Electronics, Industry"
+          ],
+          "Rewards": [
+            "For the following cycle, the following specialties are already researched and their Skill Scrolls available in limited numbers right from the start: Baking, Basic Engineering, Carpentry, Cooking, Fertilizers, Masonry, Milling Pottery, Shipwright, Smelting and Tailoring"
+          ]
+        },
+        "Diplomatic": {
+          "Achieved": false,
+          "Conditions": [
+            "At least four states must be founded and have an active Governor during the victory ceremony.",
+            "At least four states qualifying for the former condition must have reached a “Culture Including Children“ value of at least 250."
+          ],
+          "Rewards": [
+            "For the following cycle, the governors of all states fulfilling the conditions are allowed to view the map and get to place their state at a location all of them agree on before the server starts. They are not allowed to share any information about the map."
+          ]
+        },
+        "Culture": {
+          "Achieved": true,
+          "Conditions": [
+            "All buildings in the government district of Unica must be built to be iconic and merge their gameplay functionality with aesthetic and roleplay supporting decorations in a manner that makes the buildings look like a usable prestigious real-life counterpart.",
+            "The Presidential Square in Unica must be upgraded to a monumental Presidential Palace and feature a realistic civil defense bunker for the general public underground.",
+            "The world must achieve a “Total Culture Worldwide” value of at least 5000."
+          ],
+          "Rewards": [
+            "For the following cycle, the recipes for T4 building materials and furniture are changed to make their costs on par with T3 materials and furniture."
+          ]
+        }
+      },
+      "Subtext": "10.0 Release Cycle",
+      "NotableEvents": [
+        "PirateBug started a religion of Arborists where members had to face a number of tree-related trials in order to advance the ranks"
+      ],
+      "HasScoreboard": true
+    },
+    {
       "Id": "38",
       "Title": "WT38",
       "StartDate": "03/11/2023",
       "Victory": true,
       "Subtext": "10.0 Playtest Cycle #3",
       "NotableEvents": [
-        "Third playtest on Eco 10.0"
+        "Third playtest on Eco 10.0",
+        "DRs were removed for this cycle",
+        "Company income scaling reduction given to gov instead of removed from circulation",
+        "Culture points were awarded to or deducted from properties by GMs based on aesthetics"
       ],
       "HasScoreboard": true
     },
@@ -18,7 +87,9 @@
       "Victory": true,
       "Subtext": "10.0 Playtest Cycle #2",
       "NotableEvents": [
-        "Second playtest on Eco 10.0"
+        "Second playtest on Eco 10.0",
+        "Ore distribution was reworked and ores were generally much sparser",
+        "Housing xp calculations were adjusted to make hotels less powerful"
       ],
       "HasScoreboard": true
     },
