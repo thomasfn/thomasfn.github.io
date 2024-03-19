@@ -244,7 +244,7 @@
       "InternalName": "BearSUPREMEItem",
       "Name": "Bear S U P R E M E",
       "NamePlural": "Bear S U P R E M Es",
-      "Calories": 1250.0,
+      "Calories": 1650.0,
       "Carbs": 6.0,
       "Vitamins": 9.0,
       "Protein": 22.0,
@@ -324,11 +324,11 @@
       "InternalName": "BisonChowFunItem",
       "Name": "Bison Chow Fun",
       "NamePlural": "Bison Chow Funs",
-      "Calories": 1450.0,
-      "Carbs": 32.0,
-      "Vitamins": 3.0,
-      "Protein": 7.0,
-      "Fat": 14.0
+      "Calories": 1250.0,
+      "Carbs": 16.0,
+      "Vitamins": 8.0,
+      "Protein": 13.0,
+      "Fat": 20.0
     },
     {
       "InternalName": "BoiledGrainsItem",
@@ -357,8 +357,8 @@
       "Calories": 600.0,
       "Carbs": 0.0,
       "Vitamins": 0.0,
-      "Protein": 27.0,
-      "Fat": 22.0
+      "Protein": 25.0,
+      "Fat": 20.0
     },
     {
       "InternalName": "BoleteMushroomSporesItem",
@@ -459,26 +459,6 @@
       "Vitamins": 0.0,
       "Protein": 16.0,
       "Fat": 12.0
-    },
-    {
-      "InternalName": "CampfireSaladItem",
-      "Name": "Campfire Salad",
-      "NamePlural": "Campfire Salads",
-      "Calories": 0.0,
-      "Carbs": 0.0,
-      "Vitamins": 0.0,
-      "Protein": 0.0,
-      "Fat": 0.0
-    },
-    {
-      "InternalName": "CampfireStewItem",
-      "Name": "Campfire Stew",
-      "NamePlural": "Campfire Stews",
-      "Calories": 1200.0,
-      "Carbs": 5.0,
-      "Vitamins": 4.0,
-      "Protein": 10.0,
-      "Fat": 9.0
     },
     {
       "InternalName": "CedarSeedItem",
@@ -675,10 +655,10 @@
       "Name": "Clam Chowder",
       "NamePlural": "Clam Chowders",
       "Calories": 800.0,
-      "Carbs": 21.0,
-      "Vitamins": 2.0,
+      "Carbs": 16.0,
+      "Vitamins": 11.0,
       "Protein": 15.0,
-      "Fat": 7.0
+      "Fat": 3.0
     },
     {
       "InternalName": "CookeinaMushroomSporesItem",
@@ -714,7 +694,7 @@
       "InternalName": "CornFrittersItem",
       "Name": "Corn Fritters",
       "NamePlural": "Corn Fritters",
-      "Calories": 500.0,
+      "Calories": 750.0,
       "Carbs": 13.0,
       "Vitamins": 8.0,
       "Protein": 4.0,
@@ -725,16 +705,6 @@
       "Name": "Corn Seed",
       "NamePlural": "Corn Seeds",
       "Calories": 0.0,
-      "Carbs": 0.0,
-      "Vitamins": 0.0,
-      "Protein": 0.0,
-      "Fat": 0.0
-    },
-    {
-      "InternalName": "CornStarchItem",
-      "Name": "Corn Starch",
-      "NamePlural": "Corn Starches",
-      "Calories": 10.0,
       "Carbs": 0.0,
       "Vitamins": 0.0,
       "Protein": 0.0,
@@ -771,6 +741,16 @@
       "Fat": 0.0
     },
     {
+      "InternalName": "CreosoteFlowerItem",
+      "Name": "Creosote Flower",
+      "NamePlural": "Creosote Flowers",
+      "Calories": 0.0,
+      "Carbs": 0.0,
+      "Vitamins": 0.0,
+      "Protein": 0.0,
+      "Fat": 0.0
+    },
+    {
       "InternalName": "CriminiMushroomSporesItem",
       "Name": "Crimini Mushroom Spores",
       "NamePlural": "Crimini Mushroom Spores",
@@ -795,10 +775,10 @@
       "Name": "Crimson Salad",
       "NamePlural": "Crimson Salads",
       "Calories": 1200.0,
-      "Carbs": 15.0,
-      "Vitamins": 24.0,
+      "Carbs": 13.0,
+      "Vitamins": 28.0,
       "Protein": 7.0,
-      "Fat": 10.0
+      "Fat": 8.0
     },
     {
       "InternalName": "CrispyBaconItem",
@@ -809,6 +789,26 @@
       "Vitamins": 0.0,
       "Protein": 18.0,
       "Fat": 26.0
+    },
+    {
+      "InternalName": "DriedFishItem",
+      "Name": "Dried Fish",
+      "NamePlural": "Dried Fishes",
+      "Calories": 450.0,
+      "Carbs": 1.0,
+      "Vitamins": 0.0,
+      "Protein": 16.0,
+      "Fat": 2.0
+    },
+    {
+      "InternalName": "DriedMeatItem",
+      "Name": "Dried Meat",
+      "NamePlural": "Dried Meats",
+      "Calories": 550.0,
+      "Carbs": 1.0,
+      "Vitamins": 0.0,
+      "Protein": 14.0,
+      "Fat": 4.0
     },
     {
       "InternalName": "DwarfWillowSeedItem",
@@ -824,7 +824,7 @@
       "InternalName": "ElkTacoItem",
       "Name": "Elk Taco",
       "NamePlural": "Elk Tacos",
-      "Calories": 700.0,
+      "Calories": 1050.0,
       "Carbs": 15.0,
       "Vitamins": 6.0,
       "Protein": 8.0,
@@ -845,8 +845,8 @@
       "Name": "Fantastic Forest Pizza",
       "NamePlural": "Fantastic Forest Pizzas",
       "Calories": 1250.0,
-      "Carbs": 27.0,
-      "Vitamins": 13.0,
+      "Carbs": 23.0,
+      "Vitamins": 17.0,
       "Protein": 4.0,
       "Fat": 10.0
     },
@@ -885,7 +885,7 @@
       "Name": "Field Campfire Stew",
       "NamePlural": "Field Campfire Stews",
       "Calories": 1100.0,
-      "Carbs": 12.0,
+      "Carbs": 14.0,
       "Vitamins": 4.0,
       "Protein": 4.0,
       "Fat": 8.0
@@ -961,6 +961,16 @@
       "Fat": 0.0
     },
     {
+      "InternalName": "FlaxseedOilItem",
+      "Name": "Flaxseed Oil",
+      "NamePlural": "Flaxseed Oil",
+      "Calories": 120.0,
+      "Carbs": 0.0,
+      "Vitamins": 0.0,
+      "Protein": 0.0,
+      "Fat": 15.0
+    },
+    {
       "InternalName": "FlourItem",
       "Name": "Flour",
       "NamePlural": "Flour",
@@ -1025,16 +1035,6 @@
       "Name": "Fried Tomatoes",
       "NamePlural": "Fried Tomatoes",
       "Calories": 700.0,
-      "Carbs": 11.0,
-      "Vitamins": 2.0,
-      "Protein": 3.0,
-      "Fat": 8.0
-    },
-    {
-      "InternalName": "FriedVegetablesItem",
-      "Name": "Fried Vegetables",
-      "NamePlural": "Fried Vegetables",
-      "Calories": 560.0,
       "Carbs": 11.0,
       "Vitamins": 2.0,
       "Protein": 3.0,
@@ -1125,9 +1125,9 @@
       "Name": "Hosomaki",
       "NamePlural": "Hosomaki",
       "Calories": 700.0,
-      "Carbs": 25.0,
-      "Vitamins": 0.0,
-      "Protein": 23.0,
+      "Carbs": 21.0,
+      "Vitamins": 8.0,
+      "Protein": 19.0,
       "Fat": 5.0
     },
     {
@@ -1181,16 +1181,6 @@
       "Fat": 0.0
     },
     {
-      "InternalName": "HydrocolloidsItem",
-      "Name": "Hydrocolloids",
-      "NamePlural": "Hydrocolloids",
-      "Calories": 10.0,
-      "Carbs": 0.0,
-      "Vitamins": 0.0,
-      "Protein": 0.0,
-      "Fat": 0.0
-    },
-    {
       "InternalName": "InfusedOilItem",
       "Name": "Infused Oil",
       "NamePlural": "Infused Oil",
@@ -1235,26 +1225,16 @@
       "Name": "Jungle Campfire Stew",
       "NamePlural": "Jungle Campfire Stews",
       "Calories": 1100.0,
-      "Carbs": 6.0,
+      "Carbs": 8.0,
       "Vitamins": 3.0,
       "Protein": 8.0,
       "Fat": 11.0
     },
     {
-      "InternalName": "KelpSeedItem",
-      "Name": "Kelp Seed",
-      "NamePlural": "Kelp Seeds",
-      "Calories": 0.0,
-      "Carbs": 0.0,
-      "Vitamins": 0.0,
-      "Protein": 0.0,
-      "Fat": 0.0
-    },
-    {
       "InternalName": "KelpyCrabRollItem",
       "Name": "Kelpy Crab Roll",
       "NamePlural": "Kelpy Crab Rolls",
-      "Calories": 1350.0,
+      "Calories": 1050.0,
       "Carbs": 22.0,
       "Vitamins": 5.0,
       "Protein": 13.0,
@@ -1291,16 +1271,6 @@
       "Fat": 13.0
     },
     {
-      "InternalName": "LiquidNitrogenItem",
-      "Name": "Liquid Nitrogen",
-      "NamePlural": "Liquid Nitrogen",
-      "Calories": 10.0,
-      "Carbs": 0.0,
-      "Vitamins": 0.0,
-      "Protein": 0.0,
-      "Fat": 0.0
-    },
-    {
       "InternalName": "LoadedTaroFriesItem",
       "Name": "Loaded Taro Fries",
       "NamePlural": "Loaded Taro Fries",
@@ -1331,16 +1301,6 @@
       "Fat": 14.0
     },
     {
-      "InternalName": "MaltodextrinItem",
-      "Name": "Maltodextrin",
-      "NamePlural": "Maltodextrins",
-      "Calories": 10.0,
-      "Carbs": 0.0,
-      "Vitamins": 0.0,
-      "Protein": 0.0,
-      "Fat": 0.0
-    },
-    {
       "InternalName": "MeatPieItem",
       "Name": "Meat Pie",
       "NamePlural": "Meat Pies",
@@ -1365,20 +1325,10 @@
       "Name": "Meaty Stew",
       "NamePlural": "Meaty Stews",
       "Calories": 1100.0,
-      "Carbs": 4.0,
+      "Carbs": 6.0,
       "Vitamins": 1.0,
       "Protein": 13.0,
       "Fat": 10.0
-    },
-    {
-      "InternalName": "MilkItem",
-      "Name": "Milk",
-      "NamePlural": "Milk",
-      "Calories": 120.0,
-      "Carbs": 3.0,
-      "Vitamins": 0.0,
-      "Protein": 10.0,
-      "Fat": 7.0
     },
     {
       "InternalName": "MillionairesSaladItem",
@@ -1419,6 +1369,16 @@
       "Vitamins": 0.0,
       "Protein": 0.0,
       "Fat": 15.0
+    },
+    {
+      "InternalName": "OrchidItem",
+      "Name": "Orchid",
+      "NamePlural": "Orchids",
+      "Calories": 0.0,
+      "Carbs": 0.0,
+      "Vitamins": 0.0,
+      "Protein": 0.0,
+      "Fat": 0.0
     },
     {
       "InternalName": "OrchidSeedItem",
@@ -1476,8 +1436,8 @@
       "NamePlural": "Phad Thais",
       "Calories": 1200.0,
       "Carbs": 9.0,
-      "Vitamins": 3.0,
-      "Protein": 13.0,
+      "Vitamins": 5.0,
+      "Protein": 11.0,
       "Fat": 19.0
     },
     {
@@ -1494,10 +1454,10 @@
       "InternalName": "PineappleFriendRiceItem",
       "Name": "Pineapple Friend Rice",
       "NamePlural": "Pineapple Friend Rices",
-      "Calories": 720.0,
+      "Calories": 800.0,
       "Carbs": 20.0,
-      "Vitamins": 9.0,
-      "Protein": 12.0,
+      "Vitamins": 12.0,
+      "Protein": 9.0,
       "Fat": 12.0
     },
     {
@@ -1525,8 +1485,8 @@
       "Name": "Poke Bowl",
       "NamePlural": "Poke Bowls",
       "Calories": 1100.0,
-      "Carbs": 24.0,
-      "Vitamins": 4.0,
+      "Carbs": 21.0,
+      "Vitamins": 7.0,
       "Protein": 10.0,
       "Fat": 11.0
     },
@@ -1715,7 +1675,7 @@
       "Name": "Root Campfire Stew",
       "NamePlural": "Root Campfire Stews",
       "Calories": 1100.0,
-      "Carbs": 6.0,
+      "Carbs": 8.0,
       "Vitamins": 5.0,
       "Protein": 5.0,
       "Fat": 12.0
@@ -1764,7 +1724,7 @@
       "InternalName": "SearedMeatItem",
       "Name": "Seared Meat",
       "NamePlural": "Seared Meat",
-      "Calories": 600.0,
+      "Calories": 1000.0,
       "Carbs": 4.0,
       "Vitamins": 7.0,
       "Protein": 19.0,
@@ -1774,7 +1734,7 @@
       "InternalName": "SeededCamasRollItem",
       "Name": "Seeded Camas Roll",
       "NamePlural": "Seeded Camas Rolls",
-      "Calories": 1400.0,
+      "Calories": 1050.0,
       "Carbs": 20.0,
       "Vitamins": 16.0,
       "Protein": 2.0,
@@ -1796,8 +1756,8 @@
       "NamePlural": "Shark Fillet Soups",
       "Calories": 1400.0,
       "Carbs": 10.0,
-      "Vitamins": 2.0,
-      "Protein": 17.0,
+      "Vitamins": 4.0,
+      "Protein": 15.0,
       "Fat": 11.0
     },
     {
@@ -1881,16 +1841,6 @@
       "Fat": 1.0
     },
     {
-      "InternalName": "SunButterItem",
-      "Name": "Sun Butter",
-      "NamePlural": "Sun Butters",
-      "Calories": 0.0,
-      "Carbs": 0.0,
-      "Vitamins": 0.0,
-      "Protein": 0.0,
-      "Fat": 0.0
-    },
-    {
       "InternalName": "SunCheeseItem",
       "Name": "Sun Cheese",
       "NamePlural": "Sun Cheeses",
@@ -1919,6 +1869,16 @@
       "Vitamins": 0.0,
       "Protein": 0.0,
       "Fat": 0.0
+    },
+    {
+      "InternalName": "SweetDeerJerkyItem",
+      "Name": "Sweet Deer Jerky",
+      "NamePlural": "Sweet Deer Jerkies",
+      "Calories": 600.0,
+      "Carbs": 4.0,
+      "Vitamins": 3.0,
+      "Protein": 22.0,
+      "Fat": 6.0
     },
     {
       "InternalName": "SweetSaladItem",
@@ -1975,8 +1935,8 @@
       "Name": "Tasty Tropical Pizza",
       "NamePlural": "Tasty Tropical Pizzas",
       "Calories": 1200.0,
-      "Carbs": 28.0,
-      "Vitamins": 4.0,
+      "Carbs": 21.0,
+      "Vitamins": 11.0,
       "Protein": 6.0,
       "Fat": 12.0
     },
@@ -2021,10 +1981,10 @@
       "Fat": 0.0
     },
     {
-      "InternalName": "TransglutaminaseItem",
-      "Name": "Transglutaminase",
-      "NamePlural": "Transglutaminases",
-      "Calories": 10.0,
+      "InternalName": "TrilliumFlowerItem",
+      "Name": "Trillium Flower",
+      "NamePlural": "Trillium Flowers",
+      "Calories": 0.0,
       "Carbs": 0.0,
       "Vitamins": 0.0,
       "Protein": 0.0,
@@ -2125,7 +2085,7 @@
       "Name": "Wild Stew",
       "NamePlural": "Wild Stews",
       "Calories": 1100.0,
-      "Carbs": 8.0,
+      "Carbs": 10.0,
       "Vitamins": 12.0,
       "Protein": 2.0,
       "Fat": 6.0
