@@ -1,0 +1,109 @@
+{
+  "Scoreboards": [
+    {
+      "Description": "Craziest miner",
+      "StatName": "DigOrMine",
+      "Multiplier": 1.0,
+      "Unit": "blocks mined + dug",
+      "Format": "RoundedNumber",
+      "Max": 10
+    },
+    {
+      "Description": "Messiest logger",
+      "StatName": "CreateTreeDebris",
+      "Multiplier": 1.0,
+      "Unit": "debris created",
+      "Format": "RoundedNumber",
+      "Max": 10
+    },
+    {
+      "Description": "Cleanest logger",
+      "StatName": "CleanupTreeDebris",
+      "Multiplier": 1.0,
+      "Unit": "debris removed",
+      "Format": "RoundedNumber",
+      "Max": 10
+    },
+    {
+      "Description": "Woodn't stop choppin'",
+      "StatName": "ChopTree",
+      "Multiplier": 1.0,
+      "Unit": "trees felled",
+      "Format": "RoundedNumber",
+      "Max": 10
+    },
+    {
+      "Description": "Wasted time not chopping more trees",
+      "StatName": "ChopStump",
+      "Multiplier": 1.0,
+      "Unit": "tree stumps removed",
+      "Format": "RoundedNumber",
+      "Max": 10
+    },
+    {
+      "Description": "Biggest mouth",
+      "StatName": "ChatSent",
+      "Multiplier": 1.0,
+      "Unit": "chat messages sent",
+      "Format": "RoundedNumber",
+      "Max": 10
+    },
+    {
+      "Description": "Obssessed with rearranging furniture",
+      "StatName": "PlaceOrPickUpObject",
+      "Multiplier": 1.0,
+      "Unit": "world objects placed + removed",
+      "Format": "RoundedNumber",
+      "Max": 10
+    },
+    {
+      "Description": "Busiest builder",
+      "StatName": "ConstructOrDeconstruct",
+      "Multiplier": 1.0,
+      "Unit": "blocks placed + removed",
+      "Format": "RoundedNumber",
+      "Max": 10
+    },
+    {
+      "Description": "Busiest worker",
+      "StatName": "CreateWorkOrder",
+      "Multiplier": 1.0,
+      "Unit": "work orders created",
+      "Format": "RoundedNumber",
+      "Max": 10
+    },
+    {
+      "Description": "Busiest crafter",
+      "StatName": "ItemCraftedAction",
+      "Multiplier": 1.0,
+      "Unit": "items created",
+      "Format": "RoundedNumber",
+      "Max": 10
+    },
+    {
+      "Description": "Refuses to use a bin",
+      "StatName": "DropOrPickupGarbage",
+      "Multiplier": 1.0,
+      "Unit": "garbage dropped + picked up",
+      "Format": "RoundedNumber",
+      "Max": 10
+    },
+    {
+      "Description": "Didn't get the memo",
+      "StatName": "PlantSeeds",
+      "Multiplier": 1.0,
+      "Unit": "seeds planted",
+      "Format": "RoundedNumber",
+      "Max": 10
+    },
+    {
+      "Description": "Didn't sleep",
+      "StatName": "Play",
+      "Multiplier": 0.00833333333333333333333333333333,
+      "Unit": "hours played",
+      "Format": "RoundedNumber",
+      "Max": 10
+    }
+  ],
+  "HasEvents": true
+}
