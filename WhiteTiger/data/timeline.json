@@ -1,10 +1,134 @@
 ﻿{
   "TimelineEntries": [
     {
+      "Id": "44",
+      "Title": "WT44",
+      "StartDate": "30/08/2024",
+      "Victory": true,
+      "Victories": {
+        "Domination": {
+          "Achieved": false,
+          "Conditions": [
+            "The office of Prime Minister must be held by the same player during the whole cycle.",
+            "A positive cult of personality without major opposition must be established around the Prime Minister’s person and its effects must be visible throughout the whole world.",
+            "The Prime Minister must faithfully and lawfully execute all of his duties at all times."
+          ],
+          "Rewards": [
+            "For the following cycle, the current Prime Minister may choose to become Federal President and to slightly adjust the server concept with Game Masters’ consent."
+          ]
+        },
+        "Religion": {
+          "Achieved": false,
+          "Conditions": [
+            "At least one religion must be founded and the majority of active citizens at the time of the victory ceremony must be followers of any religion.",
+            "Religions must be fictitious and positive, charge their followers a membership fee, build at least one prestigious church building, appoint members into fitting religious offices and at least conduct minor role play supporting it."
+          ],
+          "Rewards": [
+            "For the following cycle, the religion with the most followers at the end of the cycle becomes the state religion with a tax funded government office to facilitate endeavors typical for that religion."
+          ]
+        },
+        "Science": {
+          "Achieved": false,
+          "Conditions": [
+            "A monumental spaceport featuring a command center and a rocket must be built.",
+            "A library with at least 5 copies of each Skill Book must be established in the Federal University.",
+            "The population on the server needs to achieve at least 35 “Global Level-Ups” (visible in the tooltip for the specialty) for each of the following specialties: Electronics, Industry"
+          ],
+          "Rewards": [
+            "For the following cycle, the following specialties are already researched and their Skill Scrolls available in limited numbers right from the start: Baking, Basic Engineering, Carpentry, Cooking, Fertilizers, Masonry, Milling, Pottery, Shipwright, Smelting and Tailoring"
+          ]
+        },
+        "Diplomatic": {
+          "Achieved": false,
+          "Conditions": [
+            "At least four states must be founded (not including Unica) and have an active Governor during the victory ceremony.",
+            "At least four states qualifying for the former condition must have reached a “Culture Including Children“ value of at least 250."
+          ],
+          "Rewards": [
+            "For the following cycle, the governors of all states fulfilling the conditions are allowed to view the map and get to place their state at a location all of them agree on before the server starts. They are not allowed to share any information about the map."
+          ]
+        },
+        "Culture": {
+          "Achieved": false,
+          "Conditions": [
+            "All buildings in the government district of Unica must be built to be iconic and merge their gameplay functionality with aesthetic and roleplay supporting decorations in a manner that makes the buildings look like a usable prestigious real-life counterpart.",
+            "The Presidential Square in Unica must be upgraded to a monumental Presidential Palace and feature a realistic civil defense bunker for the general public underground.",
+            "The Federation must reach a “Culture Including Children” value of at least 2500."
+          ],
+          "Rewards": [
+            "For the following cycle, the recipes for T4 building materials and furniture are changed to make their costs on par with T3 materials and furniture."
+          ]
+        }
+      },
+      "Subtext": "First 11.0 Cycle",
+      "NotableEvents": [
+        "Gov attempted state power but was repealed later on",
+        "358k debt was repaid with a new debt of 93.6k carried over",
+        "UBI was increased by 20%"
+      ],
+      "HasScoreboard": true,
+      "HasThumbnail": true
+    },
+    {
       "Id": "43",
       "Title": "WT43",
       "StartDate": "19/07/2024",
       "Victory": true,
+      "Victories": {
+        "Domination": {
+          "Achieved": false,
+          "Conditions": [
+            "The office of Prime Minister must be held by the same player during the whole cycle.",
+            "A positive cult of personality without major opposition must be established around the Prime Minister’s person and its effects must be visible throughout the whole world.",
+            "The Prime Minister must faithfully and lawfully execute all of his duties at all times."
+          ],
+          "Rewards": [
+            "For the following cycle, the current Prime Minister may choose to become Federal President and to slightly adjust the server concept with Game Masters’ consent."
+          ]
+        },
+        "Religion": {
+          "Achieved": false,
+          "Conditions": [
+            "At least one religion must be founded and the majority of active citizens at the time of the victory ceremony must be followers of any religion.",
+            "Religions must be fictitious and positive, charge their followers a membership fee, build at least one prestigious church building, appoint members into fitting religious offices and at least conduct minor role play supporting it."
+          ],
+          "Rewards": [
+            "For the following cycle, the religion with the most followers at the end of the cycle becomes the state religion with a tax funded government office to facilitate endeavors typical for that religion."
+          ]
+        },
+        "Science": {
+          "Achieved": false,
+          "Conditions": [
+            "A monumental spaceport featuring a command center and a rocket must be built.",
+            "A library with at least 5 copies of each Skill Book must be established in the Federal University.",
+            "The population on the server needs to achieve at least 35 “Global Level-Ups” (visible in the tooltip for the specialty) for each of the following specialties: Electronics, Industry"
+          ],
+          "Rewards": [
+            "For the following cycle, the following specialties are already researched and their Skill Scrolls available in limited numbers right from the start: Baking, Basic Engineering, Carpentry, Cooking, Fertilizers, Masonry, Milling, Pottery, Shipwright, Smelting and Tailoring"
+          ]
+        },
+        "Diplomatic": {
+          "Achieved": false,
+          "Conditions": [
+            "At least four states must be founded (not including Unica) and have an active Governor during the victory ceremony.",
+            "At least four states qualifying for the former condition must have reached a “Culture Including Children“ value of at least 250."
+          ],
+          "Rewards": [
+            "For the following cycle, the governors of all states fulfilling the conditions are allowed to view the map and get to place their state at a location all of them agree on before the server starts. They are not allowed to share any information about the map."
+          ]
+        },
+        "Culture": {
+          "Achieved": false,
+          "Conditions": [
+            "All buildings in the government district of Unica must be built to be iconic and merge their gameplay functionality with aesthetic and roleplay supporting decorations in a manner that makes the buildings look like a usable prestigious real-life counterpart.",
+            "The Presidential Square in Unica must be upgraded to a monumental Presidential Palace and feature a realistic civil defense bunker for the general public underground.",
+            "The Federation must reach a “Culture Including Children” value of at least 2500."
+          ],
+          "Rewards": [
+            "For the following cycle, the recipes for T4 building materials and furniture are changed to make their costs on par with T3 materials and furniture."
+          ]
+        }
+      },
       "Subtext": "11.0 Playtest Cycle",
       "NotableEvents": [
         "Federal government ran a state oil scheme",
@@ -12,7 +136,8 @@
         "Giant waterwheels and glassworks at the end of the cycle almost caused the meteor to hit",
         "Federal government was 500k in debt by the end"
       ],
-      "HasScoreboard": true
+      "HasScoreboard": true,
+      "HasThumbnail": true
     },
     {
       "Id": "42",
