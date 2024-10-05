@@ -60,11 +60,11 @@
           ]
         }
       },
-      "Subtext": "First 11.0 Cycle",
+      "Subtext": "The 20% More Cycle",
       "NotableEvents": [
+        "UBI was increased by 20%",
         "Gov attempted state power but was repealed later on",
-        "358k debt was repaid with a new debt of 93.6k carried over",
-        "UBI was increased by 20%"
+        "358k debt was repaid with a new debt of 93.6k carried over"
       ],
       "HasScoreboard": true,
       "HasThumbnail": true
@@ -137,7 +137,7 @@
         "Federal government was 500k in debt by the end"
       ],
       "HasScoreboard": true,
-      "HasThumbnail": true
+      "HasThumbnail": false
     },
     {
       "Id": "42",
@@ -207,7 +207,8 @@
         "Every town had a culture hub and a museum",
         "There were references to Hitchhiker's Guide to the Galaxy everywhere"
       ],
-      "HasScoreboard": true
+      "HasScoreboard": true,
+      "HasThumbnail": true
     },
     {
       "Id": "wc2",
@@ -424,7 +425,8 @@
         "PirateBug started a religion of Arborists where members had to face a number of tree-related trials in order to advance the ranks",
         "Domination victory achieved by Elmeye"
       ],
-      "HasScoreboard": true
+      "HasScoreboard": true,
+      "HasThumbnail": true
     },
     {
       "Id": "38",

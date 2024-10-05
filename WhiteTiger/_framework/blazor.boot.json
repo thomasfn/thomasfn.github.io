@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "EcoWhiteTigerScoreboard.Frontend",
   "resources": {
-    "hash": "sha256-D+0aGwcvxoLJ+Mak0QmU79dZKvpoIw+Ao2gLjrNEnhc=",
+    "hash": "sha256-cav+KhlAh8IRS/j1RFQ+s9Oqg357p89mQG7ndoSREWg=",
     "jsModuleNative": {
       "dotnet.native.8.0.6.s250bccmtj.js": "sha256-W4orXY1Oh8CAI4fXVr72GfnlcBw8YdiPmys0j5nobTw="
     },
@@ -18,7 +18,7 @@
     },
     "assembly": {
       "Blazored.LocalStorage.wasm": "sha256-OaMAAd5n7ORfyur5e3QIyEVKJ76MKIvwbg7/icnnYcU=",
-      "EcoWhiteTigerScoreboard.Frontend.wasm": "sha256-/kujTGlU8r4T+rjdiNSfAIdQ3ZLHFgKlxbd6CRUxfgM=",
+      "EcoWhiteTigerScoreboard.Frontend.wasm": "sha256-KNDV9F/m1rXHEZ13PWdHCRHi4EJui/BeTJMCjUuPVdc=",
       "Microsoft.AspNetCore.Components.Forms.wasm": "sha256-otaHVV+wNUYShtezT2jeFxqJpzzpltizjuPLy6ZDFSA=",
       "Microsoft.AspNetCore.Components.wasm": "sha256-3To+yI8JTPEs2GilK1mELshSHEdCmSZrbgeyPmtIUP0=",
       "Microsoft.AspNetCore.Components.Web.wasm": "sha256-dNTuUER3Zc/Ow2QRIMZanRw3mb0C7Hd8VS8/WQsarAs=",

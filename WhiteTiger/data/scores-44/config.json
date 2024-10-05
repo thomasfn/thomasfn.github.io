@@ -138,7 +138,7 @@
     },
     {
       "Description": "Just a little off the top",
-      "StatName": "TaxTotals:High Rate Sales Tax + TaxTotals:Mid Rate Sales Tax",
+      "StatName": "TaxTotals:High Rate Sales Tax + TaxTotals:Mid Rate Sales Tax + TaxTotals:Low Rate Sales Tax",
       "Multiplier": 1.0,
       "Unit": "amount taxed",
       "Format": "Euros",
