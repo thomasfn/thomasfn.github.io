@@ -1,6 +1,78 @@
 ﻿{
   "TimelineEntries": [
     {
+      "Id": "47",
+      "Title": "WT47",
+      "StartDate": "07/02/2025",
+      "Victory": true,
+      "Victories": {
+        "Domination": {
+          "Achieved": false,
+          "Conditions": [
+            "The office of Prime Minister must be held by the same player during the whole cycle.",
+            "A positive cult of personality without major opposition must be established around the Prime Minister’s person and its effects must be visible throughout the whole world.",
+            "The Prime Minister must faithfully and lawfully execute all of his duties at all times."
+          ],
+          "Rewards": [
+            "For the following cycle, the current Prime Minister may choose to become Federal President and to slightly adjust the server concept with Game Masters’ consent."
+          ]
+        },
+        "Religion": {
+          "Achieved": false,
+          "Conditions": [
+            "At least one religion must be founded and the majority of active citizens at the time of the victory ceremony must be followers of any religion.",
+            "Religions must be fictitious and positive, charge their followers a membership fee, build at least one prestigious church building, appoint members into fitting religious offices and at least conduct minor role play supporting it."
+          ],
+          "Rewards": [
+            "For the following cycle, the religion with the most followers at the end of the cycle becomes the state religion with a tax funded government office to facilitate endeavors typical for that religion."
+          ]
+        },
+        "Science": {
+          "Achieved": false,
+          "Conditions": [
+            "A monumental spaceport featuring a command center and a rocket must be built.",
+            "A library with at least 5 copies of each Skill Book must be established in the Federal University.",
+            "The population on the server needs to achieve at least 35 “Global Level-Ups” (visible in the tooltip for the specialty) for each of the following specialties: Electronics, Industry"
+          ],
+          "Rewards": [
+            "For the following cycle, the following specialties are already researched and their Skill Scrolls available in limited numbers right from the start: Baking, Basic Engineering, Carpentry, Cooking, Fertilizers, Masonry, Milling, Pottery, Shipwright, Smelting and Tailoring"
+          ]
+        },
+        "Diplomatic": {
+          "Achieved": false,
+          "Conditions": [
+            "At least four states must be founded (not including Unica) and have an active Governor during the victory ceremony.",
+            "At least four states qualifying for the former condition must have reached a “Culture Including Children“ value of at least 250."
+          ],
+          "Rewards": [
+            "For the following cycle, the governors of all states fulfilling the conditions are allowed to view the map and get to place their state at a location all of them agree on before the server starts. They are not allowed to share any information about the map."
+          ]
+        },
+        "Culture": {
+          "Achieved": false,
+          "Conditions": [
+            "All buildings in the government district of Unica must be built to be iconic and merge their gameplay functionality with aesthetic and roleplay supporting decorations in a manner that makes the buildings look like a usable prestigious real-life counterpart.",
+            "The Presidential Square in Unica must be upgraded to a monumental Presidential Palace and feature a realistic civil defense bunker for the general public underground.",
+            "The Federation must reach a “Culture Including Children” value of at least 2500."
+          ],
+          "Rewards": [
+            "For the following cycle, the recipes for T4 building materials and furniture are changed to make their costs on par with T3 materials and furniture."
+          ]
+        }
+      },
+      "Subtext": "First 2025 Cycle",
+      "NotableEvents": [
+        "5 week cycle instead of usual 4 week",
+        "An older map seed was used which led to no sulfur being generated; some recipes were edited to craft sulfur instead",
+        "Unica had access to all important biomes on the same continent",
+        "Government collapsed in the first week with several chain abdications and successions",
+        "Skill releases were timed according to a pre-planned schedule which also spaced out upgrade progression",
+        "An attempt was made by McMiller to modify the standard Emission Permit law but proved to be quite challenging leading to some manual fixing required"
+      ],
+      "HasScoreboard": true,
+      "HasThumbnail": true
+    },
+    {
       "Id": "46",
       "Title": "WT46",
       "StartDate": "29/11/2024",
@@ -62,7 +134,9 @@
       },
       "Subtext": "Christmas 2024 Cycle",
       "NotableEvents": [
-        "Gov paid off all debt from WT45/44 and didn't accrue any more"
+        "Gov paid off all debt from WT45/44 and didn't accrue any more",
+        "A stock market was attempted with credit cards",
+        "Lots of cool Christmas builds with paintings"
       ],
       "HasScoreboard": true,
       "HasThumbnail": true
