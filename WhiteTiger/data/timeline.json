@@ -154,6 +154,19 @@
       "HasThumbnail": true
     },
     {
+      "Id": "wc3",
+      "Title": "WC3",
+      "StartDate": "01/11/2024",
+      "Victory": false,
+      "Subtext": "Speedrun Event",
+      "NotableEvents": [
+        "Third official open speedrun event",
+        "Exhaustion was turned on",
+        "Meteor failed to be shot down within 72 hours"
+      ],
+      "HasScoreboard": true
+    },
+    {
       "Id": "45",
       "Title": "WT45",
       "StartDate": "11/10/2024",

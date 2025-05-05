@@ -1,0 +1,7493 @@
+[
+  {
+    "Name": "ActiveContractsAndWorkParties",
+    "TotalValue": 0,
+    "Scores": [
+    ]
+  },
+  {
+    "Name": "AcceptedLoanOrBond",
+    "TotalValue": 0,
+    "Scores": [
+    ]
+  },
+  {
+    "Name": "ActiveElectedOfficials",
+    "TotalValue": 0,
+    "Scores": [
+    ]
+  },
+  {
+    "Name": "AgaveSpecies",
+    "TotalValue": 0,
+    "Scores": [
+    ]
+  },
+  {
+    "Name": "ActiveCivicElements",
+    "TotalValue": 0,
+    "Scores": [
+    ]
+  },
+  {
+    "Name": "AlligatorSpecies",
+    "TotalValue": 0,
+    "Scores": [
+    ]
+  },
+  {
+    "Name": "AmanitaMushroomSpecies",
+    "TotalValue": 0,
+    "Scores": [
+    ]
+  },
+  {
+    "Name": "AnimalPopulation",
+    "TotalValue": 0,
+    "Scores": [
+    ]
+  },
+  {
+    "Name": "AgoutiSpecies",
+    "TotalValue": 0,
+    "Scores": [
+    ]
+  },
+  {
+    "Name": "ArcticWillowSpecies",
+    "TotalValue": 0,
+    "Scores": [
+    ]
+  },
+  {
+    "Name": "ActiveStores",
+    "TotalValue": 0,
+    "Scores": [
+    ]
+  },
+  {
+    "Name": "ActiveCitizenPopulation",
+    "TotalValue": 0,
+    "Scores": [
+    ]
+  },
+  {
+    "Name": "ActiveCurrencies",
+    "TotalValue": 0,
+    "Scores": [
+    ]
+  },
+  {
+    "Name": "AverageGlobalTemperature",
+    "TotalValue": 0,
+    "Scores": [
+    ]
+  },
+  {
+    "Name": "BankAccountPermissionsChanged",
+    "TotalValue": 0,
+    "Scores": [
+    ]
+  },
+  {
+    "Name": "ButtonbushSpecies",
+    "TotalValue": 0,
+    "Scores": [
+    ]
+  },
+  {
+    "Name": "BarrelCactusSpecies",
+    "TotalValue": 0,
+    "Scores": [
+    ]
+  },
+  {
+    "Name": "BecomeCitizen",
+    "TotalValue": 0,
+    "Scores": [
+    ]
+  },
+  {
+    "Name": "BunchgrassSpecies",
+    "TotalValue": 0,
+    "Scores": [
+    ]
+  },
+  {
+    "Name": "BirchSpecies",
+    "TotalValue": 0,
+    "Scores": [
+    ]
+  },
+  {
+    "Name": "BigBluestemSpecies",
+    "TotalValue": 0,
+    "Scores": [
+    ]
+  },
+  {
+    "Name": "BlueSharkSpecies",
+    "TotalValue": 0,
+    "Scores": [
+    ]
+  },
+  {
+    "Name": "BlockPaintCleanup",
+    "TotalValue": 0,
+    "Scores": [
+    ]
+  },
+  {
+    "Name": "BoleteMushroomSpecies",
+    "TotalValue": 0,
+    "Scores": [
+    ]
+  },
+  {
+    "Name": "BeansSpecies",
+    "TotalValue": 0,
+    "Scores": [
+    ]
+  },
+  {
+    "Name": "BlockPaint",
+    "TotalValue": 0,
+    "Scores": [
+    ]
+  },
+  {
+    "Name": "BighornSheepSpecies",
+    "TotalValue": 0,
+    "Scores": [
+    ]
+  },
+  {
+    "Name": "BarterTrade",
+    "TotalValue": 0,
+    "Scores": [
+    ]
+  },
+  {
+    "Name": "BassSpecies",
+    "TotalValue": 0,
+    "Scores": [
+    ]
+  },
+  {
+    "Name": "BisonSpecies",
+    "TotalValue": 0,
+    "Scores": [
+    ]
+  },
+  {
+    "Name": "BeetsSpecies",
+    "TotalValue": 0,
+    "Scores": [
+    ]
+  },
+  {
+    "Name": "BullrushSpecies",
+    "TotalValue": 0,
+    "Scores": [
+    ]
+  },
+  {
+    "Name": "CreateTreeDebris",
+    "TotalValue": 4679,
+    "Scores": [
+      {
+        "Username": "Naarke",
+        "Score": 1915,
+        "Fraction": 0.4092754862150032
+      },
+      {
+        "Username": "neverwhatever",
+        "Score": 629,
+        "Fraction": 0.1344304338533875
+      },
+      {
+        "Username": "G.W\u5EE2\uFFFD",
+        "Score": 175,
+        "Fraction": 0.037401154092754865
+      },
+      {
+        "Username": "Lord Business",
+        "Score": 146,
+        "Fraction": 0.031203248557384055
+      },
+      {
+        "Username": "Hover",
+        "Score": 135,
+        "Fraction": 0.02885231887155375
+      },
+      {
+        "Username": "Nuura",
+        "Score": 119,
+        "Fraction": 0.025432784783073308
+      },
+      {
+        "Username": "Taelshin",
+        "Score": 107,
+        "Fraction": 0.022868134216712972
+      },
+      {
+        "Username": "foxrocks1070",
+        "Score": 101,
+        "Fraction": 0.021585808933532805
+      },
+      {
+        "Username": "nat4227",
+        "Score": 99,
+        "Fraction": 0.021158367172472752
+      },
+      {
+        "Username": "ArendiaStar",
+        "Score": 87,
+        "Fraction": 0.018593716606112417
+      },
+      {
+        "Username": "Ladyhawke",
+        "Score": 85,
+        "Fraction": 0.01816627484505236
+      },
+      {
+        "Username": "apxucmpamer",
+        "Score": 81,
+        "Fraction": 0.01731139132293225
+      },
+      {
+        "Username": "Droppre drop.skin",
+        "Score": 80,
+        "Fraction": 0.01709767044240222
+      },
+      {
+        "Username": "Ghost",
+        "Score": 68,
+        "Fraction": 0.01453301987604189
+      },
+      {
+        "Username": "PandaDono",
+        "Score": 58,
+        "Fraction": 0.012395811070741612
+      },
+      {
+        "Username": "ThBayan",
+        "Score": 52,
+        "Fraction": 0.011113485787561444
+      },
+      {
+        "Username": "Chancellor87",
+        "Score": 52,
+        "Fraction": 0.011113485787561444
+      },
+      {
+        "Username": "Remek",
+        "Score": 51,
+        "Fraction": 0.010899764907031416
+      },
+      {
+        "Username": "Goldenbarky",
+        "Score": 46,
+        "Fraction": 0.009831160504381278
+      },
+      {
+        "Username": "Striator",
+        "Score": 45,
+        "Fraction": 0.00961743962385125
+      },
+      {
+        "Username": "VDFrame",
+        "Score": 45,
+        "Fraction": 0.00961743962385125
+      },
+      {
+        "Username": "=7Cav=Mann.M",
+        "Score": 44,
+        "Fraction": 0.009403718743321222
+      },
+      {
+        "Username": "Zombie",
+        "Score": 40,
+        "Fraction": 0.00854883522120111
+      },
+      {
+        "Username": "Psyduck",
+        "Score": 36,
+        "Fraction": 0.007693951699081001
+      },
+      {
+        "Username": "MarisM",
+        "Score": 36,
+        "Fraction": 0.007693951699081001
+      },
+      {
+        "Username": "schluerfi",
+        "Score": 35,
+        "Fraction": 0.007480230818550973
+      },
+      {
+        "Username": "maddogisme1",
+        "Score": 34,
+        "Fraction": 0.007266509938020945
+      },
+      {
+        "Username": "Epic_Null",
+        "Score": 30,
+        "Fraction": 0.006411626415900834
+      },
+      {
+        "Username": "The_Reborn",
+        "Score": 27,
+        "Fraction": 0.00577046377431075
+      },
+      {
+        "Username": "Ikoniak",
+        "Score": 26,
+        "Fraction": 0.005556742893780722
+      },
+      {
+        "Username": "Volkozar",
+        "Score": 23,
+        "Fraction": 0.004915580252190639
+      },
+      {
+        "Username": "Croc",
+        "Score": 17,
+        "Fraction": 0.0036332549690104724
+      },
+      {
+        "Username": "Kam500",
+        "Score": 17,
+        "Fraction": 0.0036332549690104724
+      },
+      {
+        "Username": "Batsbak69",
+        "Score": 16,
+        "Fraction": 0.0034195340884804444
+      },
+      {
+        "Username": "Icepic",
+        "Score": 16,
+        "Fraction": 0.0034195340884804444
+      },
+      {
+        "Username": "Vortelas",
+        "Score": 15,
+        "Fraction": 0.003205813207950417
+      },
+      {
+        "Username": "Nico1564",
+        "Score": 12,
+        "Fraction": 0.0025646505663603335
+      },
+      {
+        "Username": "Celt",
+        "Score": 12,
+        "Fraction": 0.0025646505663603335
+      },
+      {
+        "Username": "wolf bear",
+        "Score": 12,
+        "Fraction": 0.0025646505663603335
+      },
+      {
+        "Username": "Banditzz",
+        "Score": 11,
+        "Fraction": 0.0023509296858303056
+      },
+      {
+        "Username": "Almost Average",
+        "Score": 9,
+        "Fraction": 0.0019234879247702502
+      },
+      {
+        "Username": "sheppyboy",
+        "Score": 9,
+        "Fraction": 0.0019234879247702502
+      },
+      {
+        "Username": "sir_pattrick",
+        "Score": 8,
+        "Fraction": 0.0017097670442402222
+      },
+      {
+        "Username": "MadMan",
+        "Score": 4,
+        "Fraction": 0.0008548835221201111
+      },
+      {
+        "Username": "jumunius",
+        "Score": 4,
+        "Fraction": 0.0008548835221201111
+      },
+      {
+        "Username": "elektralibro",
+        "Score": 4,
+        "Fraction": 0.0008548835221201111
+      },
+      {
+        "Username": "a161e9722341",
+        "Score": 3,
+        "Fraction": 0.0006411626415900834
+      },
+      {
+        "Username": "Bora",
+        "Score": 3,
+        "Fraction": 0.0006411626415900834
+      }
+    ]
+  },
+  {
+    "Name": "ChatSent",
+    "TotalValue": 2493,
+    "Scores": [
+      {
+        "Username": "Psyduck",
+        "Score": 494,
+        "Fraction": 0.1981548335338949
+      },
+      {
+        "Username": "nat4227",
+        "Score": 409,
+        "Fraction": 0.1640593662254312
+      },
+      {
+        "Username": "PandaDono",
+        "Score": 220,
+        "Fraction": 0.08824709185720016
+      },
+      {
+        "Username": "apxucmpamer",
+        "Score": 195,
+        "Fraction": 0.07821901323706378
+      },
+      {
+        "Username": "Epic_Null",
+        "Score": 135,
+        "Fraction": 0.05415162454873646
+      },
+      {
+        "Username": "Taelshin",
+        "Score": 128,
+        "Fraction": 0.05134376253509827
+      },
+      {
+        "Username": "Ladyhawke",
+        "Score": 117,
+        "Fraction": 0.04693140794223827
+      },
+      {
+        "Username": "Agron",
+        "Score": 107,
+        "Fraction": 0.04292017649418371
+      },
+      {
+        "Username": "Nuura",
+        "Score": 83,
+        "Fraction": 0.033293221018852785
+      },
+      {
+        "Username": "Naarke",
+        "Score": 82,
+        "Fraction": 0.03289209787404733
+      },
+      {
+        "Username": "sir_pattrick",
+        "Score": 75,
+        "Fraction": 0.030084235860409144
+      },
+      {
+        "Username": "Droppre drop.skin",
+        "Score": 68,
+        "Fraction": 0.02727637384677096
+      },
+      {
+        "Username": "Hover",
+        "Score": 50,
+        "Fraction": 0.020056157240272765
+      },
+      {
+        "Username": "96dwilliams",
+        "Score": 50,
+        "Fraction": 0.020056157240272765
+      },
+      {
+        "Username": "Ikoniak",
+        "Score": 41,
+        "Fraction": 0.016446048937023665
+      },
+      {
+        "Username": "Remek",
+        "Score": 28,
+        "Fraction": 0.011231448054552748
+      },
+      {
+        "Username": "neverwhatever",
+        "Score": 27,
+        "Fraction": 0.010830324909747292
+      },
+      {
+        "Username": "ArendiaStar",
+        "Score": 27,
+        "Fraction": 0.010830324909747292
+      },
+      {
+        "Username": "leefnmajors",
+        "Score": 20,
+        "Fraction": 0.008022462896109106
+      },
+      {
+        "Username": "Chancellor87",
+        "Score": 19,
+        "Fraction": 0.00762133975130365
+      },
+      {
+        "Username": "=7Cav=Mann.M",
+        "Score": 19,
+        "Fraction": 0.00762133975130365
+      },
+      {
+        "Username": "KatFish",
+        "Score": 16,
+        "Fraction": 0.006417970316887284
+      },
+      {
+        "Username": "MadGirl",
+        "Score": 11,
+        "Fraction": 0.004412354592860008
+      },
+      {
+        "Username": "Barramundi",
+        "Score": 10,
+        "Fraction": 0.004011231448054553
+      },
+      {
+        "Username": "Volkozar",
+        "Score": 9,
+        "Fraction": 0.0036101083032490976
+      },
+      {
+        "Username": "ThBayan",
+        "Score": 6,
+        "Fraction": 0.0024067388688327317
+      },
+      {
+        "Username": "foxrocks1070",
+        "Score": 6,
+        "Fraction": 0.0024067388688327317
+      },
+      {
+        "Username": "Banditzz",
+        "Score": 6,
+        "Fraction": 0.0024067388688327317
+      },
+      {
+        "Username": "MadMan",
+        "Score": 5,
+        "Fraction": 0.0020056157240272766
+      },
+      {
+        "Username": "jumunius",
+        "Score": 5,
+        "Fraction": 0.0020056157240272766
+      },
+      {
+        "Username": "Gary",
+        "Score": 4,
+        "Fraction": 0.001604492579221821
+      },
+      {
+        "Username": "unnadawg",
+        "Score": 4,
+        "Fraction": 0.001604492579221821
+      },
+      {
+        "Username": "Croc",
+        "Score": 3,
+        "Fraction": 0.0012033694344163659
+      },
+      {
+        "Username": "Goldenbarky",
+        "Score": 3,
+        "Fraction": 0.0012033694344163659
+      },
+      {
+        "Username": "Icepic",
+        "Score": 3,
+        "Fraction": 0.0012033694344163659
+      },
+      {
+        "Username": "MarisM",
+        "Score": 3,
+        "Fraction": 0.0012033694344163659
+      },
+      {
+        "Username": "Weylin",
+        "Score": 2,
+        "Fraction": 0.0008022462896109105
+      },
+      {
+        "Username": "MaxVexis",
+        "Score": 2,
+        "Fraction": 0.0008022462896109105
+      },
+      {
+        "Username": "maddogisme1",
+        "Score": 1,
+        "Fraction": 0.00040112314480545525
+      }
+    ]
+  },
+  {
+    "Name": "CrabSpecies",
+    "TotalValue": 0,
+    "Scores": [
+    ]
+  },
+  {
+    "Name": "ClamSpecies",
+    "TotalValue": 0,
+    "Scores": [
+    ]
+  },
+  {
+    "Name": "CreosoteBushSpecies",
+    "TotalValue": 0,
+    "Scores": [
+    ]
+  },
+  {
+    "Name": "CompleteClass",
+    "TotalValue": 0,
+    "Scores": [
+    ]
+  },
+  {
+    "Name": "CedarSpecies",
+    "TotalValue": 0,
+    "Scores": [
+    ]
+  },
+  {
+    "Name": "CodSpecies",
+    "TotalValue": 0,
+    "Scores": [
+    ]
+  },
+  {
+    "Name": "CleanupTreeDebris",
+    "TotalValue": 3957,
+    "Scores": [
+      {
+        "Username": "nat4227",
+        "Score": 788,
+        "Fraction": 0.19914076320444782
+      },
+      {
+        "Username": "Naarke",
+        "Score": 357,
+        "Fraction": 0.09021986353297953
+      },
+      {
+        "Username": "Lord Business",
+        "Score": 326,
+        "Fraction": 0.08238564569118019
+      },
+      {
+        "Username": "apxucmpamer",
+        "Score": 314,
+        "Fraction": 0.07935304523629012
+      },
+      {
+        "Username": "Epic_Null",
+        "Score": 279,
+        "Fraction": 0.07050796057619409
+      },
+      {
+        "Username": "Hover",
+        "Score": 164,
+        "Fraction": 0.041445539550164265
+      },
+      {
+        "Username": "Nuura",
+        "Score": 159,
+        "Fraction": 0.0401819560272934
+      },
+      {
+        "Username": "G.W\u5EE2\uFFFD",
+        "Score": 145,
+        "Fraction": 0.03664392216325499
+      },
+      {
+        "Username": "Psyduck",
+        "Score": 121,
+        "Fraction": 0.030578721253474855
+      },
+      {
+        "Username": "Remek",
+        "Score": 110,
+        "Fraction": 0.02779883750315896
+      },
+      {
+        "Username": "Ladyhawke",
+        "Score": 104,
+        "Fraction": 0.026282537275713926
+      },
+      {
+        "Username": "neverwhatever",
+        "Score": 94,
+        "Fraction": 0.023755370229972202
+      },
+      {
+        "Username": "PandaDono",
+        "Score": 90,
+        "Fraction": 0.022744503411675512
+      },
+      {
+        "Username": "foxrocks1070",
+        "Score": 76,
+        "Fraction": 0.0192064695476371
+      },
+      {
+        "Username": "ArendiaStar",
+        "Score": 60,
+        "Fraction": 0.015163002274450341
+      },
+      {
+        "Username": "Droppre drop.skin",
+        "Score": 59,
+        "Fraction": 0.01491028556987617
+      },
+      {
+        "Username": "=7Cav=Mann.M",
+        "Score": 56,
+        "Fraction": 0.014152135456153651
+      },
+      {
+        "Username": "Chancellor87",
+        "Score": 54,
+        "Fraction": 0.013646702047005308
+      },
+      {
+        "Username": "ThBayan",
+        "Score": 46,
+        "Fraction": 0.011624968410411928
+      },
+      {
+        "Username": "Goldenbarky",
+        "Score": 46,
+        "Fraction": 0.011624968410411928
+      },
+      {
+        "Username": "Zombie",
+        "Score": 46,
+        "Fraction": 0.011624968410411928
+      },
+      {
+        "Username": "Ghost",
+        "Score": 45,
+        "Fraction": 0.011372251705837756
+      },
+      {
+        "Username": "VDFrame",
+        "Score": 45,
+        "Fraction": 0.011372251705837756
+      },
+      {
+        "Username": "Ikoniak",
+        "Score": 42,
+        "Fraction": 0.01061410159211524
+      },
+      {
+        "Username": "Icepic",
+        "Score": 41,
+        "Fraction": 0.010361384887541066
+      },
+      {
+        "Username": "MarisM",
+        "Score": 36,
+        "Fraction": 0.009097801364670205
+      },
+      {
+        "Username": "unnadawg",
+        "Score": 30,
+        "Fraction": 0.0075815011372251705
+      },
+      {
+        "Username": "Gary",
+        "Score": 26,
+        "Fraction": 0.006570634318928481
+      },
+      {
+        "Username": "Striator",
+        "Score": 26,
+        "Fraction": 0.006570634318928481
+      },
+      {
+        "Username": "Banditzz",
+        "Score": 26,
+        "Fraction": 0.006570634318928481
+      },
+      {
+        "Username": "Volkozar",
+        "Score": 22,
+        "Fraction": 0.005559767500631791
+      },
+      {
+        "Username": "The_Reborn",
+        "Score": 20,
+        "Fraction": 0.005054334091483447
+      },
+      {
+        "Username": "Vortelas",
+        "Score": 15,
+        "Fraction": 0.0037907505686125853
+      },
+      {
+        "Username": "schluerfi",
+        "Score": 14,
+        "Fraction": 0.0035380338640384128
+      },
+      {
+        "Username": "Nico1564",
+        "Score": 12,
+        "Fraction": 0.003032600454890068
+      },
+      {
+        "Username": "wolf bear",
+        "Score": 12,
+        "Fraction": 0.003032600454890068
+      },
+      {
+        "Username": "a161e9722341",
+        "Score": 10,
+        "Fraction": 0.0025271670457417236
+      },
+      {
+        "Username": "Celt",
+        "Score": 10,
+        "Fraction": 0.0025271670457417236
+      },
+      {
+        "Username": "Almost Average",
+        "Score": 9,
+        "Fraction": 0.002274450341167551
+      },
+      {
+        "Username": "MadMan",
+        "Score": 4,
+        "Fraction": 0.0010108668182966893
+      },
+      {
+        "Username": "jumunius",
+        "Score": 4,
+        "Fraction": 0.0010108668182966893
+      },
+      {
+        "Username": "Croc",
+        "Score": 3,
+        "Fraction": 0.000758150113722517
+      },
+      {
+        "Username": "Bora",
+        "Score": 3,
+        "Fraction": 0.000758150113722517
+      },
+      {
+        "Username": "Taelshin",
+        "Score": 2,
+        "Fraction": 0.0005054334091483447
+      },
+      {
+        "Username": "sheppyboy",
+        "Score": 2,
+        "Fraction": 0.0005054334091483447
+      },
+      {
+        "Username": "maddogisme1",
+        "Score": 2,
+        "Fraction": 0.0005054334091483447
+      },
+      {
+        "Username": "sir_pattrick",
+        "Score": 1,
+        "Fraction": 0.00025271670457417233
+      },
+      {
+        "Username": "elektralibro",
+        "Score": 1,
+        "Fraction": 0.00025271670457417233
+      }
+    ]
+  },
+  {
+    "Name": "CommonGrassSpecies",
+    "TotalValue": 0,
+    "Scores": [
+    ]
+  },
+  {
+    "Name": "CharacterLevelUp",
+    "TotalValue": 140,
+    "Scores": [
+      {
+        "Username": "Ikoniak",
+        "Score": 7,
+        "Fraction": 0.05
+      },
+      {
+        "Username": "PandaDono",
+        "Score": 6,
+        "Fraction": 0.04285714285714286
+      },
+      {
+        "Username": "sir_pattrick",
+        "Score": 6,
+        "Fraction": 0.04285714285714286
+      },
+      {
+        "Username": "96dwilliams",
+        "Score": 4,
+        "Fraction": 0.02857142857142857
+      },
+      {
+        "Username": "nat4227",
+        "Score": 4,
+        "Fraction": 0.02857142857142857
+      },
+      {
+        "Username": "Ladyhawke",
+        "Score": 4,
+        "Fraction": 0.02857142857142857
+      },
+      {
+        "Username": "Droppre drop.skin",
+        "Score": 4,
+        "Fraction": 0.02857142857142857
+      },
+      {
+        "Username": "maddogisme1",
+        "Score": 4,
+        "Fraction": 0.02857142857142857
+      },
+      {
+        "Username": "Nuura",
+        "Score": 4,
+        "Fraction": 0.02857142857142857
+      },
+      {
+        "Username": "foxrocks1070",
+        "Score": 3,
+        "Fraction": 0.02142857142857143
+      },
+      {
+        "Username": "Naarke",
+        "Score": 3,
+        "Fraction": 0.02142857142857143
+      },
+      {
+        "Username": "Psyduck",
+        "Score": 3,
+        "Fraction": 0.02142857142857143
+      },
+      {
+        "Username": "neverwhatever",
+        "Score": 3,
+        "Fraction": 0.02142857142857143
+      },
+      {
+        "Username": "Chancellor87",
+        "Score": 3,
+        "Fraction": 0.02142857142857143
+      },
+      {
+        "Username": "Agron",
+        "Score": 3,
+        "Fraction": 0.02142857142857143
+      },
+      {
+        "Username": "Epic_Null",
+        "Score": 3,
+        "Fraction": 0.02142857142857143
+      },
+      {
+        "Username": "KatFish",
+        "Score": 3,
+        "Fraction": 0.02142857142857143
+      },
+      {
+        "Username": "Lord Business",
+        "Score": 2,
+        "Fraction": 0.014285714285714285
+      },
+      {
+        "Username": "apxucmpamer",
+        "Score": 2,
+        "Fraction": 0.014285714285714285
+      },
+      {
+        "Username": "ArendiaStar",
+        "Score": 2,
+        "Fraction": 0.014285714285714285
+      },
+      {
+        "Username": "ThBayan",
+        "Score": 2,
+        "Fraction": 0.014285714285714285
+      },
+      {
+        "Username": "unnadawg",
+        "Score": 2,
+        "Fraction": 0.014285714285714285
+      },
+      {
+        "Username": "MarisM",
+        "Score": 2,
+        "Fraction": 0.014285714285714285
+      },
+      {
+        "Username": "G.W\u5EE2\uFFFD",
+        "Score": 2,
+        "Fraction": 0.014285714285714285
+      },
+      {
+        "Username": "Striator",
+        "Score": 2,
+        "Fraction": 0.014285714285714285
+      },
+      {
+        "Username": "Ghost",
+        "Score": 2,
+        "Fraction": 0.014285714285714285
+      },
+      {
+        "Username": "Remek",
+        "Score": 1,
+        "Fraction": 0.007142857142857143
+      },
+      {
+        "Username": "Hover",
+        "Score": 1,
+        "Fraction": 0.007142857142857143
+      },
+      {
+        "Username": "Taelshin",
+        "Score": 1,
+        "Fraction": 0.007142857142857143
+      },
+      {
+        "Username": "Goldenbarky",
+        "Score": 1,
+        "Fraction": 0.007142857142857143
+      },
+      {
+        "Username": "Gary",
+        "Score": 1,
+        "Fraction": 0.007142857142857143
+      },
+      {
+        "Username": "leefnmajors",
+        "Score": 1,
+        "Fraction": 0.007142857142857143
+      },
+      {
+        "Username": "MadMan",
+        "Score": 1,
+        "Fraction": 0.007142857142857143
+      },
+      {
+        "Username": "Kam500",
+        "Score": 1,
+        "Fraction": 0.007142857142857143
+      },
+      {
+        "Username": "a161e9722341",
+        "Score": 1,
+        "Fraction": 0.007142857142857143
+      },
+      {
+        "Username": "Zombie",
+        "Score": 1,
+        "Fraction": 0.007142857142857143
+      },
+      {
+        "Username": "schluerfi",
+        "Score": 1,
+        "Fraction": 0.007142857142857143
+      },
+      {
+        "Username": "Volkozar",
+        "Score": 1,
+        "Fraction": 0.007142857142857143
+      },
+      {
+        "Username": "Vortelas",
+        "Score": 1,
+        "Fraction": 0.007142857142857143
+      },
+      {
+        "Username": "Hy_Haxep",
+        "Score": 1,
+        "Fraction": 0.007142857142857143
+      },
+      {
+        "Username": "Almost Average",
+        "Score": 1,
+        "Fraction": 0.007142857142857143
+      },
+      {
+        "Username": "Nico1564",
+        "Score": 1,
+        "Fraction": 0.007142857142857143
+      },
+      {
+        "Username": "Batsbak69",
+        "Score": 1,
+        "Fraction": 0.007142857142857143
+      },
+      {
+        "Username": "Croc",
+        "Score": 1,
+        "Fraction": 0.007142857142857143
+      },
+      {
+        "Username": "Dark.Khimela",
+        "Score": 1,
+        "Fraction": 0.007142857142857143
+      },
+      {
+        "Username": "Lucifiel",
+        "Score": 1,
+        "Fraction": 0.007142857142857143
+      },
+      {
+        "Username": "XORAXXXX",
+        "Score": 1,
+        "Fraction": 0.007142857142857143
+      },
+      {
+        "Username": "Exciter",
+        "Score": 1,
+        "Fraction": 0.007142857142857143
+      },
+      {
+        "Username": "dangerJaxieYT",
+        "Score": 1,
+        "Fraction": 0.007142857142857143
+      },
+      {
+        "Username": "Zebis",
+        "Score": 1,
+        "Fraction": 0.007142857142857143
+      },
+      {
+        "Username": "RU | \u0411\u041B\u042D\uFFFD",
+        "Score": 1,
+        "Fraction": 0.007142857142857143
+      },
+      {
+        "Username": "Barramundi",
+        "Score": 1,
+        "Fraction": 0.007142857142857143
+      },
+      {
+        "Username": "RCB",
+        "Score": 1,
+        "Fraction": 0.007142857142857143
+      },
+      {
+        "Username": "Banditzz",
+        "Score": 1,
+        "Fraction": 0.007142857142857143
+      },
+      {
+        "Username": "sheppyboy",
+        "Score": 1,
+        "Fraction": 0.007142857142857143
+      },
+      {
+        "Username": "skyfly5",
+        "Score": 1,
+        "Fraction": 0.007142857142857143
+      },
+      {
+        "Username": "Cobalt",
+        "Score": 1,
+        "Fraction": 0.007142857142857143
+      },
+      {
+        "Username": "Weylin",
+        "Score": 1,
+        "Fraction": 0.007142857142857143
+      },
+      {
+        "Username": "obere",
+        "Score": 1,
+        "Fraction": 0.007142857142857143
+      },
+      {
+        "Username": "Razorlance",
+        "Score": 1,
+        "Fraction": 0.007142857142857143
+      },
+      {
+        "Username": "Gore",
+        "Score": 1,
+        "Fraction": 0.007142857142857143
+      },
+      {
+        "Username": "=7Cav=Mann.M",
+        "Score": 1,
+        "Fraction": 0.007142857142857143
+      },
+      {
+        "Username": "MadGirl",
+        "Score": 1,
+        "Fraction": 0.007142857142857143
+      },
+      {
+        "Username": "PembrokeWelshCorgi",
+        "Score": 1,
+        "Fraction": 0.007142857142857143
+      },
+      {
+        "Username": "Solaal",
+        "Score": 1,
+        "Fraction": 0.007142857142857143
+      },
+      {
+        "Username": "Icepic",
+        "Score": 1,
+        "Fraction": 0.007142857142857143
+      },
+      {
+        "Username": "MaxVexis",
+        "Score": 1,
+        "Fraction": 0.007142857142857143
+      },
+      {
+        "Username": "Alternz",
+        "Score": 1,
+        "Fraction": 0.007142857142857143
+      },
+      {
+        "Username": "Cobalt-60",
+        "Score": 1,
+        "Fraction": 0.007142857142857143
+      },
+      {
+        "Username": "Zang2107",
+        "Score": 1,
+        "Fraction": 0.007142857142857143
+      },
+      {
+        "Username": "Celt",
+        "Score": 1,
+        "Fraction": 0.007142857142857143
+      },
+      {
+        "Username": "Werwolf",
+        "Score": 1,
+        "Fraction": 0.007142857142857143
+      },
+      {
+        "Username": "wolf bear",
+        "Score": 1,
+        "Fraction": 0.007142857142857143
+      },
+      {
+        "Username": "KadvanLlawen",
+        "Score": 1,
+        "Fraction": 0.007142857142857143
+      },
+      {
+        "Username": "MiLaNeQ",
+        "Score": 1,
+        "Fraction": 0.007142857142857143
+      },
+      {
+        "Username": "maribethpoisson",
+        "Score": 1,
+        "Fraction": 0.007142857142857143
+      },
+      {
+        "Username": "Oleganio",
+        "Score": 1,
+        "Fraction": 0.007142857142857143
+      },
+      {
+        "Username": "Lukalot",
+        "Score": 1,
+        "Fraction": 0.007142857142857143
+      },
+      {
+        "Username": "jumunius",
+        "Score": 1,
+        "Fraction": 0.007142857142857143
+      },
+      {
+        "Username": "Silveraio",
+        "Score": 1,
+        "Fraction": 0.007142857142857143
+      },
+      {
+        "Username": "Ya Boi Chris",
+        "Score": 1,
+        "Fraction": 0.007142857142857143
+      }
+    ]
+  },
+  {
+    "Name": "ClaimOrUnclaimProperty",
+    "TotalValue": 0,
+    "Scores": [
+    ]
+  },
+  {
+    "Name": "CeibaSpecies",
+    "TotalValue": 0,
+    "Scores": [
+    ]
+  },
+  {
+    "Name": "CriminiMushroomSpecies",
+    "TotalValue": 0,
+    "Scores": [
+    ]
+  },
+  {
+    "Name": "CitizenJoinCompany",
+    "TotalValue": 0,
+    "Scores": [
+    ]
+  },
+  {
+    "Name": "CookeinaMushroomSpecies",
+    "TotalValue": 0,
+    "Scores": [
+    ]
+  },
+  {
+    "Name": "CulturalObjectSold",
+    "TotalValue": 0,
+    "Scores": [
+    ]
+  },
+  {
+    "Name": "CompletedWorkParty",
+    "TotalValue": 0,
+    "Scores": [
+    ]
+  },
+  {
+    "Name": "CompanyEmployeeWealthChanged",
+    "TotalValue": 0,
+    "Scores": [
+    ]
+  },
+  {
+    "Name": "CamasSpecies",
+    "TotalValue": 0,
+    "Scores": [
+    ]
+  },
+  {
+    "Name": "CompanyExpense",
+    "TotalValue": 0,
+    "Scores": [
+    ]
+  },
+  {
+    "Name": "CompanyEmployeeIncome",
+    "TotalValue": 0,
+    "Scores": [
+    ]
+  },
+  {
+    "Name": "CompanyIncome",
+    "TotalValue": 0,
+    "Scores": [
+    ]
+  },
+  {
+    "Name": "ConstructOrDeconstruct",
+    "TotalValue": 20313,
+    "Scores": [
+      {
+        "Username": "nat4227",
+        "Score": 2557,
+        "Fraction": 0.12587997833899472
+      },
+      {
+        "Username": "Droppre drop.skin",
+        "Score": 1902,
+        "Fraction": 0.09363461822478215
+      },
+      {
+        "Username": "Psyduck",
+        "Score": 1605,
+        "Fraction": 0.07901343966917737
+      },
+      {
+        "Username": "apxucmpamer",
+        "Score": 1395,
+        "Fraction": 0.06867523260965884
+      },
+      {
+        "Username": "G.W\u5EE2\uFFFD",
+        "Score": 1237,
+        "Fraction": 0.060896962536306797
+      },
+      {
+        "Username": "ArendiaStar",
+        "Score": 1187,
+        "Fraction": 0.05843548466499286
+      },
+      {
+        "Username": "Remek",
+        "Score": 880,
+        "Fraction": 0.04332201053512529
+      },
+      {
+        "Username": "Naarke",
+        "Score": 876,
+        "Fraction": 0.04312509230542017
+      },
+      {
+        "Username": "Ikoniak",
+        "Score": 824,
+        "Fraction": 0.04056515531925368
+      },
+      {
+        "Username": "Nuura",
+        "Score": 770,
+        "Fraction": 0.03790675921823463
+      },
+      {
+        "Username": "MarisM",
+        "Score": 669,
+        "Fraction": 0.03293457391818048
+      },
+      {
+        "Username": "Striator",
+        "Score": 564,
+        "Fraction": 0.02776547038842121
+      },
+      {
+        "Username": "maddogisme1",
+        "Score": 539,
+        "Fraction": 0.026534731452764238
+      },
+      {
+        "Username": "Ghost",
+        "Score": 494,
+        "Fraction": 0.024319401368581697
+      },
+      {
+        "Username": "96dwilliams",
+        "Score": 493,
+        "Fraction": 0.024270171811155417
+      },
+      {
+        "Username": "neverwhatever",
+        "Score": 460,
+        "Fraction": 0.02264559641608822
+      },
+      {
+        "Username": "=7Cav=Mann.M",
+        "Score": 448,
+        "Fraction": 0.022054841726972873
+      },
+      {
+        "Username": "Goldenbarky",
+        "Score": 382,
+        "Fraction": 0.018805690936838478
+      },
+      {
+        "Username": "sir_pattrick",
+        "Score": 348,
+        "Fraction": 0.017131885984345
+      },
+      {
+        "Username": "Ladyhawke",
+        "Score": 306,
+        "Fraction": 0.015064244572441293
+      },
+      {
+        "Username": "The_Reborn",
+        "Score": 281,
+        "Fraction": 0.013833505636784326
+      },
+      {
+        "Username": "PandaDono",
+        "Score": 233,
+        "Fraction": 0.011470486880322947
+      },
+      {
+        "Username": "Hover",
+        "Score": 229,
+        "Fraction": 0.011273568650617832
+      },
+      {
+        "Username": "Chancellor87",
+        "Score": 227,
+        "Fraction": 0.011175109535765273
+      },
+      {
+        "Username": "foxrocks1070",
+        "Score": 226,
+        "Fraction": 0.011125879978338995
+      },
+      {
+        "Username": "VDFrame",
+        "Score": 201,
+        "Fraction": 0.009895141042682026
+      },
+      {
+        "Username": "Banditzz",
+        "Score": 194,
+        "Fraction": 0.009550534140698076
+      },
+      {
+        "Username": "schluerfi",
+        "Score": 192,
+        "Fraction": 0.009452075025845517
+      },
+      {
+        "Username": "Kam500",
+        "Score": 176,
+        "Fraction": 0.008664402107025057
+      },
+      {
+        "Username": "wolf bear",
+        "Score": 108,
+        "Fraction": 0.005316792202038104
+      },
+      {
+        "Username": "Nico1564",
+        "Score": 104,
+        "Fraction": 0.005119873972332989
+      },
+      {
+        "Username": "Volkozar",
+        "Score": 104,
+        "Fraction": 0.005119873972332989
+      },
+      {
+        "Username": "Agron",
+        "Score": 40,
+        "Fraction": 0.0019691822970511496
+      },
+      {
+        "Username": "ThBayan",
+        "Score": 26,
+        "Fraction": 0.0012799684930832472
+      },
+      {
+        "Username": "Croc",
+        "Score": 21,
+        "Fraction": 0.0010338207059518536
+      },
+      {
+        "Username": "Lord Business",
+        "Score": 11,
+        "Fraction": 0.0005415251316890661
+      },
+      {
+        "Username": "Gary",
+        "Score": 2,
+        "Fraction": 9.845911485255748E-05
+      },
+      {
+        "Username": "Celt",
+        "Score": 2,
+        "Fraction": 9.845911485255748E-05
+      }
+    ]
+  },
+  {
+    "Name": "CompletedContract",
+    "TotalValue": 0,
+    "Scores": [
+    ]
+  },
+  {
+    "Name": "ChopTree",
+    "TotalValue": 1043,
+    "Scores": [
+      {
+        "Username": "Naarke",
+        "Score": 439,
+        "Fraction": 0.42090124640460214
+      },
+      {
+        "Username": "neverwhatever",
+        "Score": 136,
+        "Fraction": 0.13039309683604985
+      },
+      {
+        "Username": "Hover",
+        "Score": 57,
+        "Fraction": 0.05465004793863854
+      },
+      {
+        "Username": "apxucmpamer",
+        "Score": 42,
+        "Fraction": 0.040268456375838924
+      },
+      {
+        "Username": "G.W\u5EE2\uFFFD",
+        "Score": 31,
+        "Fraction": 0.029721955896452542
+      },
+      {
+        "Username": "Taelshin",
+        "Score": 29,
+        "Fraction": 0.027804410354745925
+      },
+      {
+        "Username": "Nuura",
+        "Score": 25,
+        "Fraction": 0.023969319271332695
+      },
+      {
+        "Username": "Droppre drop.skin",
+        "Score": 23,
+        "Fraction": 0.02205177372962608
+      },
+      {
+        "Username": "Lord Business",
+        "Score": 22,
+        "Fraction": 0.02109300095877277
+      },
+      {
+        "Username": "Remek",
+        "Score": 22,
+        "Fraction": 0.02109300095877277
+      },
+      {
+        "Username": "nat4227",
+        "Score": 21,
+        "Fraction": 0.020134228187919462
+      },
+      {
+        "Username": "ThBayan",
+        "Score": 17,
+        "Fraction": 0.016299137104506232
+      },
+      {
+        "Username": "PandaDono",
+        "Score": 16,
+        "Fraction": 0.015340364333652923
+      },
+      {
+        "Username": "Ladyhawke",
+        "Score": 13,
+        "Fraction": 0.012464046021093002
+      },
+      {
+        "Username": "Chancellor87",
+        "Score": 13,
+        "Fraction": 0.012464046021093002
+      },
+      {
+        "Username": "schluerfi",
+        "Score": 11,
+        "Fraction": 0.010546500479386385
+      },
+      {
+        "Username": "ArendiaStar",
+        "Score": 11,
+        "Fraction": 0.010546500479386385
+      },
+      {
+        "Username": "Ghost",
+        "Score": 11,
+        "Fraction": 0.010546500479386385
+      },
+      {
+        "Username": "foxrocks1070",
+        "Score": 10,
+        "Fraction": 0.009587727708533078
+      },
+      {
+        "Username": "=7Cav=Mann.M",
+        "Score": 10,
+        "Fraction": 0.009587727708533078
+      },
+      {
+        "Username": "VDFrame",
+        "Score": 9,
+        "Fraction": 0.00862895493767977
+      },
+      {
+        "Username": "Goldenbarky",
+        "Score": 6,
+        "Fraction": 0.005752636625119847
+      },
+      {
+        "Username": "Zombie",
+        "Score": 6,
+        "Fraction": 0.005752636625119847
+      },
+      {
+        "Username": "Ikoniak",
+        "Score": 5,
+        "Fraction": 0.004793863854266539
+      },
+      {
+        "Username": "MarisM",
+        "Score": 5,
+        "Fraction": 0.004793863854266539
+      },
+      {
+        "Username": "The_Reborn",
+        "Score": 5,
+        "Fraction": 0.004793863854266539
+      },
+      {
+        "Username": "maddogisme1",
+        "Score": 4,
+        "Fraction": 0.003835091083413231
+      },
+      {
+        "Username": "Psyduck",
+        "Score": 4,
+        "Fraction": 0.003835091083413231
+      },
+      {
+        "Username": "MadMan",
+        "Score": 4,
+        "Fraction": 0.003835091083413231
+      },
+      {
+        "Username": "Striator",
+        "Score": 4,
+        "Fraction": 0.003835091083413231
+      },
+      {
+        "Username": "Volkozar",
+        "Score": 3,
+        "Fraction": 0.0028763183125599234
+      },
+      {
+        "Username": "Epic_Null",
+        "Score": 3,
+        "Fraction": 0.0028763183125599234
+      },
+      {
+        "Username": "Vortelas",
+        "Score": 2,
+        "Fraction": 0.0019175455417066154
+      },
+      {
+        "Username": "Croc",
+        "Score": 2,
+        "Fraction": 0.0019175455417066154
+      },
+      {
+        "Username": "Almost Average",
+        "Score": 2,
+        "Fraction": 0.0019175455417066154
+      },
+      {
+        "Username": "Batsbak69",
+        "Score": 2,
+        "Fraction": 0.0019175455417066154
+      },
+      {
+        "Username": "Kam500",
+        "Score": 2,
+        "Fraction": 0.0019175455417066154
+      },
+      {
+        "Username": "Banditzz",
+        "Score": 2,
+        "Fraction": 0.0019175455417066154
+      },
+      {
+        "Username": "Celt",
+        "Score": 2,
+        "Fraction": 0.0019175455417066154
+      },
+      {
+        "Username": "Icepic",
+        "Score": 2,
+        "Fraction": 0.0019175455417066154
+      },
+      {
+        "Username": "wolf bear",
+        "Score": 2,
+        "Fraction": 0.0019175455417066154
+      },
+      {
+        "Username": "Nico1564",
+        "Score": 1,
+        "Fraction": 0.0009587727708533077
+      },
+      {
+        "Username": "sheppyboy",
+        "Score": 1,
+        "Fraction": 0.0009587727708533077
+      },
+      {
+        "Username": "a161e9722341",
+        "Score": 1,
+        "Fraction": 0.0009587727708533077
+      },
+      {
+        "Username": "RU | \u0411\u041B\u042D\uFFFD",
+        "Score": 1,
+        "Fraction": 0.0009587727708533077
+      },
+      {
+        "Username": "jumunius",
+        "Score": 1,
+        "Fraction": 0.0009587727708533077
+      },
+      {
+        "Username": "sir_pattrick",
+        "Score": 1,
+        "Fraction": 0.0009587727708533077
+      },
+      {
+        "Username": "Bora",
+        "Score": 1,
+        "Fraction": 0.0009587727708533077
+      },
+      {
+        "Username": "elektralibro",
+        "Score": 1,
+        "Fraction": 0.0009587727708533077
+      }
+    ]
+  },
+  {
+    "Name": "CreateCurrency",
+    "TotalValue": 0,
+    "Scores": [
+    ]
+  },
+  {
+    "Name": "CornSpecies",
+    "TotalValue": 0,
+    "Scores": [
+    ]
+  },
+  {
+    "Name": "ChopStump",
+    "TotalValue": 487,
+    "Scores": [
+      {
+        "Username": "Psyduck",
+        "Score": 76,
+        "Fraction": 0.15605749486652978
+      },
+      {
+        "Username": "Ladyhawke",
+        "Score": 73,
+        "Fraction": 0.14989733059548255
+      },
+      {
+        "Username": "Epic_Null",
+        "Score": 58,
+        "Fraction": 0.11909650924024641
+      },
+      {
+        "Username": "Hover",
+        "Score": 46,
+        "Fraction": 0.0944558521560575
+      },
+      {
+        "Username": "Remek",
+        "Score": 36,
+        "Fraction": 0.07392197125256673
+      },
+      {
+        "Username": "Naarke",
+        "Score": 33,
+        "Fraction": 0.06776180698151951
+      },
+      {
+        "Username": "unnadawg",
+        "Score": 23,
+        "Fraction": 0.04722792607802875
+      },
+      {
+        "Username": "nat4227",
+        "Score": 21,
+        "Fraction": 0.043121149897330596
+      },
+      {
+        "Username": "apxucmpamer",
+        "Score": 17,
+        "Fraction": 0.03490759753593429
+      },
+      {
+        "Username": "ThBayan",
+        "Score": 14,
+        "Fraction": 0.028747433264887063
+      },
+      {
+        "Username": "Droppre drop.skin",
+        "Score": 12,
+        "Fraction": 0.024640657084188913
+      },
+      {
+        "Username": "G.W\u5EE2\uFFFD",
+        "Score": 10,
+        "Fraction": 0.02053388090349076
+      },
+      {
+        "Username": "Zombie",
+        "Score": 8,
+        "Fraction": 0.01642710472279261
+      },
+      {
+        "Username": "VDFrame",
+        "Score": 7,
+        "Fraction": 0.014373716632443531
+      },
+      {
+        "Username": "Goldenbarky",
+        "Score": 6,
+        "Fraction": 0.012320328542094456
+      },
+      {
+        "Username": "=7Cav=Mann.M",
+        "Score": 6,
+        "Fraction": 0.012320328542094456
+      },
+      {
+        "Username": "maddogisme1",
+        "Score": 5,
+        "Fraction": 0.01026694045174538
+      },
+      {
+        "Username": "MarisM",
+        "Score": 5,
+        "Fraction": 0.01026694045174538
+      },
+      {
+        "Username": "Lord Business",
+        "Score": 3,
+        "Fraction": 0.006160164271047228
+      },
+      {
+        "Username": "foxrocks1070",
+        "Score": 3,
+        "Fraction": 0.006160164271047228
+      },
+      {
+        "Username": "Volkozar",
+        "Score": 3,
+        "Fraction": 0.006160164271047228
+      },
+      {
+        "Username": "PandaDono",
+        "Score": 3,
+        "Fraction": 0.006160164271047228
+      },
+      {
+        "Username": "Vortelas",
+        "Score": 2,
+        "Fraction": 0.004106776180698152
+      },
+      {
+        "Username": "Almost Average",
+        "Score": 2,
+        "Fraction": 0.004106776180698152
+      },
+      {
+        "Username": "neverwhatever",
+        "Score": 2,
+        "Fraction": 0.004106776180698152
+      },
+      {
+        "Username": "Ikoniak",
+        "Score": 2,
+        "Fraction": 0.004106776180698152
+      },
+      {
+        "Username": "Icepic",
+        "Score": 2,
+        "Fraction": 0.004106776180698152
+      },
+      {
+        "Username": "Nuura",
+        "Score": 2,
+        "Fraction": 0.004106776180698152
+      },
+      {
+        "Username": "Chancellor87",
+        "Score": 2,
+        "Fraction": 0.004106776180698152
+      },
+      {
+        "Username": "Nico1564",
+        "Score": 1,
+        "Fraction": 0.002053388090349076
+      },
+      {
+        "Username": "schluerfi",
+        "Score": 1,
+        "Fraction": 0.002053388090349076
+      },
+      {
+        "Username": "Gary",
+        "Score": 1,
+        "Fraction": 0.002053388090349076
+      },
+      {
+        "Username": "Celt",
+        "Score": 1,
+        "Fraction": 0.002053388090349076
+      },
+      {
+        "Username": "The_Reborn",
+        "Score": 1,
+        "Fraction": 0.002053388090349076
+      }
+    ]
+  },
+  {
+    "Name": "CreateWorkOrder",
+    "TotalValue": 2023,
+    "Scores": [
+      {
+        "Username": "Ladyhawke",
+        "Score": 178,
+        "Fraction": 0.087988136431043
+      },
+      {
+        "Username": "Psyduck",
+        "Score": 164,
+        "Fraction": 0.08106772120612951
+      },
+      {
+        "Username": "Ikoniak",
+        "Score": 157,
+        "Fraction": 0.07760751359367277
+      },
+      {
+        "Username": "nat4227",
+        "Score": 137,
+        "Fraction": 0.06772120612951063
+      },
+      {
+        "Username": "Naarke",
+        "Score": 115,
+        "Fraction": 0.056846267918932276
+      },
+      {
+        "Username": "ArendiaStar",
+        "Score": 92,
+        "Fraction": 0.045477014335145824
+      },
+      {
+        "Username": "Droppre drop.skin",
+        "Score": 88,
+        "Fraction": 0.043499752842313395
+      },
+      {
+        "Username": "foxrocks1070",
+        "Score": 83,
+        "Fraction": 0.04102817597627286
+      },
+      {
+        "Username": "maddogisme1",
+        "Score": 73,
+        "Fraction": 0.03608502224419179
+      },
+      {
+        "Username": "PandaDono",
+        "Score": 69,
+        "Fraction": 0.034107760751359364
+      },
+      {
+        "Username": "G.W\u5EE2\uFFFD",
+        "Score": 66,
+        "Fraction": 0.03262481463173505
+      },
+      {
+        "Username": "apxucmpamer",
+        "Score": 59,
+        "Fraction": 0.0291646070192783
+      },
+      {
+        "Username": "Hover",
+        "Score": 58,
+        "Fraction": 0.028670291646070194
+      },
+      {
+        "Username": "sir_pattrick",
+        "Score": 50,
+        "Fraction": 0.024715768660405337
+      },
+      {
+        "Username": "Nuura",
+        "Score": 47,
+        "Fraction": 0.023232822540781017
+      },
+      {
+        "Username": "MarisM",
+        "Score": 42,
+        "Fraction": 0.020761245674740483
+      },
+      {
+        "Username": "Epic_Null",
+        "Score": 40,
+        "Fraction": 0.019772614928324272
+      },
+      {
+        "Username": "Ghost",
+        "Score": 40,
+        "Fraction": 0.019772614928324272
+      },
+      {
+        "Username": "VDFrame",
+        "Score": 40,
+        "Fraction": 0.019772614928324272
+      },
+      {
+        "Username": "96dwilliams",
+        "Score": 35,
+        "Fraction": 0.01730103806228374
+      },
+      {
+        "Username": "neverwhatever",
+        "Score": 32,
+        "Fraction": 0.015818091942659415
+      },
+      {
+        "Username": "Goldenbarky",
+        "Score": 32,
+        "Fraction": 0.015818091942659415
+      },
+      {
+        "Username": "=7Cav=Mann.M",
+        "Score": 31,
+        "Fraction": 0.01532377656945131
+      },
+      {
+        "Username": "Agron",
+        "Score": 28,
+        "Fraction": 0.01384083044982699
+      },
+      {
+        "Username": "Striator",
+        "Score": 27,
+        "Fraction": 0.013346515076618883
+      },
+      {
+        "Username": "Chancellor87",
+        "Score": 19,
+        "Fraction": 0.009391992090954029
+      },
+      {
+        "Username": "schluerfi",
+        "Score": 18,
+        "Fraction": 0.008897676717745922
+      },
+      {
+        "Username": "Banditzz",
+        "Score": 16,
+        "Fraction": 0.007909045971329708
+      },
+      {
+        "Username": "Icepic",
+        "Score": 16,
+        "Fraction": 0.007909045971329708
+      },
+      {
+        "Username": "Remek",
+        "Score": 15,
+        "Fraction": 0.007414730598121601
+      },
+      {
+        "Username": "ThBayan",
+        "Score": 15,
+        "Fraction": 0.007414730598121601
+      },
+      {
+        "Username": "wolf bear",
+        "Score": 15,
+        "Fraction": 0.007414730598121601
+      },
+      {
+        "Username": "The_Reborn",
+        "Score": 15,
+        "Fraction": 0.007414730598121601
+      },
+      {
+        "Username": "Volkozar",
+        "Score": 14,
+        "Fraction": 0.006920415224913495
+      },
+      {
+        "Username": "Lord Business",
+        "Score": 12,
+        "Fraction": 0.005931784478497282
+      },
+      {
+        "Username": "Croc",
+        "Score": 10,
+        "Fraction": 0.004943153732081068
+      },
+      {
+        "Username": "Almost Average",
+        "Score": 8,
+        "Fraction": 0.003954522985664854
+      },
+      {
+        "Username": "Batsbak69",
+        "Score": 8,
+        "Fraction": 0.003954522985664854
+      },
+      {
+        "Username": "unnadawg",
+        "Score": 8,
+        "Fraction": 0.003954522985664854
+      },
+      {
+        "Username": "MadMan",
+        "Score": 7,
+        "Fraction": 0.0034602076124567475
+      },
+      {
+        "Username": "Zombie",
+        "Score": 7,
+        "Fraction": 0.0034602076124567475
+      },
+      {
+        "Username": "Nico1564",
+        "Score": 5,
+        "Fraction": 0.002471576866040534
+      },
+      {
+        "Username": "Bora",
+        "Score": 5,
+        "Fraction": 0.002471576866040534
+      },
+      {
+        "Username": "Celt",
+        "Score": 4,
+        "Fraction": 0.001977261492832427
+      },
+      {
+        "Username": "elektralibro",
+        "Score": 4,
+        "Fraction": 0.001977261492832427
+      },
+      {
+        "Username": "Taelshin",
+        "Score": 3,
+        "Fraction": 0.0014829461196243204
+      },
+      {
+        "Username": "Gary",
+        "Score": 3,
+        "Fraction": 0.0014829461196243204
+      },
+      {
+        "Username": "sheppyboy",
+        "Score": 3,
+        "Fraction": 0.0014829461196243204
+      },
+      {
+        "Username": "Vortelas",
+        "Score": 2,
+        "Fraction": 0.0009886307464162135
+      },
+      {
+        "Username": "Kam500",
+        "Score": 2,
+        "Fraction": 0.0009886307464162135
+      },
+      {
+        "Username": "RU | \u0411\u041B\u042D\uFFFD",
+        "Score": 2,
+        "Fraction": 0.0009886307464162135
+      },
+      {
+        "Username": "KatFish",
+        "Score": 2,
+        "Fraction": 0.0009886307464162135
+      },
+      {
+        "Username": "a161e9722341",
+        "Score": 1,
+        "Fraction": 0.0004943153732081067
+      },
+      {
+        "Username": "maribethpoisson",
+        "Score": 1,
+        "Fraction": 0.0004943153732081067
+      }
+    ]
+  },
+  {
+    "Name": "CottonSpecies",
+    "TotalValue": 0,
+    "Scores": [
+    ]
+  },
+  {
+    "Name": "CurrencyTrade",
+    "TotalValue": 154,
+    "Scores": [
+      {
+        "Username": "Psyduck",
+        "Score": 40,
+        "Fraction": 0.2597402597402597
+      },
+      {
+        "Username": "Nuura",
+        "Score": 27,
+        "Fraction": 0.17532467532467533
+      },
+      {
+        "Username": "apxucmpamer",
+        "Score": 23,
+        "Fraction": 0.14935064935064934
+      },
+      {
+        "Username": "nat4227",
+        "Score": 21,
+        "Fraction": 0.13636363636363635
+      },
+      {
+        "Username": "Remek",
+        "Score": 14,
+        "Fraction": 0.09090909090909091
+      },
+      {
+        "Username": "PandaDono",
+        "Score": 8,
+        "Fraction": 0.05194805194805195
+      },
+      {
+        "Username": "sir_pattrick",
+        "Score": 8,
+        "Fraction": 0.05194805194805195
+      },
+      {
+        "Username": "Agron",
+        "Score": 3,
+        "Fraction": 0.01948051948051948
+      },
+      {
+        "Username": "Naarke",
+        "Score": 2,
+        "Fraction": 0.012987012987012988
+      },
+      {
+        "Username": "Ladyhawke",
+        "Score": 2,
+        "Fraction": 0.012987012987012988
+      },
+      {
+        "Username": "Droppre drop.skin",
+        "Score": 2,
+        "Fraction": 0.012987012987012988
+      },
+      {
+        "Username": "Banditzz",
+        "Score": 1,
+        "Fraction": 0.006493506493506494
+      },
+      {
+        "Username": "Ikoniak",
+        "Score": 1,
+        "Fraction": 0.006493506493506494
+      },
+      {
+        "Username": "Chancellor87",
+        "Score": 1,
+        "Fraction": 0.006493506493506494
+      },
+      {
+        "Username": "unnadawg",
+        "Score": 1,
+        "Fraction": 0.006493506493506494
+      }
+    ]
+  },
+  {
+    "Name": "CitizenLeaveCompany",
+    "TotalValue": 0,
+    "Scores": [
+    ]
+  },
+  {
+    "Name": "CompletedContractsAndWorkPartiesLast7Days",
+    "TotalValue": 0,
+    "Scores": [
+    ]
+  },
+  {
+    "Name": "CompanyEmployeeExpense",
+    "TotalValue": 0,
+    "Scores": [
+    ]
+  },
+  {
+    "Name": "CoyoteSpecies",
+    "TotalValue": 0,
+    "Scores": [
+    ]
+  },
+  {
+    "Name": "CitizenPopulation",
+    "TotalValue": 0,
+    "Scores": [
+    ]
+  },
+  {
+    "Name": "Debt",
+    "TotalValue": 0,
+    "Scores": [
+    ]
+  },
+  {
+    "Name": "DefaultedOnLoanOrBond",
+    "TotalValue": 0,
+    "Scores": [
+    ]
+  },
+  {
+    "Name": "DigOrMine",
+    "TotalValue": 29953,
+    "Scores": [
+      {
+        "Username": "Ladyhawke",
+        "Score": 5822,
+        "Fraction": 0.19437118151771107
+      },
+      {
+        "Username": "Psyduck",
+        "Score": 5343,
+        "Fraction": 0.17837946115581077
+      },
+      {
+        "Username": "apxucmpamer",
+        "Score": 5320,
+        "Fraction": 0.17761159149333958
+      },
+      {
+        "Username": "Droppre drop.skin",
+        "Score": 3647,
+        "Fraction": 0.1217574199579341
+      },
+      {
+        "Username": "ThBayan",
+        "Score": 2884,
+        "Fraction": 0.09628417854638935
+      },
+      {
+        "Username": "nat4227",
+        "Score": 748,
+        "Fraction": 0.024972456849063532
+      },
+      {
+        "Username": "Hover",
+        "Score": 606,
+        "Fraction": 0.02023169632424131
+      },
+      {
+        "Username": "ArendiaStar",
+        "Score": 432,
+        "Fraction": 0.014422595399459153
+      },
+      {
+        "Username": "Ikoniak",
+        "Score": 420,
+        "Fraction": 0.014021967749474177
+      },
+      {
+        "Username": "PandaDono",
+        "Score": 372,
+        "Fraction": 0.01241945714953427
+      },
+      {
+        "Username": "=7Cav=Mann.M",
+        "Score": 360,
+        "Fraction": 0.012018829499549294
+      },
+      {
+        "Username": "VDFrame",
+        "Score": 320,
+        "Fraction": 0.010683403999599373
+      },
+      {
+        "Username": "KatFish",
+        "Score": 263,
+        "Fraction": 0.008780422662170734
+      },
+      {
+        "Username": "The_Reborn",
+        "Score": 260,
+        "Fraction": 0.00868026574967449
+      },
+      {
+        "Username": "Remek",
+        "Score": 244,
+        "Fraction": 0.008146095549694522
+      },
+      {
+        "Username": "Volkozar",
+        "Score": 212,
+        "Fraction": 0.007077755149734584
+      },
+      {
+        "Username": "foxrocks1070",
+        "Score": 188,
+        "Fraction": 0.0062764998497646315
+      },
+      {
+        "Username": "Epic_Null",
+        "Score": 188,
+        "Fraction": 0.0062764998497646315
+      },
+      {
+        "Username": "Agron",
+        "Score": 186,
+        "Fraction": 0.006209728574767135
+      },
+      {
+        "Username": "Lord Business",
+        "Score": 186,
+        "Fraction": 0.006209728574767135
+      },
+      {
+        "Username": "MarisM",
+        "Score": 177,
+        "Fraction": 0.005909257837278403
+      },
+      {
+        "Username": "Naarke",
+        "Score": 175,
+        "Fraction": 0.005842486562280907
+      },
+      {
+        "Username": "Ghost",
+        "Score": 164,
+        "Fraction": 0.005475244549794678
+      },
+      {
+        "Username": "Chancellor87",
+        "Score": 154,
+        "Fraction": 0.005141388174807198
+      },
+      {
+        "Username": "KadvanLlawen",
+        "Score": 153,
+        "Fraction": 0.00510800253730845
+      },
+      {
+        "Username": "Goldenbarky",
+        "Score": 140,
+        "Fraction": 0.004673989249824725
+      },
+      {
+        "Username": "G.W\u5EE2\uFFFD",
+        "Score": 133,
+        "Fraction": 0.004440289787333489
+      },
+      {
+        "Username": "neverwhatever",
+        "Score": 124,
+        "Fraction": 0.004139819049844757
+      },
+      {
+        "Username": "Banditzz",
+        "Score": 116,
+        "Fraction": 0.0038727339498547727
+      },
+      {
+        "Username": "Nuura",
+        "Score": 104,
+        "Fraction": 0.003472106299869796
+      },
+      {
+        "Username": "sir_pattrick",
+        "Score": 85,
+        "Fraction": 0.002837779187393583
+      },
+      {
+        "Username": "schluerfi",
+        "Score": 64,
+        "Fraction": 0.0021366807999198744
+      },
+      {
+        "Username": "Nico1564",
+        "Score": 49,
+        "Fraction": 0.001635896237438654
+      },
+      {
+        "Username": "maddogisme1",
+        "Score": 43,
+        "Fraction": 0.0014355824124461657
+      },
+      {
+        "Username": "Croc",
+        "Score": 43,
+        "Fraction": 0.0014355824124461657
+      },
+      {
+        "Username": "Almost Average",
+        "Score": 36,
+        "Fraction": 0.0012018829499549294
+      },
+      {
+        "Username": "MadMan",
+        "Score": 33,
+        "Fraction": 0.0011017260374586854
+      },
+      {
+        "Username": "Batsbak69",
+        "Score": 27,
+        "Fraction": 0.0009014122124661971
+      },
+      {
+        "Username": "wolf bear",
+        "Score": 26,
+        "Fraction": 0.000868026574967449
+      },
+      {
+        "Username": "Striator",
+        "Score": 24,
+        "Fraction": 0.0008012552999699529
+      },
+      {
+        "Username": "leefnmajors",
+        "Score": 21,
+        "Fraction": 0.0007010983874737088
+      },
+      {
+        "Username": "Icepic",
+        "Score": 19,
+        "Fraction": 0.0006343271124762128
+      },
+      {
+        "Username": "Celt",
+        "Score": 10,
+        "Fraction": 0.0003338563749874804
+      },
+      {
+        "Username": "96dwilliams",
+        "Score": 9,
+        "Fraction": 0.00030047073748873236
+      },
+      {
+        "Username": "Bora",
+        "Score": 8,
+        "Fraction": 0.0002670850999899843
+      },
+      {
+        "Username": "Gary",
+        "Score": 5,
+        "Fraction": 0.0001669281874937402
+      },
+      {
+        "Username": "sheppyboy",
+        "Score": 3,
+        "Fraction": 0.00010015691249624411
+      },
+      {
+        "Username": "Zombie",
+        "Score": 3,
+        "Fraction": 0.00010015691249624411
+      },
+      {
+        "Username": "RU | \u0411\u041B\u042D\uFFFD",
+        "Score": 2,
+        "Fraction": 6.677127499749608E-05
+      },
+      {
+        "Username": "elektralibro",
+        "Score": 2,
+        "Fraction": 6.677127499749608E-05
+      }
+    ]
+  },
+  {
+    "Name": "DidntVote",
+    "TotalValue": 0,
+    "Scores": [
+    ]
+  },
+  {
+    "Name": "DeerLichenSpecies",
+    "TotalValue": 0,
+    "Scores": [
+    ]
+  },
+  {
+    "Name": "DemographicChange",
+    "TotalValue": 255,
+    "Scores": [
+      {
+        "Username": "Volkozar",
+        "Score": 8,
+        "Fraction": 0.03137254901960784
+      },
+      {
+        "Username": "Ghost",
+        "Score": 8,
+        "Fraction": 0.03137254901960784
+      },
+      {
+        "Username": "Nuura",
+        "Score": 8,
+        "Fraction": 0.03137254901960784
+      },
+      {
+        "Username": "wolf bear",
+        "Score": 8,
+        "Fraction": 0.03137254901960784
+      },
+      {
+        "Username": "G.W\u5EE2\uFFFD",
+        "Score": 7,
+        "Fraction": 0.027450980392156862
+      },
+      {
+        "Username": "Chancellor87",
+        "Score": 6,
+        "Fraction": 0.023529411764705882
+      },
+      {
+        "Username": "=7Cav=Mann.M",
+        "Score": 6,
+        "Fraction": 0.023529411764705882
+      },
+      {
+        "Username": "Psyduck",
+        "Score": 5,
+        "Fraction": 0.0196078431372549
+      },
+      {
+        "Username": "KatFish",
+        "Score": 5,
+        "Fraction": 0.0196078431372549
+      },
+      {
+        "Username": "Ikoniak",
+        "Score": 4,
+        "Fraction": 0.01568627450980392
+      },
+      {
+        "Username": "neverwhatever",
+        "Score": 4,
+        "Fraction": 0.01568627450980392
+      },
+      {
+        "Username": "PandaDono",
+        "Score": 4,
+        "Fraction": 0.01568627450980392
+      },
+      {
+        "Username": "Agron",
+        "Score": 4,
+        "Fraction": 0.01568627450980392
+      },
+      {
+        "Username": "maddogisme1",
+        "Score": 4,
+        "Fraction": 0.01568627450980392
+      },
+      {
+        "Username": "Ladyhawke",
+        "Score": 4,
+        "Fraction": 0.01568627450980392
+      },
+      {
+        "Username": "Naarke",
+        "Score": 4,
+        "Fraction": 0.01568627450980392
+      },
+      {
+        "Username": "nat4227",
+        "Score": 4,
+        "Fraction": 0.01568627450980392
+      },
+      {
+        "Username": "Droppre drop.skin",
+        "Score": 4,
+        "Fraction": 0.01568627450980392
+      },
+      {
+        "Username": "ThBayan",
+        "Score": 4,
+        "Fraction": 0.01568627450980392
+      },
+      {
+        "Username": "Vortelas",
+        "Score": 4,
+        "Fraction": 0.01568627450980392
+      },
+      {
+        "Username": "Lord Business",
+        "Score": 4,
+        "Fraction": 0.01568627450980392
+      },
+      {
+        "Username": "Almost Average",
+        "Score": 4,
+        "Fraction": 0.01568627450980392
+      },
+      {
+        "Username": "schluerfi",
+        "Score": 4,
+        "Fraction": 0.01568627450980392
+      },
+      {
+        "Username": "ArendiaStar",
+        "Score": 4,
+        "Fraction": 0.01568627450980392
+      },
+      {
+        "Username": "Hover",
+        "Score": 4,
+        "Fraction": 0.01568627450980392
+      },
+      {
+        "Username": "Goldenbarky",
+        "Score": 4,
+        "Fraction": 0.01568627450980392
+      },
+      {
+        "Username": "Taelshin",
+        "Score": 4,
+        "Fraction": 0.01568627450980392
+      },
+      {
+        "Username": "Remek",
+        "Score": 4,
+        "Fraction": 0.01568627450980392
+      },
+      {
+        "Username": "foxrocks1070",
+        "Score": 4,
+        "Fraction": 0.01568627450980392
+      },
+      {
+        "Username": "96dwilliams",
+        "Score": 4,
+        "Fraction": 0.01568627450980392
+      },
+      {
+        "Username": "Gary",
+        "Score": 4,
+        "Fraction": 0.01568627450980392
+      },
+      {
+        "Username": "Epic_Null",
+        "Score": 4,
+        "Fraction": 0.01568627450980392
+      },
+      {
+        "Username": "Kam500",
+        "Score": 4,
+        "Fraction": 0.01568627450980392
+      },
+      {
+        "Username": "MarisM",
+        "Score": 4,
+        "Fraction": 0.01568627450980392
+      },
+      {
+        "Username": "MadGirl",
+        "Score": 4,
+        "Fraction": 0.01568627450980392
+      },
+      {
+        "Username": "MadMan",
+        "Score": 4,
+        "Fraction": 0.01568627450980392
+      },
+      {
+        "Username": "Striator",
+        "Score": 4,
+        "Fraction": 0.01568627450980392
+      },
+      {
+        "Username": "Zombie",
+        "Score": 4,
+        "Fraction": 0.01568627450980392
+      },
+      {
+        "Username": "Banditzz",
+        "Score": 4,
+        "Fraction": 0.01568627450980392
+      },
+      {
+        "Username": "Celt",
+        "Score": 4,
+        "Fraction": 0.01568627450980392
+      },
+      {
+        "Username": "sir_pattrick",
+        "Score": 4,
+        "Fraction": 0.01568627450980392
+      },
+      {
+        "Username": "Icepic",
+        "Score": 4,
+        "Fraction": 0.01568627450980392
+      },
+      {
+        "Username": "KadvanLlawen",
+        "Score": 4,
+        "Fraction": 0.01568627450980392
+      },
+      {
+        "Username": "unnadawg",
+        "Score": 4,
+        "Fraction": 0.01568627450980392
+      },
+      {
+        "Username": "apxucmpamer",
+        "Score": 3,
+        "Fraction": 0.011764705882352941
+      },
+      {
+        "Username": "VDFrame",
+        "Score": 3,
+        "Fraction": 0.011764705882352941
+      },
+      {
+        "Username": "The_Reborn",
+        "Score": 3,
+        "Fraction": 0.011764705882352941
+      },
+      {
+        "Username": "Oleganio",
+        "Score": 2,
+        "Fraction": 0.00784313725490196
+      },
+      {
+        "Username": "Lukalot",
+        "Score": 2,
+        "Fraction": 0.00784313725490196
+      },
+      {
+        "Username": "jumunius",
+        "Score": 2,
+        "Fraction": 0.00784313725490196
+      },
+      {
+        "Username": "maribethpoisson",
+        "Score": 2,
+        "Fraction": 0.00784313725490196
+      },
+      {
+        "Username": "Silveraio",
+        "Score": 2,
+        "Fraction": 0.00784313725490196
+      },
+      {
+        "Username": "Ya Boi Chris",
+        "Score": 2,
+        "Fraction": 0.00784313725490196
+      },
+      {
+        "Username": "Marius50",
+        "Score": 2,
+        "Fraction": 0.00784313725490196
+      },
+      {
+        "Username": "leefnmajors",
+        "Score": 2,
+        "Fraction": 0.00784313725490196
+      },
+      {
+        "Username": "\u0421pank",
+        "Score": 2,
+        "Fraction": 0.00784313725490196
+      },
+      {
+        "Username": "Bora",
+        "Score": 2,
+        "Fraction": 0.00784313725490196
+      },
+      {
+        "Username": "elektralibro",
+        "Score": 2,
+        "Fraction": 0.00784313725490196
+      },
+      {
+        "Username": "StinkyMan",
+        "Score": 2,
+        "Fraction": 0.00784313725490196
+      },
+      {
+        "Username": "Nazzlol",
+        "Score": 2,
+        "Fraction": 0.00784313725490196
+      },
+      {
+        "Username": "mummaki",
+        "Score": 2,
+        "Fraction": 0.00784313725490196
+      },
+      {
+        "Username": "Insipid",
+        "Score": 2,
+        "Fraction": 0.00784313725490196
+      },
+      {
+        "Username": "rosa98",
+        "Score": 2,
+        "Fraction": 0.00784313725490196
+      },
+      {
+        "Username": "jacenator2004",
+        "Score": 2,
+        "Fraction": 0.00784313725490196
+      },
+      {
+        "Username": "CaptainCurt03",
+        "Score": 2,
+        "Fraction": 0.00784313725490196
+      },
+      {
+        "Username": "\u0427\u0435\u043F\u0443\u0431\u0435\u043B",
+        "Score": 2,
+        "Fraction": 0.00784313725490196
+      },
+      {
+        "Username": "Odin",
+        "Score": 2,
+        "Fraction": 0.00784313725490196
+      },
+      {
+        "Username": "0MadMax0",
+        "Score": 2,
+        "Fraction": 0.00784313725490196
+      },
+      {
+        "Username": "Weylin",
+        "Score": 1,
+        "Fraction": 0.00392156862745098
+      },
+      {
+        "Username": "Alternz",
+        "Score": 1,
+        "Fraction": 0.00392156862745098
+      },
+      {
+        "Username": "jjoliver",
+        "Score": 1,
+        "Fraction": 0.00392156862745098
+      }
+    ]
+  },
+  {
+    "Name": "DropOrPickupBlock",
+    "TotalValue": 115891,
+    "Scores": [
+      {
+        "Username": "Psyduck",
+        "Score": 22259,
+        "Fraction": 0.1920684091085589
+      },
+      {
+        "Username": "Ladyhawke",
+        "Score": 21765,
+        "Fraction": 0.18780578302025178
+      },
+      {
+        "Username": "Droppre drop.skin",
+        "Score": 16741,
+        "Fraction": 0.14445470312621342
+      },
+      {
+        "Username": "ThBayan",
+        "Score": 13744,
+        "Fraction": 0.11859419627063361
+      },
+      {
+        "Username": "apxucmpamer",
+        "Score": 12764,
+        "Fraction": 0.11013797447601625
+      },
+      {
+        "Username": "nat4227",
+        "Score": 4584,
+        "Fraction": 0.03955440888421016
+      },
+      {
+        "Username": "KatFish",
+        "Score": 2030,
+        "Fraction": 0.01751645943170738
+      },
+      {
+        "Username": "Lord Business",
+        "Score": 2016,
+        "Fraction": 0.017395656263212846
+      },
+      {
+        "Username": "PandaDono",
+        "Score": 1334,
+        "Fraction": 0.011510816197979135
+      },
+      {
+        "Username": "=7Cav=Mann.M",
+        "Score": 1325,
+        "Fraction": 0.011433157018232649
+      },
+      {
+        "Username": "Hover",
+        "Score": 1177,
+        "Fraction": 0.010156094951290436
+      },
+      {
+        "Username": "ArendiaStar",
+        "Score": 1152,
+        "Fraction": 0.009940375007550198
+      },
+      {
+        "Username": "Epic_Null",
+        "Score": 1121,
+        "Fraction": 0.009672882277312302
+      },
+      {
+        "Username": "VDFrame",
+        "Score": 1068,
+        "Fraction": 0.009215555996582997
+      },
+      {
+        "Username": "Ikoniak",
+        "Score": 1044,
+        "Fraction": 0.009008464850592366
+      },
+      {
+        "Username": "Volkozar",
+        "Score": 1028,
+        "Fraction": 0.008870404086598614
+      },
+      {
+        "Username": "Naarke",
+        "Score": 876,
+        "Fraction": 0.007558826828657963
+      },
+      {
+        "Username": "KadvanLlawen",
+        "Score": 807,
+        "Fraction": 0.006963439783934904
+      },
+      {
+        "Username": "G.W\u5EE2\uFFFD",
+        "Score": 803,
+        "Fraction": 0.006928924592936466
+      },
+      {
+        "Username": "Remek",
+        "Score": 691,
+        "Fraction": 0.005962499244980197
+      },
+      {
+        "Username": "Ghost",
+        "Score": 684,
+        "Fraction": 0.00590209766073293
+      },
+      {
+        "Username": "leefnmajors",
+        "Score": 615,
+        "Fraction": 0.005306710616009872
+      },
+      {
+        "Username": "Nuura",
+        "Score": 613,
+        "Fraction": 0.005289453020510653
+      },
+      {
+        "Username": "MarisM",
+        "Score": 559,
+        "Fraction": 0.004823497942031737
+      },
+      {
+        "Username": "neverwhatever",
+        "Score": 517,
+        "Fraction": 0.0044610884365481355
+      },
+      {
+        "Username": "The_Reborn",
+        "Score": 503,
+        "Fraction": 0.004340285268053602
+      },
+      {
+        "Username": "Goldenbarky",
+        "Score": 467,
+        "Fraction": 0.004029648549067659
+      },
+      {
+        "Username": "foxrocks1070",
+        "Score": 453,
+        "Fraction": 0.003908845380573124
+      },
+      {
+        "Username": "Chancellor87",
+        "Score": 406,
+        "Fraction": 0.003503291886341476
+      },
+      {
+        "Username": "schluerfi",
+        "Score": 276,
+        "Fraction": 0.002381548178892235
+      },
+      {
+        "Username": "maddogisme1",
+        "Score": 264,
+        "Fraction": 0.00227800260589692
+      },
+      {
+        "Username": "Striator",
+        "Score": 258,
+        "Fraction": 0.002226229819399263
+      },
+      {
+        "Username": "Banditzz",
+        "Score": 258,
+        "Fraction": 0.002226229819399263
+      },
+      {
+        "Username": "Agron",
+        "Score": 246,
+        "Fraction": 0.0021226842464039486
+      },
+      {
+        "Username": "Batsbak69",
+        "Score": 245,
+        "Fraction": 0.002114055448654339
+      },
+      {
+        "Username": "Almost Average",
+        "Score": 175,
+        "Fraction": 0.0015100396061816707
+      },
+      {
+        "Username": "sir_pattrick",
+        "Score": 136,
+        "Fraction": 0.0011735164939468985
+      },
+      {
+        "Username": "Icepic",
+        "Score": 129,
+        "Fraction": 0.0011131149096996315
+      },
+      {
+        "Username": "Croc",
+        "Score": 114,
+        "Fraction": 0.0009836829434554883
+      },
+      {
+        "Username": "Nico1564",
+        "Score": 103,
+        "Fraction": 0.0008887661682097834
+      },
+      {
+        "Username": "MadMan",
+        "Score": 77,
+        "Fraction": 0.0006644174267199351
+      },
+      {
+        "Username": "wolf bear",
+        "Score": 76,
+        "Fraction": 0.0006557886289703256
+      },
+      {
+        "Username": "Celt",
+        "Score": 67,
+        "Fraction": 0.0005781294492238397
+      },
+      {
+        "Username": "Zombie",
+        "Score": 61,
+        "Fraction": 0.0005263566627261824
+      },
+      {
+        "Username": "96dwilliams",
+        "Score": 50,
+        "Fraction": 0.00043143988748047733
+      },
+      {
+        "Username": "Bora",
+        "Score": 43,
+        "Fraction": 0.00037103830323321053
+      },
+      {
+        "Username": "Kam500",
+        "Score": 42,
+        "Fraction": 0.00036240950548360095
+      },
+      {
+        "Username": "Gary",
+        "Score": 34,
+        "Fraction": 0.0002933791234867246
+      },
+      {
+        "Username": "unnadawg",
+        "Score": 30,
+        "Fraction": 0.0002588639324882864
+      },
+      {
+        "Username": "a161e9722341",
+        "Score": 17,
+        "Fraction": 0.0001466895617433623
+      },
+      {
+        "Username": "Vortelas",
+        "Score": 15,
+        "Fraction": 0.0001294319662441432
+      },
+      {
+        "Username": "sheppyboy",
+        "Score": 10,
+        "Fraction": 8.628797749609547E-05
+      },
+      {
+        "Username": "\u0427\u0435\u043F\u0443\u0431\u0435\u043B",
+        "Score": 6,
+        "Fraction": 5.177278649765728E-05
+      },
+      {
+        "Username": "RU | \u0411\u041B\u042D\uFFFD",
+        "Score": 4,
+        "Fraction": 3.4515190998438186E-05
+      },
+      {
+        "Username": "jumunius",
+        "Score": 4,
+        "Fraction": 3.4515190998438186E-05
+      },
+      {
+        "Username": "elektralibro",
+        "Score": 3,
+        "Fraction": 2.588639324882864E-05
+      },
+      {
+        "Username": "Taelshin",
+        "Score": 2,
+        "Fraction": 1.7257595499219093E-05
+      }
+    ]
+  },
+  {
+    "Name": "DeerSpecies",
+    "TotalValue": 0,
+    "Scores": [
+    ]
+  },
+  {
+    "Name": "DropOrPickupGarbage",
+    "TotalValue": 88,
+    "Scores": [
+      {
+        "Username": "Agron",
+        "Score": 17,
+        "Fraction": 0.19318181818181818
+      },
+      {
+        "Username": "Psyduck",
+        "Score": 11,
+        "Fraction": 0.125
+      },
+      {
+        "Username": "nat4227",
+        "Score": 8,
+        "Fraction": 0.09090909090909091
+      },
+      {
+        "Username": "G.W\u5EE2\uFFFD",
+        "Score": 7,
+        "Fraction": 0.07954545454545454
+      },
+      {
+        "Username": "wolf bear",
+        "Score": 7,
+        "Fraction": 0.07954545454545454
+      },
+      {
+        "Username": "PandaDono",
+        "Score": 5,
+        "Fraction": 0.056818181818181816
+      },
+      {
+        "Username": "Volkozar",
+        "Score": 5,
+        "Fraction": 0.056818181818181816
+      },
+      {
+        "Username": "maddogisme1",
+        "Score": 4,
+        "Fraction": 0.045454545454545456
+      },
+      {
+        "Username": "Lord Business",
+        "Score": 4,
+        "Fraction": 0.045454545454545456
+      },
+      {
+        "Username": "Ikoniak",
+        "Score": 2,
+        "Fraction": 0.022727272727272728
+      },
+      {
+        "Username": "Droppre drop.skin",
+        "Score": 2,
+        "Fraction": 0.022727272727272728
+      },
+      {
+        "Username": "Remek",
+        "Score": 2,
+        "Fraction": 0.022727272727272728
+      },
+      {
+        "Username": "ArendiaStar",
+        "Score": 2,
+        "Fraction": 0.022727272727272728
+      },
+      {
+        "Username": "Naarke",
+        "Score": 2,
+        "Fraction": 0.022727272727272728
+      },
+      {
+        "Username": "Hover",
+        "Score": 2,
+        "Fraction": 0.022727272727272728
+      },
+      {
+        "Username": "Ladyhawke",
+        "Score": 2,
+        "Fraction": 0.022727272727272728
+      },
+      {
+        "Username": "Chancellor87",
+        "Score": 2,
+        "Fraction": 0.022727272727272728
+      },
+      {
+        "Username": "Batsbak69",
+        "Score": 1,
+        "Fraction": 0.011363636363636364
+      },
+      {
+        "Username": "neverwhatever",
+        "Score": 1,
+        "Fraction": 0.011363636363636364
+      },
+      {
+        "Username": "foxrocks1070",
+        "Score": 1,
+        "Fraction": 0.011363636363636364
+      },
+      {
+        "Username": "Banditzz",
+        "Score": 1,
+        "Fraction": 0.011363636363636364
+      }
+    ]
+  },
+  {
+    "Name": "DesertMossSpecies",
+    "TotalValue": 0,
+    "Scores": [
+    ]
+  },
+  {
+    "Name": "DebtPerActiveCitizen",
+    "TotalValue": 0,
+    "Scores": [
+    ]
+  },
+  {
+    "Name": "DwarfWillowSpecies",
+    "TotalValue": 0,
+    "Scores": [
+    ]
+  },
+  {
+    "Name": "ElectedTitles",
+    "TotalValue": 0,
+    "Scores": [
+    ]
+  },
+  {
+    "Name": "ElkSpecies",
+    "TotalValue": 0,
+    "Scores": [
+    ]
+  },
+  {
+    "Name": "EnrollAction",
+    "TotalValue": 0,
+    "Scores": [
+    ]
+  },
+  {
+    "Name": "ExtinctSpecies",
+    "TotalValue": 0,
+    "Scores": [
+    ]
+  },
+  {
+    "Name": "FailedContract",
+    "TotalValue": 0,
+    "Scores": [
+    ]
+  },
+  {
+    "Name": "FertilizeAction",
+    "TotalValue": 0,
+    "Scores": [
+    ]
+  },
+  {
+    "Name": "FirstLogin",
+    "TotalValue": 96,
+    "Scores": [
+      {
+        "Username": "Psyduck",
+        "Score": 1,
+        "Fraction": 0.010416666666666666
+      },
+      {
+        "Username": "Ikoniak",
+        "Score": 1,
+        "Fraction": 0.010416666666666666
+      },
+      {
+        "Username": "neverwhatever",
+        "Score": 1,
+        "Fraction": 0.010416666666666666
+      },
+      {
+        "Username": "Ladyhawke",
+        "Score": 1,
+        "Fraction": 0.010416666666666666
+      },
+      {
+        "Username": "PandaDono",
+        "Score": 1,
+        "Fraction": 0.010416666666666666
+      },
+      {
+        "Username": "nat4227",
+        "Score": 1,
+        "Fraction": 0.010416666666666666
+      },
+      {
+        "Username": "KatFish",
+        "Score": 1,
+        "Fraction": 0.010416666666666666
+      },
+      {
+        "Username": "maddogisme1",
+        "Score": 1,
+        "Fraction": 0.010416666666666666
+      },
+      {
+        "Username": "Droppre drop.skin",
+        "Score": 1,
+        "Fraction": 0.010416666666666666
+      },
+      {
+        "Username": "Agron",
+        "Score": 1,
+        "Fraction": 0.010416666666666666
+      },
+      {
+        "Username": "Naarke",
+        "Score": 1,
+        "Fraction": 0.010416666666666666
+      },
+      {
+        "Username": "ThBayan",
+        "Score": 1,
+        "Fraction": 0.010416666666666666
+      },
+      {
+        "Username": "Vortelas",
+        "Score": 1,
+        "Fraction": 0.010416666666666666
+      },
+      {
+        "Username": "Dark.Khimela",
+        "Score": 1,
+        "Fraction": 0.010416666666666666
+      },
+      {
+        "Username": "Lucifiel",
+        "Score": 1,
+        "Fraction": 0.010416666666666666
+      },
+      {
+        "Username": "Nico1564",
+        "Score": 1,
+        "Fraction": 0.010416666666666666
+      },
+      {
+        "Username": "apxucmpamer",
+        "Score": 1,
+        "Fraction": 0.010416666666666666
+      },
+      {
+        "Username": "Croc",
+        "Score": 1,
+        "Fraction": 0.010416666666666666
+      },
+      {
+        "Username": "XORAXXXX",
+        "Score": 1,
+        "Fraction": 0.010416666666666666
+      },
+      {
+        "Username": "Hy_Haxep",
+        "Score": 1,
+        "Fraction": 0.010416666666666666
+      },
+      {
+        "Username": "Lord Business",
+        "Score": 1,
+        "Fraction": 0.010416666666666666
+      },
+      {
+        "Username": "Almost Average",
+        "Score": 1,
+        "Fraction": 0.010416666666666666
+      },
+      {
+        "Username": "schluerfi",
+        "Score": 1,
+        "Fraction": 0.010416666666666666
+      },
+      {
+        "Username": "ArendiaStar",
+        "Score": 1,
+        "Fraction": 0.010416666666666666
+      },
+      {
+        "Username": "Exciter",
+        "Score": 1,
+        "Fraction": 0.010416666666666666
+      },
+      {
+        "Username": "Hover",
+        "Score": 1,
+        "Fraction": 0.010416666666666666
+      },
+      {
+        "Username": "Goldenbarky",
+        "Score": 1,
+        "Fraction": 0.010416666666666666
+      },
+      {
+        "Username": "dangerJaxieYT",
+        "Score": 1,
+        "Fraction": 0.010416666666666666
+      },
+      {
+        "Username": "Zebis",
+        "Score": 1,
+        "Fraction": 0.010416666666666666
+      },
+      {
+        "Username": "Taelshin",
+        "Score": 1,
+        "Fraction": 0.010416666666666666
+      },
+      {
+        "Username": "Remek",
+        "Score": 1,
+        "Fraction": 0.010416666666666666
+      },
+      {
+        "Username": "Batsbak69",
+        "Score": 1,
+        "Fraction": 0.010416666666666666
+      },
+      {
+        "Username": "foxrocks1070",
+        "Score": 1,
+        "Fraction": 0.010416666666666666
+      },
+      {
+        "Username": "96dwilliams",
+        "Score": 1,
+        "Fraction": 0.010416666666666666
+      },
+      {
+        "Username": "Gary",
+        "Score": 1,
+        "Fraction": 0.010416666666666666
+      },
+      {
+        "Username": "Barramundi",
+        "Score": 1,
+        "Fraction": 0.010416666666666666
+      },
+      {
+        "Username": "RCB",
+        "Score": 1,
+        "Fraction": 0.010416666666666666
+      },
+      {
+        "Username": "Epic_Null",
+        "Score": 1,
+        "Fraction": 0.010416666666666666
+      },
+      {
+        "Username": "skyfly5",
+        "Score": 1,
+        "Fraction": 0.010416666666666666
+      },
+      {
+        "Username": "Cobalt",
+        "Score": 1,
+        "Fraction": 0.010416666666666666
+      },
+      {
+        "Username": "Weylin",
+        "Score": 1,
+        "Fraction": 0.010416666666666666
+      },
+      {
+        "Username": "obere",
+        "Score": 1,
+        "Fraction": 0.010416666666666666
+      },
+      {
+        "Username": "G.W\u5EE2\uFFFD",
+        "Score": 1,
+        "Fraction": 0.010416666666666666
+      },
+      {
+        "Username": "Kam500",
+        "Score": 1,
+        "Fraction": 0.010416666666666666
+      },
+      {
+        "Username": "Gore",
+        "Score": 1,
+        "Fraction": 0.010416666666666666
+      },
+      {
+        "Username": "MarisM",
+        "Score": 1,
+        "Fraction": 0.010416666666666666
+      },
+      {
+        "Username": "a161e9722341",
+        "Score": 1,
+        "Fraction": 0.010416666666666666
+      },
+      {
+        "Username": "sheppyboy",
+        "Score": 1,
+        "Fraction": 0.010416666666666666
+      },
+      {
+        "Username": "MadGirl",
+        "Score": 1,
+        "Fraction": 0.010416666666666666
+      },
+      {
+        "Username": "MadMan",
+        "Score": 1,
+        "Fraction": 0.010416666666666666
+      },
+      {
+        "Username": "PembrokeWelshCorgi",
+        "Score": 1,
+        "Fraction": 0.010416666666666666
+      },
+      {
+        "Username": "Razorlance",
+        "Score": 1,
+        "Fraction": 0.010416666666666666
+      },
+      {
+        "Username": "MaxVexis",
+        "Score": 1,
+        "Fraction": 0.010416666666666666
+      },
+      {
+        "Username": "Cobalt-60",
+        "Score": 1,
+        "Fraction": 0.010416666666666666
+      },
+      {
+        "Username": "Striator",
+        "Score": 1,
+        "Fraction": 0.010416666666666666
+      },
+      {
+        "Username": "Zang2107",
+        "Score": 1,
+        "Fraction": 0.010416666666666666
+      },
+      {
+        "Username": "Zombie",
+        "Score": 1,
+        "Fraction": 0.010416666666666666
+      },
+      {
+        "Username": "unnadawg",
+        "Score": 1,
+        "Fraction": 0.010416666666666666
+      },
+      {
+        "Username": "leefnmajors",
+        "Score": 1,
+        "Fraction": 0.010416666666666666
+      },
+      {
+        "Username": "Volkozar",
+        "Score": 1,
+        "Fraction": 0.010416666666666666
+      },
+      {
+        "Username": "Ghost",
+        "Score": 1,
+        "Fraction": 0.010416666666666666
+      },
+      {
+        "Username": "Banditzz",
+        "Score": 1,
+        "Fraction": 0.010416666666666666
+      },
+      {
+        "Username": "Celt",
+        "Score": 1,
+        "Fraction": 0.010416666666666666
+      },
+      {
+        "Username": "Werwolf",
+        "Score": 1,
+        "Fraction": 0.010416666666666666
+      },
+      {
+        "Username": "Solaal",
+        "Score": 1,
+        "Fraction": 0.010416666666666666
+      },
+      {
+        "Username": "sir_pattrick",
+        "Score": 1,
+        "Fraction": 0.010416666666666666
+      },
+      {
+        "Username": "Icepic",
+        "Score": 1,
+        "Fraction": 0.010416666666666666
+      },
+      {
+        "Username": "RU | \u0411\u041B\u042D\uFFFD",
+        "Score": 1,
+        "Fraction": 0.010416666666666666
+      },
+      {
+        "Username": "MiLaNeQ",
+        "Score": 1,
+        "Fraction": 0.010416666666666666
+      },
+      {
+        "Username": "KadvanLlawen",
+        "Score": 1,
+        "Fraction": 0.010416666666666666
+      },
+      {
+        "Username": "Chancellor87",
+        "Score": 1,
+        "Fraction": 0.010416666666666666
+      },
+      {
+        "Username": "Nuura",
+        "Score": 1,
+        "Fraction": 0.010416666666666666
+      },
+      {
+        "Username": "wolf bear",
+        "Score": 1,
+        "Fraction": 0.010416666666666666
+      },
+      {
+        "Username": "=7Cav=Mann.M",
+        "Score": 1,
+        "Fraction": 0.010416666666666666
+      },
+      {
+        "Username": "Oleganio",
+        "Score": 1,
+        "Fraction": 0.010416666666666666
+      },
+      {
+        "Username": "Lukalot",
+        "Score": 1,
+        "Fraction": 0.010416666666666666
+      },
+      {
+        "Username": "jumunius",
+        "Score": 1,
+        "Fraction": 0.010416666666666666
+      },
+      {
+        "Username": "maribethpoisson",
+        "Score": 1,
+        "Fraction": 0.010416666666666666
+      },
+      {
+        "Username": "Silveraio",
+        "Score": 1,
+        "Fraction": 0.010416666666666666
+      },
+      {
+        "Username": "Ya Boi Chris",
+        "Score": 1,
+        "Fraction": 0.010416666666666666
+      },
+      {
+        "Username": "Marius50",
+        "Score": 1,
+        "Fraction": 0.010416666666666666
+      },
+      {
+        "Username": "\u0421pank",
+        "Score": 1,
+        "Fraction": 0.010416666666666666
+      },
+      {
+        "Username": "Bora",
+        "Score": 1,
+        "Fraction": 0.010416666666666666
+      },
+      {
+        "Username": "elektralibro",
+        "Score": 1,
+        "Fraction": 0.010416666666666666
+      },
+      {
+        "Username": "StinkyMan",
+        "Score": 1,
+        "Fraction": 0.010416666666666666
+      },
+      {
+        "Username": "Nazzlol",
+        "Score": 1,
+        "Fraction": 0.010416666666666666
+      },
+      {
+        "Username": "mummaki",
+        "Score": 1,
+        "Fraction": 0.010416666666666666
+      },
+      {
+        "Username": "Insipid",
+        "Score": 1,
+        "Fraction": 0.010416666666666666
+      },
+      {
+        "Username": "VDFrame",
+        "Score": 1,
+        "Fraction": 0.010416666666666666
+      },
+      {
+        "Username": "The_Reborn",
+        "Score": 1,
+        "Fraction": 0.010416666666666666
+      },
+      {
+        "Username": "rosa98",
+        "Score": 1,
+        "Fraction": 0.010416666666666666
+      },
+      {
+        "Username": "jacenator2004",
+        "Score": 1,
+        "Fraction": 0.010416666666666666
+      },
+      {
+        "Username": "CaptainCurt03",
+        "Score": 1,
+        "Fraction": 0.010416666666666666
+      },
+      {
+        "Username": "\u0427\u0435\u043F\u0443\u0431\u0435\u043B",
+        "Score": 1,
+        "Fraction": 0.010416666666666666
+      },
+      {
+        "Username": "Odin",
+        "Score": 1,
+        "Fraction": 0.010416666666666666
+      },
+      {
+        "Username": "0MadMax0",
+        "Score": 1,
+        "Fraction": 0.010416666666666666
+      }
+    ]
+  },
+  {
+    "Name": "FilmyFernSpecies",
+    "TotalValue": 0,
+    "Scores": [
+    ]
+  },
+  {
+    "Name": "FoxSpecies",
+    "TotalValue": 0,
+    "Scores": [
+    ]
+  },
+  {
+    "Name": "FernSpecies",
+    "TotalValue": 0,
+    "Scores": [
+    ]
+  },
+  {
+    "Name": "FirSpecies",
+    "TotalValue": 0,
+    "Scores": [
+    ]
+  },
+  {
+    "Name": "FireweedSpecies",
+    "TotalValue": 0,
+    "Scores": [
+    ]
+  },
+  {
+    "Name": "FlaxSpecies",
+    "TotalValue": 0,
+    "Scores": [
+    ]
+  },
+  {
+    "Name": "GainSpecialty",
+    "TotalValue": 56,
+    "Scores": [
+      {
+        "Username": "Ladyhawke",
+        "Score": 3,
+        "Fraction": 0.05357142857142857
+      },
+      {
+        "Username": "nat4227",
+        "Score": 3,
+        "Fraction": 0.05357142857142857
+      },
+      {
+        "Username": "Agron",
+        "Score": 2,
+        "Fraction": 0.03571428571428571
+      },
+      {
+        "Username": "maddogisme1",
+        "Score": 2,
+        "Fraction": 0.03571428571428571
+      },
+      {
+        "Username": "Ikoniak",
+        "Score": 2,
+        "Fraction": 0.03571428571428571
+      },
+      {
+        "Username": "Psyduck",
+        "Score": 2,
+        "Fraction": 0.03571428571428571
+      },
+      {
+        "Username": "PandaDono",
+        "Score": 2,
+        "Fraction": 0.03571428571428571
+      },
+      {
+        "Username": "Droppre drop.skin",
+        "Score": 2,
+        "Fraction": 0.03571428571428571
+      },
+      {
+        "Username": "G.W\u5EE2\uFFFD",
+        "Score": 2,
+        "Fraction": 0.03571428571428571
+      },
+      {
+        "Username": "apxucmpamer",
+        "Score": 2,
+        "Fraction": 0.03571428571428571
+      },
+      {
+        "Username": "Nuura",
+        "Score": 2,
+        "Fraction": 0.03571428571428571
+      },
+      {
+        "Username": "Naarke",
+        "Score": 1,
+        "Fraction": 0.017857142857142856
+      },
+      {
+        "Username": "Croc",
+        "Score": 1,
+        "Fraction": 0.017857142857142856
+      },
+      {
+        "Username": "ThBayan",
+        "Score": 1,
+        "Fraction": 0.017857142857142856
+      },
+      {
+        "Username": "schluerfi",
+        "Score": 1,
+        "Fraction": 0.017857142857142856
+      },
+      {
+        "Username": "Almost Average",
+        "Score": 1,
+        "Fraction": 0.017857142857142856
+      },
+      {
+        "Username": "neverwhatever",
+        "Score": 1,
+        "Fraction": 0.017857142857142856
+      },
+      {
+        "Username": "ArendiaStar",
+        "Score": 1,
+        "Fraction": 0.017857142857142856
+      },
+      {
+        "Username": "Batsbak69",
+        "Score": 1,
+        "Fraction": 0.017857142857142856
+      },
+      {
+        "Username": "Hover",
+        "Score": 1,
+        "Fraction": 0.017857142857142856
+      },
+      {
+        "Username": "Lord Business",
+        "Score": 1,
+        "Fraction": 0.017857142857142856
+      },
+      {
+        "Username": "Gary",
+        "Score": 1,
+        "Fraction": 0.017857142857142856
+      },
+      {
+        "Username": "Taelshin",
+        "Score": 1,
+        "Fraction": 0.017857142857142856
+      },
+      {
+        "Username": "foxrocks1070",
+        "Score": 1,
+        "Fraction": 0.017857142857142856
+      },
+      {
+        "Username": "96dwilliams",
+        "Score": 1,
+        "Fraction": 0.017857142857142856
+      },
+      {
+        "Username": "Epic_Null",
+        "Score": 1,
+        "Fraction": 0.017857142857142856
+      },
+      {
+        "Username": "MadMan",
+        "Score": 1,
+        "Fraction": 0.017857142857142856
+      },
+      {
+        "Username": "Zombie",
+        "Score": 1,
+        "Fraction": 0.017857142857142856
+      },
+      {
+        "Username": "Volkozar",
+        "Score": 1,
+        "Fraction": 0.017857142857142856
+      },
+      {
+        "Username": "Banditzz",
+        "Score": 1,
+        "Fraction": 0.017857142857142856
+      },
+      {
+        "Username": "sir_pattrick",
+        "Score": 1,
+        "Fraction": 0.017857142857142856
+      },
+      {
+        "Username": "Icepic",
+        "Score": 1,
+        "Fraction": 0.017857142857142856
+      },
+      {
+        "Username": "MarisM",
+        "Score": 1,
+        "Fraction": 0.017857142857142856
+      },
+      {
+        "Username": "Remek",
+        "Score": 1,
+        "Fraction": 0.017857142857142856
+      },
+      {
+        "Username": "Chancellor87",
+        "Score": 1,
+        "Fraction": 0.017857142857142856
+      },
+      {
+        "Username": "unnadawg",
+        "Score": 1,
+        "Fraction": 0.017857142857142856
+      },
+      {
+        "Username": "KatFish",
+        "Score": 1,
+        "Fraction": 0.017857142857142856
+      },
+      {
+        "Username": "Striator",
+        "Score": 1,
+        "Fraction": 0.017857142857142856
+      },
+      {
+        "Username": "=7Cav=Mann.M",
+        "Score": 1,
+        "Fraction": 0.017857142857142856
+      },
+      {
+        "Username": "Oleganio",
+        "Score": 1,
+        "Fraction": 0.017857142857142856
+      },
+      {
+        "Username": "maribethpoisson",
+        "Score": 1,
+        "Fraction": 0.017857142857142856
+      },
+      {
+        "Username": "Ghost",
+        "Score": 1,
+        "Fraction": 0.017857142857142856
+      },
+      {
+        "Username": "VDFrame",
+        "Score": 1,
+        "Fraction": 0.017857142857142856
+      }
+    ]
+  },
+  {
+    "Name": "GDP",
+    "TotalValue": 0,
+    "Scores": [
+    ]
+  },
+  {
+    "Name": "GainProfession",
+    "TotalValue": 52,
+    "Scores": [
+      {
+        "Username": "Ladyhawke",
+        "Score": 3,
+        "Fraction": 0.057692307692307696
+      },
+      {
+        "Username": "nat4227",
+        "Score": 3,
+        "Fraction": 0.057692307692307696
+      },
+      {
+        "Username": "maddogisme1",
+        "Score": 2,
+        "Fraction": 0.038461538461538464
+      },
+      {
+        "Username": "Psyduck",
+        "Score": 2,
+        "Fraction": 0.038461538461538464
+      },
+      {
+        "Username": "PandaDono",
+        "Score": 2,
+        "Fraction": 0.038461538461538464
+      },
+      {
+        "Username": "G.W\u5EE2\uFFFD",
+        "Score": 2,
+        "Fraction": 0.038461538461538464
+      },
+      {
+        "Username": "Nuura",
+        "Score": 2,
+        "Fraction": 0.038461538461538464
+      },
+      {
+        "Username": "Agron",
+        "Score": 1,
+        "Fraction": 0.019230769230769232
+      },
+      {
+        "Username": "Naarke",
+        "Score": 1,
+        "Fraction": 0.019230769230769232
+      },
+      {
+        "Username": "Ikoniak",
+        "Score": 1,
+        "Fraction": 0.019230769230769232
+      },
+      {
+        "Username": "Croc",
+        "Score": 1,
+        "Fraction": 0.019230769230769232
+      },
+      {
+        "Username": "ThBayan",
+        "Score": 1,
+        "Fraction": 0.019230769230769232
+      },
+      {
+        "Username": "schluerfi",
+        "Score": 1,
+        "Fraction": 0.019230769230769232
+      },
+      {
+        "Username": "Almost Average",
+        "Score": 1,
+        "Fraction": 0.019230769230769232
+      },
+      {
+        "Username": "neverwhatever",
+        "Score": 1,
+        "Fraction": 0.019230769230769232
+      },
+      {
+        "Username": "ArendiaStar",
+        "Score": 1,
+        "Fraction": 0.019230769230769232
+      },
+      {
+        "Username": "Batsbak69",
+        "Score": 1,
+        "Fraction": 0.019230769230769232
+      },
+      {
+        "Username": "Hover",
+        "Score": 1,
+        "Fraction": 0.019230769230769232
+      },
+      {
+        "Username": "Lord Business",
+        "Score": 1,
+        "Fraction": 0.019230769230769232
+      },
+      {
+        "Username": "Gary",
+        "Score": 1,
+        "Fraction": 0.019230769230769232
+      },
+      {
+        "Username": "Taelshin",
+        "Score": 1,
+        "Fraction": 0.019230769230769232
+      },
+      {
+        "Username": "foxrocks1070",
+        "Score": 1,
+        "Fraction": 0.019230769230769232
+      },
+      {
+        "Username": "96dwilliams",
+        "Score": 1,
+        "Fraction": 0.019230769230769232
+      },
+      {
+        "Username": "Epic_Null",
+        "Score": 1,
+        "Fraction": 0.019230769230769232
+      },
+      {
+        "Username": "Droppre drop.skin",
+        "Score": 1,
+        "Fraction": 0.019230769230769232
+      },
+      {
+        "Username": "MadMan",
+        "Score": 1,
+        "Fraction": 0.019230769230769232
+      },
+      {
+        "Username": "Zombie",
+        "Score": 1,
+        "Fraction": 0.019230769230769232
+      },
+      {
+        "Username": "Volkozar",
+        "Score": 1,
+        "Fraction": 0.019230769230769232
+      },
+      {
+        "Username": "Banditzz",
+        "Score": 1,
+        "Fraction": 0.019230769230769232
+      },
+      {
+        "Username": "apxucmpamer",
+        "Score": 1,
+        "Fraction": 0.019230769230769232
+      },
+      {
+        "Username": "sir_pattrick",
+        "Score": 1,
+        "Fraction": 0.019230769230769232
+      },
+      {
+        "Username": "Icepic",
+        "Score": 1,
+        "Fraction": 0.019230769230769232
+      },
+      {
+        "Username": "MarisM",
+        "Score": 1,
+        "Fraction": 0.019230769230769232
+      },
+      {
+        "Username": "Remek",
+        "Score": 1,
+        "Fraction": 0.019230769230769232
+      },
+      {
+        "Username": "Chancellor87",
+        "Score": 1,
+        "Fraction": 0.019230769230769232
+      },
+      {
+        "Username": "unnadawg",
+        "Score": 1,
+        "Fraction": 0.019230769230769232
+      },
+      {
+        "Username": "KatFish",
+        "Score": 1,
+        "Fraction": 0.019230769230769232
+      },
+      {
+        "Username": "Striator",
+        "Score": 1,
+        "Fraction": 0.019230769230769232
+      },
+      {
+        "Username": "=7Cav=Mann.M",
+        "Score": 1,
+        "Fraction": 0.019230769230769232
+      },
+      {
+        "Username": "Oleganio",
+        "Score": 1,
+        "Fraction": 0.019230769230769232
+      },
+      {
+        "Username": "maribethpoisson",
+        "Score": 1,
+        "Fraction": 0.019230769230769232
+      },
+      {
+        "Username": "Ghost",
+        "Score": 1,
+        "Fraction": 0.019230769230769232
+      },
+      {
+        "Username": "VDFrame",
+        "Score": 1,
+        "Fraction": 0.019230769230769232
+      }
+    ]
+  },
+  {
+    "Name": "GovernmentHoldingsInDefaultCurrency",
+    "TotalValue": 0,
+    "Scores": [
+    ]
+  },
+  {
+    "Name": "HarvestOrHunt",
+    "TotalValue": 38758,
+    "Scores": [
+      {
+        "Username": "PandaDono",
+        "Score": 6571,
+        "Fraction": 0.16953919190876723
+      },
+      {
+        "Username": "Agron",
+        "Score": 4301,
+        "Fraction": 0.11097063831983074
+      },
+      {
+        "Username": "Nuura",
+        "Score": 3719,
+        "Fraction": 0.09595438361112545
+      },
+      {
+        "Username": "neverwhatever",
+        "Score": 3614,
+        "Fraction": 0.09324526549357552
+      },
+      {
+        "Username": "nat4227",
+        "Score": 3531,
+        "Fraction": 0.09110377212446463
+      },
+      {
+        "Username": "Hover",
+        "Score": 3370,
+        "Fraction": 0.08694979101088808
+      },
+      {
+        "Username": "Naarke",
+        "Score": 2107,
+        "Fraction": 0.05436297022550183
+      },
+      {
+        "Username": "Ikoniak",
+        "Score": 1130,
+        "Fraction": 0.029155271169823003
+      },
+      {
+        "Username": "ArendiaStar",
+        "Score": 969,
+        "Fraction": 0.02500129005624645
+      },
+      {
+        "Username": "Lord Business",
+        "Score": 764,
+        "Fraction": 0.019712059445791838
+      },
+      {
+        "Username": "Volkozar",
+        "Score": 640,
+        "Fraction": 0.01651271995459002
+      },
+      {
+        "Username": "apxucmpamer",
+        "Score": 574,
+        "Fraction": 0.014809845709272924
+      },
+      {
+        "Username": "Remek",
+        "Score": 537,
+        "Fraction": 0.01385520408689819
+      },
+      {
+        "Username": "G.W\u5EE2\uFFFD",
+        "Score": 495,
+        "Fraction": 0.012771556839878219
+      },
+      {
+        "Username": "Zombie",
+        "Score": 463,
+        "Fraction": 0.011945920842148718
+      },
+      {
+        "Username": "Epic_Null",
+        "Score": 459,
+        "Fraction": 0.01184271634243253
+      },
+      {
+        "Username": "=7Cav=Mann.M",
+        "Score": 406,
+        "Fraction": 0.010475256721193043
+      },
+      {
+        "Username": "foxrocks1070",
+        "Score": 398,
+        "Fraction": 0.010268847721760668
+      },
+      {
+        "Username": "Droppre drop.skin",
+        "Score": 379,
+        "Fraction": 0.009778626348108778
+      },
+      {
+        "Username": "Psyduck",
+        "Score": 359,
+        "Fraction": 0.00926260384952784
+      },
+      {
+        "Username": "Kam500",
+        "Score": 358,
+        "Fraction": 0.009236802724598793
+      },
+      {
+        "Username": "Ghost",
+        "Score": 337,
+        "Fraction": 0.008694979101088808
+      },
+      {
+        "Username": "leefnmajors",
+        "Score": 287,
+        "Fraction": 0.007404922854636462
+      },
+      {
+        "Username": "ThBayan",
+        "Score": 244,
+        "Fraction": 0.006295474482687445
+      },
+      {
+        "Username": "Ladyhawke",
+        "Score": 236,
+        "Fraction": 0.00608906548325507
+      },
+      {
+        "Username": "MarisM",
+        "Score": 233,
+        "Fraction": 0.006011662108467929
+      },
+      {
+        "Username": "Taelshin",
+        "Score": 226,
+        "Fraction": 0.005831054233964601
+      },
+      {
+        "Username": "VDFrame",
+        "Score": 225,
+        "Fraction": 0.005805253109035554
+      },
+      {
+        "Username": "Goldenbarky",
+        "Score": 172,
+        "Fraction": 0.004437793487796068
+      },
+      {
+        "Username": "Chancellor87",
+        "Score": 155,
+        "Fraction": 0.0039991743640022705
+      },
+      {
+        "Username": "schluerfi",
+        "Score": 137,
+        "Fraction": 0.0035347541152794264
+      },
+      {
+        "Username": "Banditzz",
+        "Score": 129,
+        "Fraction": 0.003328345115847051
+      },
+      {
+        "Username": "Striator",
+        "Score": 117,
+        "Fraction": 0.003018731616698488
+      },
+      {
+        "Username": "The_Reborn",
+        "Score": 117,
+        "Fraction": 0.003018731616698488
+      },
+      {
+        "Username": "maddogisme1",
+        "Score": 112,
+        "Fraction": 0.0028897259920532535
+      },
+      {
+        "Username": "Croc",
+        "Score": 99,
+        "Fraction": 0.0025543113679756435
+      },
+      {
+        "Username": "Icepic",
+        "Score": 97,
+        "Fraction": 0.00250270911811755
+      },
+      {
+        "Username": "Nico1564",
+        "Score": 84,
+        "Fraction": 0.00216729449403994
+      },
+      {
+        "Username": "Almost Average",
+        "Score": 72,
+        "Fraction": 0.0018576809948913772
+      },
+      {
+        "Username": "wolf bear",
+        "Score": 66,
+        "Fraction": 0.001702874245317096
+      },
+      {
+        "Username": "Odin",
+        "Score": 45,
+        "Fraction": 0.0011610506218071109
+      },
+      {
+        "Username": "CaptainCurt03",
+        "Score": 41,
+        "Fraction": 0.0010578461220909232
+      },
+      {
+        "Username": "Batsbak69",
+        "Score": 36,
+        "Fraction": 0.0009288404974456886
+      },
+      {
+        "Username": "sir_pattrick",
+        "Score": 34,
+        "Fraction": 0.0008772382475875949
+      },
+      {
+        "Username": "Vortelas",
+        "Score": 33,
+        "Fraction": 0.000851437122658548
+      },
+      {
+        "Username": "Celt",
+        "Score": 32,
+        "Fraction": 0.000825635997729501
+      },
+      {
+        "Username": "jumunius",
+        "Score": 31,
+        "Fraction": 0.0007998348728004541
+      },
+      {
+        "Username": "RU | \u0411\u041B\u042D\uFFFD",
+        "Score": 26,
+        "Fraction": 0.0006708292481552195
+      },
+      {
+        "Username": "\u0427\u0435\u043F\u0443\u0431\u0435\u043B",
+        "Score": 26,
+        "Fraction": 0.0006708292481552195
+      },
+      {
+        "Username": "a161e9722341",
+        "Score": 25,
+        "Fraction": 0.0006450281232261726
+      },
+      {
+        "Username": "MadMan",
+        "Score": 25,
+        "Fraction": 0.0006450281232261726
+      },
+      {
+        "Username": "sheppyboy",
+        "Score": 22,
+        "Fraction": 0.000567624748439032
+      },
+      {
+        "Username": "Werwolf",
+        "Score": 16,
+        "Fraction": 0.0004128179988647505
+      },
+      {
+        "Username": "KatFish",
+        "Score": 15,
+        "Fraction": 0.0003870168739357036
+      },
+      {
+        "Username": "Oleganio",
+        "Score": 12,
+        "Fraction": 0.0003096134991485629
+      },
+      {
+        "Username": "Gary",
+        "Score": 10,
+        "Fraction": 0.00025801124929046907
+      },
+      {
+        "Username": "Bora",
+        "Score": 10,
+        "Fraction": 0.00025801124929046907
+      },
+      {
+        "Username": "elektralibro",
+        "Score": 8,
+        "Fraction": 0.00020640899943237526
+      },
+      {
+        "Username": "Hy_Haxep",
+        "Score": 5,
+        "Fraction": 0.00012900562464523453
+      },
+      {
+        "Username": "96dwilliams",
+        "Score": 5,
+        "Fraction": 0.00012900562464523453
+      },
+      {
+        "Username": "KadvanLlawen",
+        "Score": 4,
+        "Fraction": 0.00010320449971618763
+      },
+      {
+        "Username": "jacenator2004",
+        "Score": 3,
+        "Fraction": 7.740337478714073E-05
+      },
+      {
+        "Username": "Razorlance",
+        "Score": 2,
+        "Fraction": 5.1602249858093815E-05
+      },
+      {
+        "Username": "Solaal",
+        "Score": 2,
+        "Fraction": 5.1602249858093815E-05
+      },
+      {
+        "Username": "unnadawg",
+        "Score": 1,
+        "Fraction": 2.5801124929046907E-05
+      }
+    ]
+  },
+  {
+    "Name": "HeliconiaSpecies",
+    "TotalValue": 0,
+    "Scores": [
+    ]
+  },
+  {
+    "Name": "HareSpecies",
+    "TotalValue": 0,
+    "Scores": [
+    ]
+  },
+  {
+    "Name": "HuckleberrySpecies",
+    "TotalValue": 0,
+    "Scores": [
+    ]
+  },
+  {
+    "Name": "ItemTypesForSale",
+    "TotalValue": 0,
+    "Scores": [
+    ]
+  },
+  {
+    "Name": "ItemsForSale",
+    "TotalValue": 0,
+    "Scores": [
+    ]
+  },
+  {
+    "Name": "ItemCraftedAction",
+    "TotalValue": 110073,
+    "Scores": [
+      {
+        "Username": "Naarke",
+        "Score": 20676,
+        "Fraction": 0.18783897958627457
+      },
+      {
+        "Username": "Ladyhawke",
+        "Score": 12077,
+        "Fraction": 0.10971809617254004
+      },
+      {
+        "Username": "Hover",
+        "Score": 7969,
+        "Fraction": 0.07239740899221425
+      },
+      {
+        "Username": "nat4227",
+        "Score": 7655,
+        "Fraction": 0.06954475666148828
+      },
+      {
+        "Username": "Ikoniak",
+        "Score": 7584,
+        "Fraction": 0.06889973017906298
+      },
+      {
+        "Username": "sir_pattrick",
+        "Score": 7575,
+        "Fraction": 0.06881796625875555
+      },
+      {
+        "Username": "maddogisme1",
+        "Score": 5526,
+        "Fraction": 0.050203047068763454
+      },
+      {
+        "Username": "maribethpoisson",
+        "Score": 5005,
+        "Fraction": 0.045469824570966544
+      },
+      {
+        "Username": "Nuura",
+        "Score": 4334,
+        "Fraction": 0.039373870068045755
+      },
+      {
+        "Username": "Psyduck",
+        "Score": 3688,
+        "Fraction": 0.03350503756597894
+      },
+      {
+        "Username": "Droppre drop.skin",
+        "Score": 3611,
+        "Fraction": 0.03280550180334869
+      },
+      {
+        "Username": "apxucmpamer",
+        "Score": 3453,
+        "Fraction": 0.03137009075795154
+      },
+      {
+        "Username": "foxrocks1070",
+        "Score": 3033,
+        "Fraction": 0.0275544411436047
+      },
+      {
+        "Username": "PandaDono",
+        "Score": 2591,
+        "Fraction": 0.023538924168506354
+      },
+      {
+        "Username": "Gary",
+        "Score": 2011,
+        "Fraction": 0.018269693748694048
+      },
+      {
+        "Username": "Epic_Null",
+        "Score": 1912,
+        "Fraction": 0.01737029062531229
+      },
+      {
+        "Username": "96dwilliams",
+        "Score": 1671,
+        "Fraction": 0.015180834537079939
+      },
+      {
+        "Username": "KatFish",
+        "Score": 1510,
+        "Fraction": 0.013718168851580314
+      },
+      {
+        "Username": "Agron",
+        "Score": 1224,
+        "Fraction": 0.011119893161810798
+      },
+      {
+        "Username": "ArendiaStar",
+        "Score": 1145,
+        "Fraction": 0.010402187639112225
+      },
+      {
+        "Username": "G.W\u5EE2\uFFFD",
+        "Score": 910,
+        "Fraction": 0.008267240831084826
+      },
+      {
+        "Username": "Zombie",
+        "Score": 891,
+        "Fraction": 0.008094628110435802
+      },
+      {
+        "Username": "neverwhatever",
+        "Score": 643,
+        "Fraction": 0.005841577861964333
+      },
+      {
+        "Username": "unnadawg",
+        "Score": 596,
+        "Fraction": 0.005414588500358853
+      },
+      {
+        "Username": "Lord Business",
+        "Score": 308,
+        "Fraction": 0.002798143050521018
+      },
+      {
+        "Username": "=7Cav=Mann.M",
+        "Score": 280,
+        "Fraction": 0.0025437664095645618
+      },
+      {
+        "Username": "MarisM",
+        "Score": 264,
+        "Fraction": 0.0023984083290180154
+      },
+      {
+        "Username": "VDFrame",
+        "Score": 260,
+        "Fraction": 0.0023620688088813787
+      },
+      {
+        "Username": "Ghost",
+        "Score": 251,
+        "Fraction": 0.0022803048885739466
+      },
+      {
+        "Username": "ThBayan",
+        "Score": 235,
+        "Fraction": 0.0021349468080274
+      },
+      {
+        "Username": "schluerfi",
+        "Score": 135,
+        "Fraction": 0.001226458804611485
+      },
+      {
+        "Username": "Banditzz",
+        "Score": 113,
+        "Fraction": 0.0010265914438599838
+      },
+      {
+        "Username": "Goldenbarky",
+        "Score": 109,
+        "Fraction": 0.0009902519237233473
+      },
+      {
+        "Username": "Chancellor87",
+        "Score": 109,
+        "Fraction": 0.0009902519237233473
+      },
+      {
+        "Username": "Taelshin",
+        "Score": 107,
+        "Fraction": 0.000972082163655029
+      },
+      {
+        "Username": "Striator",
+        "Score": 105,
+        "Fraction": 0.0009539124035867106
+      },
+      {
+        "Username": "The_Reborn",
+        "Score": 83,
+        "Fraction": 0.0007540450428352094
+      },
+      {
+        "Username": "Remek",
+        "Score": 73,
+        "Fraction": 0.0006631962424936179
+      },
+      {
+        "Username": "MadMan",
+        "Score": 62,
+        "Fraction": 0.0005632625621178673
+      },
+      {
+        "Username": "Icepic",
+        "Score": 54,
+        "Fraction": 0.0004905835218445941
+      },
+      {
+        "Username": "Batsbak69",
+        "Score": 46,
+        "Fraction": 0.00041790448157132083
+      },
+      {
+        "Username": "Croc",
+        "Score": 44,
+        "Fraction": 0.00039973472150300253
+      },
+      {
+        "Username": "Nico1564",
+        "Score": 33,
+        "Fraction": 0.0002998010411272519
+      },
+      {
+        "Username": "Volkozar",
+        "Score": 26,
+        "Fraction": 0.00023620688088813786
+      },
+      {
+        "Username": "wolf bear",
+        "Score": 26,
+        "Fraction": 0.00023620688088813786
+      },
+      {
+        "Username": "Kam500",
+        "Score": 24,
+        "Fraction": 0.00021803712081981956
+      },
+      {
+        "Username": "Almost Average",
+        "Score": 19,
+        "Fraction": 0.00017261272064902382
+      },
+      {
+        "Username": "Bora",
+        "Score": 5,
+        "Fraction": 4.542440017079574E-05
+      },
+      {
+        "Username": "Vortelas",
+        "Score": 3,
+        "Fraction": 2.7254640102477445E-05
+      },
+      {
+        "Username": "Celt",
+        "Score": 3,
+        "Fraction": 2.7254640102477445E-05
+      },
+      {
+        "Username": "RU | \u0411\u041B\u042D\uFFFD",
+        "Score": 3,
+        "Fraction": 2.7254640102477445E-05
+      },
+      {
+        "Username": "sheppyboy",
+        "Score": 1,
+        "Fraction": 9.084880034159148E-06
+      },
+      {
+        "Username": "a161e9722341",
+        "Score": 1,
+        "Fraction": 9.084880034159148E-06
+      },
+      {
+        "Username": "elektralibro",
+        "Score": 1,
+        "Fraction": 9.084880034159148E-06
+      }
+    ]
+  },
+  {
+    "Name": "JaguarSpecies",
+    "TotalValue": 0,
+    "Scores": [
+    ]
+  },
+  {
+    "Name": "JoinedWorkParty",
+    "TotalValue": 0,
+    "Scores": [
+    ]
+  },
+  {
+    "Name": "JoinOrLeaveElection",
+    "TotalValue": 0,
+    "Scores": [
+    ]
+  },
+  {
+    "Name": "JoinedContract",
+    "TotalValue": 0,
+    "Scores": [
+    ]
+  },
+  {
+    "Name": "JoshuaSpecies",
+    "TotalValue": 0,
+    "Scores": [
+    ]
+  },
+  {
+    "Name": "JointfirSpecies",
+    "TotalValue": 0,
+    "Scores": [
+    ]
+  },
+  {
+    "Name": "KelpSpecies",
+    "TotalValue": 0,
+    "Scores": [
+    ]
+  },
+  {
+    "Name": "KingFernSpecies",
+    "TotalValue": 0,
+    "Scores": [
+    ]
+  },
+  {
+    "Name": "LifetimeCO2FromPlants",
+    "TotalValue": 0,
+    "Scores": [
+    ]
+  },
+  {
+    "Name": "LaborWorkOrderAction",
+    "TotalValue": 3915,
+    "Scores": [
+      {
+        "Username": "Naarke",
+        "Score": 721,
+        "Fraction": 0.18416347381864623
+      },
+      {
+        "Username": "nat4227",
+        "Score": 291,
+        "Fraction": 0.0743295019157088
+      },
+      {
+        "Username": "Ladyhawke",
+        "Score": 242,
+        "Fraction": 0.06181353767560664
+      },
+      {
+        "Username": "Ikoniak",
+        "Score": 216,
+        "Fraction": 0.05517241379310345
+      },
+      {
+        "Username": "Psyduck",
+        "Score": 182,
+        "Fraction": 0.04648786717752235
+      },
+      {
+        "Username": "G.W\u5EE2\uFFFD",
+        "Score": 157,
+        "Fraction": 0.040102171136653895
+      },
+      {
+        "Username": "foxrocks1070",
+        "Score": 152,
+        "Fraction": 0.038825031928480205
+      },
+      {
+        "Username": "ThBayan",
+        "Score": 130,
+        "Fraction": 0.033205619412515965
+      },
+      {
+        "Username": "Nuura",
+        "Score": 127,
+        "Fraction": 0.03243933588761175
+      },
+      {
+        "Username": "Hover",
+        "Score": 109,
+        "Fraction": 0.027841634738186464
+      },
+      {
+        "Username": "maddogisme1",
+        "Score": 105,
+        "Fraction": 0.02681992337164751
+      },
+      {
+        "Username": "ArendiaStar",
+        "Score": 101,
+        "Fraction": 0.025798212005108557
+      },
+      {
+        "Username": "sir_pattrick",
+        "Score": 90,
+        "Fraction": 0.022988505747126436
+      },
+      {
+        "Username": "PandaDono",
+        "Score": 87,
+        "Fraction": 0.022222222222222223
+      },
+      {
+        "Username": "Epic_Null",
+        "Score": 87,
+        "Fraction": 0.022222222222222223
+      },
+      {
+        "Username": "Droppre drop.skin",
+        "Score": 86,
+        "Fraction": 0.021966794380587483
+      },
+      {
+        "Username": "Agron",
+        "Score": 86,
+        "Fraction": 0.021966794380587483
+      },
+      {
+        "Username": "Ghost",
+        "Score": 84,
+        "Fraction": 0.021455938697318006
+      },
+      {
+        "Username": "MarisM",
+        "Score": 75,
+        "Fraction": 0.019157088122605363
+      },
+      {
+        "Username": "apxucmpamer",
+        "Score": 70,
+        "Fraction": 0.017879948914431672
+      },
+      {
+        "Username": "VDFrame",
+        "Score": 70,
+        "Fraction": 0.017879948914431672
+      },
+      {
+        "Username": "schluerfi",
+        "Score": 68,
+        "Fraction": 0.017369093231162196
+      },
+      {
+        "Username": "neverwhatever",
+        "Score": 61,
+        "Fraction": 0.015581098339719029
+      },
+      {
+        "Username": "96dwilliams",
+        "Score": 56,
+        "Fraction": 0.014303959131545339
+      },
+      {
+        "Username": "Goldenbarky",
+        "Score": 41,
+        "Fraction": 0.010472541507024266
+      },
+      {
+        "Username": "=7Cav=Mann.M",
+        "Score": 40,
+        "Fraction": 0.010217113665389528
+      },
+      {
+        "Username": "Banditzz",
+        "Score": 39,
+        "Fraction": 0.00996168582375479
+      },
+      {
+        "Username": "maribethpoisson",
+        "Score": 31,
+        "Fraction": 0.007918263090676884
+      },
+      {
+        "Username": "Striator",
+        "Score": 29,
+        "Fraction": 0.007407407407407408
+      },
+      {
+        "Username": "Chancellor87",
+        "Score": 29,
+        "Fraction": 0.007407407407407408
+      },
+      {
+        "Username": "The_Reborn",
+        "Score": 27,
+        "Fraction": 0.006896551724137931
+      },
+      {
+        "Username": "Zombie",
+        "Score": 25,
+        "Fraction": 0.006385696040868455
+      },
+      {
+        "Username": "Lord Business",
+        "Score": 20,
+        "Fraction": 0.005108556832694764
+      },
+      {
+        "Username": "Gary",
+        "Score": 20,
+        "Fraction": 0.005108556832694764
+      },
+      {
+        "Username": "unnadawg",
+        "Score": 16,
+        "Fraction": 0.004086845466155811
+      },
+      {
+        "Username": "wolf bear",
+        "Score": 16,
+        "Fraction": 0.004086845466155811
+      },
+      {
+        "Username": "Remek",
+        "Score": 15,
+        "Fraction": 0.0038314176245210726
+      },
+      {
+        "Username": "Icepic",
+        "Score": 15,
+        "Fraction": 0.0038314176245210726
+      },
+      {
+        "Username": "Croc",
+        "Score": 14,
+        "Fraction": 0.0035759897828863347
+      },
+      {
+        "Username": "Volkozar",
+        "Score": 14,
+        "Fraction": 0.0035759897828863347
+      },
+      {
+        "Username": "Almost Average",
+        "Score": 13,
+        "Fraction": 0.0033205619412515963
+      },
+      {
+        "Username": "KatFish",
+        "Score": 10,
+        "Fraction": 0.002554278416347382
+      },
+      {
+        "Username": "Batsbak69",
+        "Score": 8,
+        "Fraction": 0.0020434227330779057
+      },
+      {
+        "Username": "MadMan",
+        "Score": 8,
+        "Fraction": 0.0020434227330779057
+      },
+      {
+        "Username": "Bora",
+        "Score": 6,
+        "Fraction": 0.0015325670498084292
+      },
+      {
+        "Username": "Nico1564",
+        "Score": 5,
+        "Fraction": 0.001277139208173691
+      },
+      {
+        "Username": "Taelshin",
+        "Score": 5,
+        "Fraction": 0.001277139208173691
+      },
+      {
+        "Username": "Celt",
+        "Score": 3,
+        "Fraction": 0.0007662835249042146
+      },
+      {
+        "Username": "RU | \u0411\u041B\u042D\uFFFD",
+        "Score": 3,
+        "Fraction": 0.0007662835249042146
+      },
+      {
+        "Username": "elektralibro",
+        "Score": 3,
+        "Fraction": 0.0007662835249042146
+      },
+      {
+        "Username": "Vortelas",
+        "Score": 2,
+        "Fraction": 0.0005108556832694764
+      },
+      {
+        "Username": "Kam500",
+        "Score": 2,
+        "Fraction": 0.0005108556832694764
+      },
+      {
+        "Username": "sheppyboy",
+        "Score": 2,
+        "Fraction": 0.0005108556832694764
+      },
+      {
+        "Username": "a161e9722341",
+        "Score": 1,
+        "Fraction": 0.0002554278416347382
+      }
+    ]
+  },
+  {
+    "Name": "LifetimeCO2FromAnimals",
+    "TotalValue": 0,
+    "Scores": [
+    ]
+  },
+  {
+    "Name": "LeaveCitizenship",
+    "TotalValue": 0,
+    "Scores": [
+    ]
+  },
+  {
+    "Name": "LeftWorkParty",
+    "TotalValue": 0,
+    "Scores": [
+    ]
+  },
+  {
+    "Name": "LatticeMushroomSpecies",
+    "TotalValue": 0,
+    "Scores": [
+    ]
+  },
+  {
+    "Name": "LifetimeCO2FromPollution",
+    "TotalValue": 0,
+    "Scores": [
+    ]
+  },
+  {
+    "Name": "LostElection",
+    "TotalValue": 0,
+    "Scores": [
+    ]
+  },
+  {
+    "Name": "LoseSpecialty",
+    "TotalValue": 0,
+    "Scores": [
+    ]
+  },
+  {
+    "Name": "LeftClass",
+    "TotalValue": 0,
+    "Scores": [
+    ]
+  },
+  {
+    "Name": "LupineSpecies",
+    "TotalValue": 0,
+    "Scores": [
+    ]
+  },
+  {
+    "Name": "Laws",
+    "TotalValue": 0,
+    "Scores": [
+    ]
+  },
+  {
+    "Name": "MedianSkillRateOfActiveCitizens",
+    "TotalValue": 0,
+    "Scores": [
+    ]
+  },
+  {
+    "Name": "MedianNutritionValueOfActiveCitizens",
+    "TotalValue": 0,
+    "Scores": [
+    ]
+  },
+  {
+    "Name": "MedianHouseValueOfActiveCitizens",
+    "TotalValue": 0,
+    "Scores": [
+    ]
+  },
+  {
+    "Name": "MintCurrency",
+    "TotalValue": 0,
+    "Scores": [
+    ]
+  },
+  {
+    "Name": "MedianUnlockedSkillsOfActiveCitizens",
+    "TotalValue": 0,
+    "Scores": [
+    ]
+  },
+  {
+    "Name": "MoonJellyfishSpecies",
+    "TotalValue": 0,
+    "Scores": [
+    ]
+  },
+  {
+    "Name": "MoveWorldObject",
+    "TotalValue": 145,
+    "Scores": [
+      {
+        "Username": "Psyduck",
+        "Score": 23,
+        "Fraction": 0.15862068965517243
+      },
+      {
+        "Username": "Droppre drop.skin",
+        "Score": 22,
+        "Fraction": 0.15172413793103448
+      },
+      {
+        "Username": "nat4227",
+        "Score": 19,
+        "Fraction": 0.1310344827586207
+      },
+      {
+        "Username": "Ladyhawke",
+        "Score": 18,
+        "Fraction": 0.12413793103448276
+      },
+      {
+        "Username": "Nuura",
+        "Score": 14,
+        "Fraction": 0.09655172413793103
+      },
+      {
+        "Username": "apxucmpamer",
+        "Score": 10,
+        "Fraction": 0.06896551724137931
+      },
+      {
+        "Username": "G.W\u5EE2\uFFFD",
+        "Score": 5,
+        "Fraction": 0.034482758620689655
+      },
+      {
+        "Username": "Striator",
+        "Score": 5,
+        "Fraction": 0.034482758620689655
+      },
+      {
+        "Username": "Gary",
+        "Score": 4,
+        "Fraction": 0.027586206896551724
+      },
+      {
+        "Username": "Ikoniak",
+        "Score": 4,
+        "Fraction": 0.027586206896551724
+      },
+      {
+        "Username": "foxrocks1070",
+        "Score": 3,
+        "Fraction": 0.020689655172413793
+      },
+      {
+        "Username": "Chancellor87",
+        "Score": 3,
+        "Fraction": 0.020689655172413793
+      },
+      {
+        "Username": "ThBayan",
+        "Score": 2,
+        "Fraction": 0.013793103448275862
+      },
+      {
+        "Username": "ArendiaStar",
+        "Score": 2,
+        "Fraction": 0.013793103448275862
+      },
+      {
+        "Username": "96dwilliams",
+        "Score": 2,
+        "Fraction": 0.013793103448275862
+      },
+      {
+        "Username": "Volkozar",
+        "Score": 2,
+        "Fraction": 0.013793103448275862
+      },
+      {
+        "Username": "Celt",
+        "Score": 2,
+        "Fraction": 0.013793103448275862
+      },
+      {
+        "Username": "Lord Business",
+        "Score": 1,
+        "Fraction": 0.006896551724137931
+      },
+      {
+        "Username": "Hover",
+        "Score": 1,
+        "Fraction": 0.006896551724137931
+      },
+      {
+        "Username": "Remek",
+        "Score": 1,
+        "Fraction": 0.006896551724137931
+      },
+      {
+        "Username": "=7Cav=Mann.M",
+        "Score": 1,
+        "Fraction": 0.006896551724137931
+      },
+      {
+        "Username": "VDFrame",
+        "Score": 1,
+        "Fraction": 0.006896551724137931
+      }
+    ]
+  },
+  {
+    "Name": "MedianSpecialtyPercentOfActiveCitizens",
+    "TotalValue": 0,
+    "Scores": [
+    ]
+  },
+  {
+    "Name": "MountainGoatSpecies",
+    "TotalValue": 0,
+    "Scores": [
+    ]
+  },
+  {
+    "Name": "OakSpecies",
+    "TotalValue": 0,
+    "Scores": [
+    ]
+  },
+  {
+    "Name": "ObjectPaint",
+    "TotalValue": 0,
+    "Scores": [
+    ]
+  },
+  {
+    "Name": "OceanSpraySpecies",
+    "TotalValue": 0,
+    "Scores": [
+    ]
+  },
+  {
+    "Name": "ObjectPaintCleanup",
+    "TotalValue": 0,
+    "Scores": [
+    ]
+  },
+  {
+    "Name": "OfferedLoanOrBond",
+    "TotalValue": 0,
+    "Scores": [
+    ]
+  },
+  {
+    "Name": "ObjectExplosion",
+    "TotalValue": 0,
+    "Scores": [
+    ]
+  },
+  {
+    "Name": "OldGrowthRedwoodSpecies",
+    "TotalValue": 0,
+    "Scores": [
+    ]
+  },
+  {
+    "Name": "OrchidSpecies",
+    "TotalValue": 0,
+    "Scores": [
+    ]
+  },
+  {
+    "Name": "OtterSpecies",
+    "TotalValue": 0,
+    "Scores": [
+    ]
+  },
+  {
+    "Name": "PayTax",
+    "TotalValue": 0,
+    "Scores": [
+    ]
+  },
+  {
+    "Name": "Play",
+    "TotalValue": 42816,
+    "Scores": [
+      {
+        "Username": "apxucmpamer",
+        "Score": 4226,
+        "Fraction": 0.09870142002989536
+      },
+      {
+        "Username": "Psyduck",
+        "Score": 3127,
+        "Fraction": 0.07303344544095665
+      },
+      {
+        "Username": "nat4227",
+        "Score": 3041,
+        "Fraction": 0.07102485052316891
+      },
+      {
+        "Username": "Ladyhawke",
+        "Score": 2914,
+        "Fraction": 0.06805866965620329
+      },
+      {
+        "Username": "Nuura",
+        "Score": 2912,
+        "Fraction": 0.06801195814648729
+      },
+      {
+        "Username": "Droppre drop.skin",
+        "Score": 2256,
+        "Fraction": 0.052690582959641255
+      },
+      {
+        "Username": "PandaDono",
+        "Score": 2049,
+        "Fraction": 0.04785594170403588
+      },
+      {
+        "Username": "Naarke",
+        "Score": 1809,
+        "Fraction": 0.04225056053811659
+      },
+      {
+        "Username": "Ikoniak",
+        "Score": 1535,
+        "Fraction": 0.03585108370702541
+      },
+      {
+        "Username": "Agron",
+        "Score": 1509,
+        "Fraction": 0.03524383408071749
+      },
+      {
+        "Username": "neverwhatever",
+        "Score": 1296,
+        "Fraction": 0.030269058295964126
+      },
+      {
+        "Username": "Hover",
+        "Score": 1262,
+        "Fraction": 0.029474962630792228
+      },
+      {
+        "Username": "Epic_Null",
+        "Score": 1221,
+        "Fraction": 0.02851737668161435
+      },
+      {
+        "Username": "ThBayan",
+        "Score": 1065,
+        "Fraction": 0.024873878923766815
+      },
+      {
+        "Username": "foxrocks1070",
+        "Score": 1031,
+        "Fraction": 0.024079783258594917
+      },
+      {
+        "Username": "ArendiaStar",
+        "Score": 946,
+        "Fraction": 0.02209454409566517
+      },
+      {
+        "Username": "Volkozar",
+        "Score": 935,
+        "Fraction": 0.021837630792227204
+      },
+      {
+        "Username": "G.W\u5EE2\uFFFD",
+        "Score": 711,
+        "Fraction": 0.016605941704035874
+      },
+      {
+        "Username": "VDFrame",
+        "Score": 657,
+        "Fraction": 0.015344730941704035
+      },
+      {
+        "Username": "maddogisme1",
+        "Score": 615,
+        "Fraction": 0.014363789237668161
+      },
+      {
+        "Username": "96dwilliams",
+        "Score": 586,
+        "Fraction": 0.013686472346786249
+      },
+      {
+        "Username": "Remek",
+        "Score": 577,
+        "Fraction": 0.013476270553064275
+      },
+      {
+        "Username": "Lord Business",
+        "Score": 552,
+        "Fraction": 0.01289237668161435
+      },
+      {
+        "Username": "sir_pattrick",
+        "Score": 551,
+        "Fraction": 0.012869020926756352
+      },
+      {
+        "Username": "Ghost",
+        "Score": 432,
+        "Fraction": 0.010089686098654708
+      },
+      {
+        "Username": "MarisM",
+        "Score": 423,
+        "Fraction": 0.009879484304932736
+      },
+      {
+        "Username": "Taelshin",
+        "Score": 298,
+        "Fraction": 0.0069600149476831095
+      },
+      {
+        "Username": "=7Cav=Mann.M",
+        "Score": 277,
+        "Fraction": 0.006469544095665172
+      },
+      {
+        "Username": "Striator",
+        "Score": 269,
+        "Fraction": 0.0062826980568011954
+      },
+      {
+        "Username": "wolf bear",
+        "Score": 242,
+        "Fraction": 0.005652092675635277
+      },
+      {
+        "Username": "leefnmajors",
+        "Score": 241,
+        "Fraction": 0.00562873692077728
+      },
+      {
+        "Username": "The_Reborn",
+        "Score": 223,
+        "Fraction": 0.005208333333333333
+      },
+      {
+        "Username": "Chancellor87",
+        "Score": 215,
+        "Fraction": 0.005021487294469358
+      },
+      {
+        "Username": "KatFish",
+        "Score": 211,
+        "Fraction": 0.004928064275037369
+      },
+      {
+        "Username": "Zombie",
+        "Score": 206,
+        "Fraction": 0.004811285500747384
+      },
+      {
+        "Username": "Goldenbarky",
+        "Score": 202,
+        "Fraction": 0.004717862481315396
+      },
+      {
+        "Username": "unnadawg",
+        "Score": 173,
+        "Fraction": 0.004040545590433483
+      },
+      {
+        "Username": "Banditzz",
+        "Score": 158,
+        "Fraction": 0.0036902092675635276
+      },
+      {
+        "Username": "schluerfi",
+        "Score": 146,
+        "Fraction": 0.0034099402092675635
+      },
+      {
+        "Username": "Kam500",
+        "Score": 141,
+        "Fraction": 0.0032931614349775784
+      },
+      {
+        "Username": "Celt",
+        "Score": 115,
+        "Fraction": 0.002685911808669656
+      },
+      {
+        "Username": "Icepic",
+        "Score": 98,
+        "Fraction": 0.002288863976083707
+      },
+      {
+        "Username": "MadGirl",
+        "Score": 89,
+        "Fraction": 0.002078662182361734
+      },
+      {
+        "Username": "MadMan",
+        "Score": 89,
+        "Fraction": 0.002078662182361734
+      },
+      {
+        "Username": "Vortelas",
+        "Score": 86,
+        "Fraction": 0.0020085949177877428
+      },
+      {
+        "Username": "Gary",
+        "Score": 84,
+        "Fraction": 0.001961883408071749
+      },
+      {
+        "Username": "KadvanLlawen",
+        "Score": 84,
+        "Fraction": 0.001961883408071749
+      },
+      {
+        "Username": "Almost Average",
+        "Score": 71,
+        "Fraction": 0.0016582585949177877
+      },
+      {
+        "Username": "Croc",
+        "Score": 58,
+        "Fraction": 0.0013546337817638267
+      },
+      {
+        "Username": "Bora",
+        "Score": 57,
+        "Fraction": 0.0013312780269058295
+      },
+      {
+        "Username": "Nico1564",
+        "Score": 50,
+        "Fraction": 0.0011677877428998506
+      },
+      {
+        "Username": "jumunius",
+        "Score": 49,
+        "Fraction": 0.0011444319880418534
+      },
+      {
+        "Username": "obere",
+        "Score": 44,
+        "Fraction": 0.0010276532137518685
+      },
+      {
+        "Username": "sheppyboy",
+        "Score": 43,
+        "Fraction": 0.0010042974588938714
+      },
+      {
+        "Username": "maribethpoisson",
+        "Score": 43,
+        "Fraction": 0.0010042974588938714
+      },
+      {
+        "Username": "a161e9722341",
+        "Score": 42,
+        "Fraction": 0.0009809417040358745
+      },
+      {
+        "Username": "RCB",
+        "Score": 38,
+        "Fraction": 0.0008875186846038864
+      },
+      {
+        "Username": "Batsbak69",
+        "Score": 37,
+        "Fraction": 0.0008641629297458894
+      },
+      {
+        "Username": "Odin",
+        "Score": 33,
+        "Fraction": 0.0007707399103139013
+      },
+      {
+        "Username": "CaptainCurt03",
+        "Score": 31,
+        "Fraction": 0.0007240284005979073
+      },
+      {
+        "Username": "\u0427\u0435\u043F\u0443\u0431\u0435\u043B",
+        "Score": 30,
+        "Fraction": 0.0007006726457399103
+      },
+      {
+        "Username": "Barramundi",
+        "Score": 29,
+        "Fraction": 0.0006773168908819133
+      },
+      {
+        "Username": "RU | \u0411\u041B\u042D\uFFFD",
+        "Score": 29,
+        "Fraction": 0.0006773168908819133
+      },
+      {
+        "Username": "jacenator2004",
+        "Score": 28,
+        "Fraction": 0.0006539611360239163
+      },
+      {
+        "Username": "elektralibro",
+        "Score": 27,
+        "Fraction": 0.0006306053811659193
+      },
+      {
+        "Username": "Hy_Haxep",
+        "Score": 17,
+        "Fraction": 0.00039704783258594917
+      },
+      {
+        "Username": "Werwolf",
+        "Score": 17,
+        "Fraction": 0.00039704783258594917
+      },
+      {
+        "Username": "MaxVexis",
+        "Score": 15,
+        "Fraction": 0.00035033632286995514
+      },
+      {
+        "Username": "Weylin",
+        "Score": 10,
+        "Fraction": 0.0002335575485799701
+      },
+      {
+        "Username": "0MadMax0",
+        "Score": 10,
+        "Fraction": 0.0002335575485799701
+      },
+      {
+        "Username": "Cobalt",
+        "Score": 9,
+        "Fraction": 0.0002102017937219731
+      },
+      {
+        "Username": "Dark.Khimela",
+        "Score": 8,
+        "Fraction": 0.0001868460388639761
+      },
+      {
+        "Username": "Oleganio",
+        "Score": 8,
+        "Fraction": 0.0001868460388639761
+      },
+      {
+        "Username": "StinkyMan",
+        "Score": 8,
+        "Fraction": 0.0001868460388639761
+      },
+      {
+        "Username": "Razorlance",
+        "Score": 7,
+        "Fraction": 0.00016349028400597908
+      },
+      {
+        "Username": "Cobalt-60",
+        "Score": 7,
+        "Fraction": 0.00016349028400597908
+      },
+      {
+        "Username": "Gore",
+        "Score": 6,
+        "Fraction": 0.00014013452914798206
+      },
+      {
+        "Username": "MiLaNeQ",
+        "Score": 6,
+        "Fraction": 0.00014013452914798206
+      },
+      {
+        "Username": "Marius50",
+        "Score": 6,
+        "Fraction": 0.00014013452914798206
+      },
+      {
+        "Username": "Insipid",
+        "Score": 6,
+        "Fraction": 0.00014013452914798206
+      },
+      {
+        "Username": "Zebis",
+        "Score": 5,
+        "Fraction": 0.00011677877428998505
+      },
+      {
+        "Username": "skyfly5",
+        "Score": 5,
+        "Fraction": 0.00011677877428998505
+      },
+      {
+        "Username": "Zang2107",
+        "Score": 5,
+        "Fraction": 0.00011677877428998505
+      },
+      {
+        "Username": "Solaal",
+        "Score": 5,
+        "Fraction": 0.00011677877428998505
+      },
+      {
+        "Username": "rosa98",
+        "Score": 5,
+        "Fraction": 0.00011677877428998505
+      },
+      {
+        "Username": "PembrokeWelshCorgi",
+        "Score": 4,
+        "Fraction": 9.342301943198804E-05
+      },
+      {
+        "Username": "Silveraio",
+        "Score": 4,
+        "Fraction": 9.342301943198804E-05
+      },
+      {
+        "Username": "Nazzlol",
+        "Score": 4,
+        "Fraction": 9.342301943198804E-05
+      },
+      {
+        "Username": "\u0421pank",
+        "Score": 3,
+        "Fraction": 7.006726457399103E-05
+      },
+      {
+        "Username": "mummaki",
+        "Score": 3,
+        "Fraction": 7.006726457399103E-05
+      },
+      {
+        "Username": "Lucifiel",
+        "Score": 2,
+        "Fraction": 4.671150971599402E-05
+      },
+      {
+        "Username": "XORAXXXX",
+        "Score": 2,
+        "Fraction": 4.671150971599402E-05
+      },
+      {
+        "Username": "Lukalot",
+        "Score": 2,
+        "Fraction": 4.671150971599402E-05
+      },
+      {
+        "Username": "Ya Boi Chris",
+        "Score": 2,
+        "Fraction": 4.671150971599402E-05
+      },
+      {
+        "Username": "Exciter",
+        "Score": 1,
+        "Fraction": 2.335575485799701E-05
+      }
+    ]
+  },
+  {
+    "Name": "PlaceNewSettlementFoundation",
+    "TotalValue": 0,
+    "Scores": [
+    ]
+  },
+  {
+    "Name": "PlaceOrPickUpObject",
+    "TotalValue": 3234,
+    "Scores": [
+      {
+        "Username": "Droppre drop.skin",
+        "Score": 488,
+        "Fraction": 0.15089672232529375
+      },
+      {
+        "Username": "nat4227",
+        "Score": 430,
+        "Fraction": 0.13296227581941866
+      },
+      {
+        "Username": "apxucmpamer",
+        "Score": 344,
+        "Fraction": 0.10636982065553494
+      },
+      {
+        "Username": "Psyduck",
+        "Score": 307,
+        "Fraction": 0.09492888064316636
+      },
+      {
+        "Username": "Naarke",
+        "Score": 154,
+        "Fraction": 0.047619047619047616
+      },
+      {
+        "Username": "Ikoniak",
+        "Score": 123,
+        "Fraction": 0.038033395176252316
+      },
+      {
+        "Username": "Ladyhawke",
+        "Score": 120,
+        "Fraction": 0.03710575139146568
+      },
+      {
+        "Username": "Nuura",
+        "Score": 109,
+        "Fraction": 0.03370439084724799
+      },
+      {
+        "Username": "neverwhatever",
+        "Score": 95,
+        "Fraction": 0.02937538651824366
+      },
+      {
+        "Username": "ThBayan",
+        "Score": 91,
+        "Fraction": 0.02813852813852814
+      },
+      {
+        "Username": "Remek",
+        "Score": 76,
+        "Fraction": 0.02350030921459493
+      },
+      {
+        "Username": "G.W\u5EE2\uFFFD",
+        "Score": 74,
+        "Fraction": 0.022881880024737167
+      },
+      {
+        "Username": "PandaDono",
+        "Score": 64,
+        "Fraction": 0.019789734075448363
+      },
+      {
+        "Username": "ArendiaStar",
+        "Score": 62,
+        "Fraction": 0.0191713048855906
+      },
+      {
+        "Username": "Hover",
+        "Score": 46,
+        "Fraction": 0.01422387136672851
+      },
+      {
+        "Username": "sir_pattrick",
+        "Score": 41,
+        "Fraction": 0.012677798392084107
+      },
+      {
+        "Username": "VDFrame",
+        "Score": 39,
+        "Fraction": 0.012059369202226345
+      },
+      {
+        "Username": "maddogisme1",
+        "Score": 33,
+        "Fraction": 0.01020408163265306
+      },
+      {
+        "Username": "schluerfi",
+        "Score": 33,
+        "Fraction": 0.01020408163265306
+      },
+      {
+        "Username": "Ghost",
+        "Score": 32,
+        "Fraction": 0.009894867037724181
+      },
+      {
+        "Username": "Striator",
+        "Score": 30,
+        "Fraction": 0.00927643784786642
+      },
+      {
+        "Username": "Lord Business",
+        "Score": 29,
+        "Fraction": 0.008967223252937539
+      },
+      {
+        "Username": "96dwilliams",
+        "Score": 29,
+        "Fraction": 0.008967223252937539
+      },
+      {
+        "Username": "Volkozar",
+        "Score": 29,
+        "Fraction": 0.008967223252937539
+      },
+      {
+        "Username": "Chancellor87",
+        "Score": 24,
+        "Fraction": 0.0074211502782931356
+      },
+      {
+        "Username": "Agron",
+        "Score": 23,
+        "Fraction": 0.007111935683364255
+      },
+      {
+        "Username": "=7Cav=Mann.M",
+        "Score": 22,
+        "Fraction": 0.006802721088435374
+      },
+      {
+        "Username": "Epic_Null",
+        "Score": 20,
+        "Fraction": 0.006184291898577613
+      },
+      {
+        "Username": "MarisM",
+        "Score": 20,
+        "Fraction": 0.006184291898577613
+      },
+      {
+        "Username": "Banditzz",
+        "Score": 18,
+        "Fraction": 0.0055658627087198514
+      },
+      {
+        "Username": "Zombie",
+        "Score": 17,
+        "Fraction": 0.005256648113790971
+      },
+      {
+        "Username": "leefnmajors",
+        "Score": 16,
+        "Fraction": 0.004947433518862091
+      },
+      {
+        "Username": "Goldenbarky",
+        "Score": 15,
+        "Fraction": 0.00463821892393321
+      },
+      {
+        "Username": "Icepic",
+        "Score": 15,
+        "Fraction": 0.00463821892393321
+      },
+      {
+        "Username": "KatFish",
+        "Score": 14,
+        "Fraction": 0.004329004329004329
+      },
+      {
+        "Username": "Bora",
+        "Score": 14,
+        "Fraction": 0.004329004329004329
+      },
+      {
+        "Username": "The_Reborn",
+        "Score": 14,
+        "Fraction": 0.004329004329004329
+      },
+      {
+        "Username": "Batsbak69",
+        "Score": 13,
+        "Fraction": 0.004019789734075448
+      },
+      {
+        "Username": "foxrocks1070",
+        "Score": 13,
+        "Fraction": 0.004019789734075448
+      },
+      {
+        "Username": "Kam500",
+        "Score": 13,
+        "Fraction": 0.004019789734075448
+      },
+      {
+        "Username": "Croc",
+        "Score": 10,
+        "Fraction": 0.0030921459492888066
+      },
+      {
+        "Username": "Nico1564",
+        "Score": 9,
+        "Fraction": 0.0027829313543599257
+      },
+      {
+        "Username": "Vortelas",
+        "Score": 8,
+        "Fraction": 0.0024737167594310453
+      },
+      {
+        "Username": "Almost Average",
+        "Score": 7,
+        "Fraction": 0.0021645021645021645
+      },
+      {
+        "Username": "MadMan",
+        "Score": 7,
+        "Fraction": 0.0021645021645021645
+      },
+      {
+        "Username": "MadGirl",
+        "Score": 5,
+        "Fraction": 0.0015460729746444033
+      },
+      {
+        "Username": "unnadawg",
+        "Score": 5,
+        "Fraction": 0.0015460729746444033
+      },
+      {
+        "Username": "Celt",
+        "Score": 4,
+        "Fraction": 0.0012368583797155227
+      },
+      {
+        "Username": "wolf bear",
+        "Score": 4,
+        "Fraction": 0.0012368583797155227
+      },
+      {
+        "Username": "sheppyboy",
+        "Score": 3,
+        "Fraction": 0.0009276437847866419
+      },
+      {
+        "Username": "a161e9722341",
+        "Score": 3,
+        "Fraction": 0.0009276437847866419
+      },
+      {
+        "Username": "RU | \u0411\u041B\u042D\uFFFD",
+        "Score": 3,
+        "Fraction": 0.0009276437847866419
+      },
+      {
+        "Username": "KadvanLlawen",
+        "Score": 3,
+        "Fraction": 0.0009276437847866419
+      },
+      {
+        "Username": "maribethpoisson",
+        "Score": 3,
+        "Fraction": 0.0009276437847866419
+      },
+      {
+        "Username": "elektralibro",
+        "Score": 3,
+        "Fraction": 0.0009276437847866419
+      },
+      {
+        "Username": "Hy_Haxep",
+        "Score": 2,
+        "Fraction": 0.0006184291898577613
+      },
+      {
+        "Username": "Taelshin",
+        "Score": 2,
+        "Fraction": 0.0006184291898577613
+      },
+      {
+        "Username": "Gary",
+        "Score": 2,
+        "Fraction": 0.0006184291898577613
+      },
+      {
+        "Username": "jumunius",
+        "Score": 2,
+        "Fraction": 0.0006184291898577613
+      }
+    ]
+  },
+  {
+    "Name": "PrairieDogSpecies",
+    "TotalValue": 0,
+    "Scores": [
+    ]
+  },
+  {
+    "Name": "PeatMossSpecies",
+    "TotalValue": 0,
+    "Scores": [
+    ]
+  },
+  {
+    "Name": "PacificSardineSpecies",
+    "TotalValue": 0,
+    "Scores": [
+    ]
+  },
+  {
+    "Name": "PayWages",
+    "TotalValue": 0,
+    "Scores": [
+    ]
+  },
+  {
+    "Name": "PersonalWealthInDefaultCurrency",
+    "TotalValue": 0,
+    "Scores": [
+    ]
+  },
+  {
+    "Name": "PitcherPlantSpecies",
+    "TotalValue": 0,
+    "Scores": [
+    ]
+  },
+  {
+    "Name": "PricklyPearSpecies",
+    "TotalValue": 0,
+    "Scores": [
+    ]
+  },
+  {
+    "Name": "PlaceNewSettlement",
+    "TotalValue": 0,
+    "Scores": [
+    ]
+  },
+  {
+    "Name": "PalmSpecies",
+    "TotalValue": 0,
+    "Scores": [
+    ]
+  },
+  {
+    "Name": "PumpkinSpecies",
+    "TotalValue": 0,
+    "Scores": [
+    ]
+  },
+  {
+    "Name": "PlantSeeds",
+    "TotalValue": 2899,
+    "Scores": [
+      {
+        "Username": "Hover",
+        "Score": 1391,
+        "Fraction": 0.4798206278026906
+      },
+      {
+        "Username": "PandaDono",
+        "Score": 828,
+        "Fraction": 0.2856157295619179
+      },
+      {
+        "Username": "Agron",
+        "Score": 467,
+        "Fraction": 0.161090031045188
+      },
+      {
+        "Username": "nat4227",
+        "Score": 91,
+        "Fraction": 0.03139013452914798
+      },
+      {
+        "Username": "Volkozar",
+        "Score": 50,
+        "Fraction": 0.017247326664367024
+      },
+      {
+        "Username": "=7Cav=Mann.M",
+        "Score": 41,
+        "Fraction": 0.014142807864780959
+      },
+      {
+        "Username": "MarisM",
+        "Score": 15,
+        "Fraction": 0.005174197999310107
+      },
+      {
+        "Username": "Goldenbarky",
+        "Score": 10,
+        "Fraction": 0.0034494653328734047
+      },
+      {
+        "Username": "Ghost",
+        "Score": 6,
+        "Fraction": 0.002069679199724043
+      }
+    ]
+  },
+  {
+    "Name": "PineappleSpecies",
+    "TotalValue": 0,
+    "Scores": [
+    ]
+  },
+  {
+    "Name": "PostedContract",
+    "TotalValue": 0,
+    "Scores": [
+    ]
+  },
+  {
+    "Name": "PapayaSpecies",
+    "TotalValue": 0,
+    "Scores": [
+    ]
+  },
+  {
+    "Name": "PropertyTransfer",
+    "TotalValue": 0,
+    "Scores": [
+    ]
+  },
+  {
+    "Name": "PostedWorkParty",
+    "TotalValue": 1,
+    "Scores": [
+      {
+        "Username": "MarisM",
+        "Score": 1,
+        "Fraction": 1
+      }
+    ]
+  },
+  {
+    "Name": "PlantPopulation",
+    "TotalValue": 0,
+    "Scores": [
+    ]
+  },
+  {
+    "Name": "PolluteAir",
+    "TotalValue": 0,
+    "Scores": [
+    ]
+  },
+  {
+    "Name": "PlowField",
+    "TotalValue": 3292,
+    "Scores": [
+      {
+        "Username": "Hover",
+        "Score": 1563,
+        "Fraction": 0.4747873633049818
+      },
+      {
+        "Username": "PandaDono",
+        "Score": 860,
+        "Fraction": 0.26123936816524906
+      },
+      {
+        "Username": "Agron",
+        "Score": 482,
+        "Fraction": 0.14641555285540706
+      },
+      {
+        "Username": "Volkozar",
+        "Score": 202,
+        "Fraction": 0.06136087484811665
+      },
+      {
+        "Username": "nat4227",
+        "Score": 90,
+        "Fraction": 0.027339003645200487
+      },
+      {
+        "Username": "=7Cav=Mann.M",
+        "Score": 47,
+        "Fraction": 0.014277035236938032
+      },
+      {
+        "Username": "MarisM",
+        "Score": 28,
+        "Fraction": 0.00850546780072904
+      },
+      {
+        "Username": "Goldenbarky",
+        "Score": 20,
+        "Fraction": 0.006075334143377886
+      }
+    ]
+  },
+  {
+    "Name": "PayRentOrMoveInFee",
+    "TotalValue": 0,
+    "Scores": [
+    ]
+  },
+  {
+    "Name": "RepairBountyClaimed",
+    "TotalValue": 0,
+    "Scores": [
+    ]
+  },
+  {
+    "Name": "ReceiveGovernmentFunds",
+    "TotalValue": 0,
+    "Scores": [
+    ]
+  },
+  {
+    "Name": "RedwoodSpecies",
+    "TotalValue": 0,
+    "Scores": [
+    ]
+  },
+  {
+    "Name": "ResidencyChanged",
+    "TotalValue": 0,
+    "Scores": [
+    ]
+  },
+  {
+    "Name": "RiceSpecies",
+    "TotalValue": 0,
+    "Scores": [
+    ]
+  },
+  {
+    "Name": "RepaidLoanOrBond",
+    "TotalValue": 0,
+    "Scores": [
+    ]
+  },
+  {
+    "Name": "ReputationTransfer",
+    "TotalValue": 0,
+    "Scores": [
+    ]
+  },
+  {
+    "Name": "StartElection",
+    "TotalValue": 0,
+    "Scores": [
+    ]
+  },
+  {
+    "Name": "SeagrassSpecies",
+    "TotalValue": 0,
+    "Scores": [
+    ]
+  },
+  {
+    "Name": "SettlementFounded",
+    "TotalValue": 0,
+    "Scores": [
+    ]
+  },
+  {
+    "Name": "SaguaroCactusSpecies",
+    "TotalValue": 0,
+    "Scores": [
+    ]
+  },
+  {
+    "Name": "SalalSpecies",
+    "TotalValue": 0,
+    "Scores": [
+    ]
+  },
+  {
+    "Name": "SalmonSpecies",
+    "TotalValue": 0,
+    "Scores": [
+    ]
+  },
+  {
+    "Name": "SnappingTurtleSpecies",
+    "TotalValue": 0,
+    "Scores": [
+    ]
+  },
+  {
+    "Name": "SpecialtyLevelUp",
+    "TotalValue": 139,
+    "Scores": [
+      {
+        "Username": "Ladyhawke",
+        "Score": 13,
+        "Fraction": 0.09352517985611511
+      },
+      {
+        "Username": "Ikoniak",
+        "Score": 12,
+        "Fraction": 0.08633093525179857
+      },
+      {
+        "Username": "nat4227",
+        "Score": 12,
+        "Fraction": 0.08633093525179857
+      },
+      {
+        "Username": "Psyduck",
+        "Score": 10,
+        "Fraction": 0.07194244604316546
+      },
+      {
+        "Username": "Nuura",
+        "Score": 10,
+        "Fraction": 0.07194244604316546
+      },
+      {
+        "Username": "Naarke",
+        "Score": 7,
+        "Fraction": 0.050359712230215826
+      },
+      {
+        "Username": "PandaDono",
+        "Score": 7,
+        "Fraction": 0.050359712230215826
+      },
+      {
+        "Username": "Hover",
+        "Score": 6,
+        "Fraction": 0.04316546762589928
+      },
+      {
+        "Username": "sir_pattrick",
+        "Score": 6,
+        "Fraction": 0.04316546762589928
+      },
+      {
+        "Username": "Agron",
+        "Score": 5,
+        "Fraction": 0.03597122302158273
+      },
+      {
+        "Username": "maddogisme1",
+        "Score": 5,
+        "Fraction": 0.03597122302158273
+      },
+      {
+        "Username": "ThBayan",
+        "Score": 5,
+        "Fraction": 0.03597122302158273
+      },
+      {
+        "Username": "Epic_Null",
+        "Score": 5,
+        "Fraction": 0.03597122302158273
+      },
+      {
+        "Username": "apxucmpamer",
+        "Score": 5,
+        "Fraction": 0.03597122302158273
+      },
+      {
+        "Username": "neverwhatever",
+        "Score": 4,
+        "Fraction": 0.02877697841726619
+      },
+      {
+        "Username": "Droppre drop.skin",
+        "Score": 4,
+        "Fraction": 0.02877697841726619
+      },
+      {
+        "Username": "maribethpoisson",
+        "Score": 4,
+        "Fraction": 0.02877697841726619
+      },
+      {
+        "Username": "foxrocks1070",
+        "Score": 3,
+        "Fraction": 0.02158273381294964
+      },
+      {
+        "Username": "96dwilliams",
+        "Score": 3,
+        "Fraction": 0.02158273381294964
+      },
+      {
+        "Username": "Chancellor87",
+        "Score": 2,
+        "Fraction": 0.014388489208633094
+      },
+      {
+        "Username": "unnadawg",
+        "Score": 2,
+        "Fraction": 0.014388489208633094
+      },
+      {
+        "Username": "KatFish",
+        "Score": 2,
+        "Fraction": 0.014388489208633094
+      },
+      {
+        "Username": "Taelshin",
+        "Score": 1,
+        "Fraction": 0.007194244604316547
+      },
+      {
+        "Username": "ArendiaStar",
+        "Score": 1,
+        "Fraction": 0.007194244604316547
+      },
+      {
+        "Username": "Lord Business",
+        "Score": 1,
+        "Fraction": 0.007194244604316547
+      },
+      {
+        "Username": "G.W\u5EE2\uFFFD",
+        "Score": 1,
+        "Fraction": 0.007194244604316547
+      },
+      {
+        "Username": "Zombie",
+        "Score": 1,
+        "Fraction": 0.007194244604316547
+      },
+      {
+        "Username": "Banditzz",
+        "Score": 1,
+        "Fraction": 0.007194244604316547
+      },
+      {
+        "Username": "Gary",
+        "Score": 1,
+        "Fraction": 0.007194244604316547
+      }
+    ]
+  },
+  {
+    "Name": "SpruceSpecies",
+    "TotalValue": 0,
+    "Scores": [
+    ]
+  },
+  {
+    "Name": "StartHomestead",
+    "TotalValue": 83,
+    "Scores": [
+      {
+        "Username": "Kam500",
+        "Score": 4,
+        "Fraction": 0.04819277108433735
+      },
+      {
+        "Username": "PandaDono",
+        "Score": 3,
+        "Fraction": 0.03614457831325301
+      },
+      {
+        "Username": "Volkozar",
+        "Score": 3,
+        "Fraction": 0.03614457831325301
+      },
+      {
+        "Username": "nat4227",
+        "Score": 2,
+        "Fraction": 0.024096385542168676
+      },
+      {
+        "Username": "Ladyhawke",
+        "Score": 2,
+        "Fraction": 0.024096385542168676
+      },
+      {
+        "Username": "Ikoniak",
+        "Score": 2,
+        "Fraction": 0.024096385542168676
+      },
+      {
+        "Username": "Psyduck",
+        "Score": 2,
+        "Fraction": 0.024096385542168676
+      },
+      {
+        "Username": "neverwhatever",
+        "Score": 2,
+        "Fraction": 0.024096385542168676
+      },
+      {
+        "Username": "Droppre drop.skin",
+        "Score": 2,
+        "Fraction": 0.024096385542168676
+      },
+      {
+        "Username": "ThBayan",
+        "Score": 2,
+        "Fraction": 0.024096385542168676
+      },
+      {
+        "Username": "apxucmpamer",
+        "Score": 2,
+        "Fraction": 0.024096385542168676
+      },
+      {
+        "Username": "schluerfi",
+        "Score": 2,
+        "Fraction": 0.024096385542168676
+      },
+      {
+        "Username": "Remek",
+        "Score": 2,
+        "Fraction": 0.024096385542168676
+      },
+      {
+        "Username": "foxrocks1070",
+        "Score": 2,
+        "Fraction": 0.024096385542168676
+      },
+      {
+        "Username": "G.W\u5EE2\uFFFD",
+        "Score": 2,
+        "Fraction": 0.024096385542168676
+      },
+      {
+        "Username": "Banditzz",
+        "Score": 2,
+        "Fraction": 0.024096385542168676
+      },
+      {
+        "Username": "sir_pattrick",
+        "Score": 2,
+        "Fraction": 0.024096385542168676
+      },
+      {
+        "Username": "Nuura",
+        "Score": 2,
+        "Fraction": 0.024096385542168676
+      },
+      {
+        "Username": "leefnmajors",
+        "Score": 2,
+        "Fraction": 0.024096385542168676
+      },
+      {
+        "Username": "Bora",
+        "Score": 2,
+        "Fraction": 0.024096385542168676
+      },
+      {
+        "Username": "Agron",
+        "Score": 1,
+        "Fraction": 0.012048192771084338
+      },
+      {
+        "Username": "maddogisme1",
+        "Score": 1,
+        "Fraction": 0.012048192771084338
+      },
+      {
+        "Username": "Naarke",
+        "Score": 1,
+        "Fraction": 0.012048192771084338
+      },
+      {
+        "Username": "Nico1564",
+        "Score": 1,
+        "Fraction": 0.012048192771084338
+      },
+      {
+        "Username": "Vortelas",
+        "Score": 1,
+        "Fraction": 0.012048192771084338
+      },
+      {
+        "Username": "Croc",
+        "Score": 1,
+        "Fraction": 0.012048192771084338
+      },
+      {
+        "Username": "Hy_Haxep",
+        "Score": 1,
+        "Fraction": 0.012048192771084338
+      },
+      {
+        "Username": "Lord Business",
+        "Score": 1,
+        "Fraction": 0.012048192771084338
+      },
+      {
+        "Username": "Almost Average",
+        "Score": 1,
+        "Fraction": 0.012048192771084338
+      },
+      {
+        "Username": "ArendiaStar",
+        "Score": 1,
+        "Fraction": 0.012048192771084338
+      },
+      {
+        "Username": "Goldenbarky",
+        "Score": 1,
+        "Fraction": 0.012048192771084338
+      },
+      {
+        "Username": "Hover",
+        "Score": 1,
+        "Fraction": 0.012048192771084338
+      },
+      {
+        "Username": "Batsbak69",
+        "Score": 1,
+        "Fraction": 0.012048192771084338
+      },
+      {
+        "Username": "Taelshin",
+        "Score": 1,
+        "Fraction": 0.012048192771084338
+      },
+      {
+        "Username": "96dwilliams",
+        "Score": 1,
+        "Fraction": 0.012048192771084338
+      },
+      {
+        "Username": "Gary",
+        "Score": 1,
+        "Fraction": 0.012048192771084338
+      },
+      {
+        "Username": "Epic_Null",
+        "Score": 1,
+        "Fraction": 0.012048192771084338
+      },
+      {
+        "Username": "MarisM",
+        "Score": 1,
+        "Fraction": 0.012048192771084338
+      },
+      {
+        "Username": "sheppyboy",
+        "Score": 1,
+        "Fraction": 0.012048192771084338
+      },
+      {
+        "Username": "a161e9722341",
+        "Score": 1,
+        "Fraction": 0.012048192771084338
+      },
+      {
+        "Username": "MadMan",
+        "Score": 1,
+        "Fraction": 0.012048192771084338
+      },
+      {
+        "Username": "MadGirl",
+        "Score": 1,
+        "Fraction": 0.012048192771084338
+      },
+      {
+        "Username": "Striator",
+        "Score": 1,
+        "Fraction": 0.012048192771084338
+      },
+      {
+        "Username": "Zombie",
+        "Score": 1,
+        "Fraction": 0.012048192771084338
+      },
+      {
+        "Username": "Ghost",
+        "Score": 1,
+        "Fraction": 0.012048192771084338
+      },
+      {
+        "Username": "Celt",
+        "Score": 1,
+        "Fraction": 0.012048192771084338
+      },
+      {
+        "Username": "RU | \u0411\u041B\u042D\uFFFD",
+        "Score": 1,
+        "Fraction": 0.012048192771084338
+      },
+      {
+        "Username": "Icepic",
+        "Score": 1,
+        "Fraction": 0.012048192771084338
+      },
+      {
+        "Username": "KadvanLlawen",
+        "Score": 1,
+        "Fraction": 0.012048192771084338
+      },
+      {
+        "Username": "Chancellor87",
+        "Score": 1,
+        "Fraction": 0.012048192771084338
+      },
+      {
+        "Username": "unnadawg",
+        "Score": 1,
+        "Fraction": 0.012048192771084338
+      },
+      {
+        "Username": "KatFish",
+        "Score": 1,
+        "Fraction": 0.012048192771084338
+      },
+      {
+        "Username": "wolf bear",
+        "Score": 1,
+        "Fraction": 0.012048192771084338
+      },
+      {
+        "Username": "=7Cav=Mann.M",
+        "Score": 1,
+        "Fraction": 0.012048192771084338
+      },
+      {
+        "Username": "maribethpoisson",
+        "Score": 1,
+        "Fraction": 0.012048192771084338
+      },
+      {
+        "Username": "jumunius",
+        "Score": 1,
+        "Fraction": 0.012048192771084338
+      },
+      {
+        "Username": "elektralibro",
+        "Score": 1,
+        "Fraction": 0.012048192771084338
+      },
+      {
+        "Username": "VDFrame",
+        "Score": 1,
+        "Fraction": 0.012048192771084338
+      },
+      {
+        "Username": "The_Reborn",
+        "Score": 1,
+        "Fraction": 0.012048192771084338
+      }
+    ]
+  },
+  {
+    "Name": "SunflowerSpecies",
+    "TotalValue": 0,
+    "Scores": [
+    ]
+  },
+  {
+    "Name": "SeaLevel",
+    "TotalValue": 0,
+    "Scores": [
+    ]
+  },
+  {
+    "Name": "SwitchgrassSpecies",
+    "TotalValue": 0,
+    "Scores": [
+    ]
+  },
+  {
+    "Name": "SaxifrageSpecies",
+    "TotalValue": 0,
+    "Scores": [
+    ]
+  },
+  {
+    "Name": "TampRoad",
+    "TotalValue": 856,
+    "Scores": [
+      {
+        "Username": "apxucmpamer",
+        "Score": 596,
+        "Fraction": 0.6962616822429907
+      },
+      {
+        "Username": "Hover",
+        "Score": 260,
+        "Fraction": 0.3037383177570093
+      }
+    ]
+  },
+  {
+    "Name": "TradesInLast7Days",
+    "TotalValue": 0,
+    "Scores": [
+    ]
+  },
+  {
+    "Name": "TreePopulation",
+    "TotalValue": 0,
+    "Scores": [
+    ]
+  },
+  {
+    "Name": "TotalGroundPollution",
+    "TotalValue": 0,
+    "Scores": [
+    ]
+  },
+  {
+    "Name": "TrilliumSpecies",
+    "TotalValue": 0,
+    "Scores": [
+    ]
+  },
+  {
+    "Name": "TotalCO2",
+    "TotalValue": 0,
+    "Scores": [
+    ]
+  },
+  {
+    "Name": "TomatoesSpecies",
+    "TotalValue": 0,
+    "Scores": [
+    ]
+  },
+  {
+    "Name": "TarantulaSpecies",
+    "TotalValue": 0,
+    "Scores": [
+    ]
+  },
+  {
+    "Name": "TaroSpecies",
+    "TotalValue": 0,
+    "Scores": [
+    ]
+  },
+  {
+    "Name": "TunaSpecies",
+    "TotalValue": 0,
+    "Scores": [
+    ]
+  },
+  {
+    "Name": "TransferMoney",
+    "TotalValue": 1,
+    "Scores": [
+      {
+        "Username": "MarisM",
+        "Score": 1,
+        "Fraction": 1
+      }
+    ]
+  },
+  {
+    "Name": "TroutSpecies",
+    "TotalValue": 0,
+    "Scores": [
+    ]
+  },
+  {
+    "Name": "TortoiseSpecies",
+    "TotalValue": 0,
+    "Scores": [
+    ]
+  },
+  {
+    "Name": "TurkeySpecies",
+    "TotalValue": 0,
+    "Scores": [
+    ]
+  },
+  {
+    "Name": "TaxedTransactions",
+    "TotalValue": 0,
+    "Scores": [
+    ]
+  },
+  {
+    "Name": "UrchinSpecies",
+    "TotalValue": 0,
+    "Scores": [
+    ]
+  },
+  {
+    "Name": "Vote",
+    "TotalValue": 0,
+    "Scores": [
+    ]
+  },
+  {
+    "Name": "WaterweedSpecies",
+    "TotalValue": 0,
+    "Scores": [
+    ]
+  },
+  {
+    "Name": "WheatSpecies",
+    "TotalValue": 0,
+    "Scores": [
+    ]
+  },
+  {
+    "Name": "WhiteBursageSpecies",
+    "TotalValue": 0,
+    "Scores": [
+    ]
+  },
+  {
+    "Name": "WolfSpecies",
+    "TotalValue": 0,
+    "Scores": [
+    ]
+  },
+  {
+    "Name": "WonElection",
+    "TotalValue": 0,
+    "Scores": [
+    ]
+  },
+  {
+    "Name": "WorkedForWorkParty",
+    "TotalValue": 0,
+    "Scores": [
+    ]
+  }
+]
