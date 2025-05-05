@@ -89,6 +89,14 @@
       "Max": 10
     },
     {
+      "Description": "Destroyer of life",
+      "StatName": "HarvestOrHunt",
+      "Multiplier": 1.0,
+      "Unit": "animals + plants harvested",
+      "Format": "RoundedNumber",
+      "Max": 10
+    },
+    {
       "Description": "Didn't get the memo",
       "StatName": "PlantSeeds",
       "Multiplier": 1.0,
