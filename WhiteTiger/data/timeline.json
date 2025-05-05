@@ -1,6 +1,18 @@
 ﻿{
   "TimelineEntries": [
     {
+      "Id": "wc3",
+      "Title": "WC3",
+      "StartDate": "02/05/2025",
+      "Victory": true,
+      "Subtext": "Speedrun Event",
+      "NotableEvents": [
+        "Third official open speedrun event",
+        "Meteor shot down in just over 47 hours"
+      ],
+      "HasScoreboard": true
+    },
+    {
       "Id": "47",
       "Title": "WT47",
       "StartDate": "07/02/2025",
