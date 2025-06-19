@@ -1,6 +1,77 @@
 ﻿{
   "TimelineEntries": [
     {
+      "Id": "49",
+      "Title": "WT49",
+      "StartDate": "16/05/2025",
+      "Victory": true,
+      "Victories": {
+        "Domination": {
+          "Achieved": false,
+          "Conditions": [
+            "The office of Prime Minister must be held by the same player during the whole cycle.",
+            "A positive cult of personality without major opposition must be established around the Prime Minister’s person and its effects must be visible throughout the whole world.",
+            "The Prime Minister must faithfully and lawfully execute all of his duties at all times."
+          ],
+          "Rewards": [
+            "For the following cycle, the current Prime Minister may choose to become Federal President and to slightly adjust the server concept with Game Masters’ consent."
+          ]
+        },
+        "Religion": {
+          "Achieved": false,
+          "Conditions": [
+            "At least one religion must be founded and the majority of active citizens at the time of the victory ceremony must be followers of any religion.",
+            "Religions must be fictitious and positive, charge their followers a membership fee, build at least one prestigious church building, appoint members into fitting religious offices and at least conduct minor role play supporting it."
+          ],
+          "Rewards": [
+            "For the following cycle, the religion with the most followers at the end of the cycle becomes the state religion with a tax funded government office to facilitate endeavors typical for that religion."
+          ]
+        },
+        "Science": {
+          "Achieved": false,
+          "Conditions": [
+            "A monumental spaceport featuring a command center and a rocket must be built.",
+            "The rocket must be loaded with a copy of each Skill Book (additional to the ones at the Federal University), the Ecoylent, five Reseeding packages and 100 Settler Packs.",
+            "The majority of towns must have established a School House and the majority of states (excluding Unica) must have established a State College.",
+            "The population on the server needs to achieve at least 35 “Global Level-Ups” (visible in the tooltip for the specialty) for each of the following specialties: Electronics, Industry"
+          ],
+          "Rewards": [
+            "For the following cycle, players spawn with a full set of iron tools, a soil sampler, 20 charred sausages, 20 topped porridge and a selection of seeds. The Skill Books for Advanced Baking, Advanced Cooking, Advanced Masonry, Composites, Electronics, Industry and Oil Drilling cost 50% less to craft."
+          ]
+        },
+        "Diplomatic": {
+          "Achieved": false,
+          "Conditions": [
+            "At least four states must be founded (not including Unica) and have an active Governor during the victory ceremony.",
+            "At least four states qualifying for the former condition must have reached a “Culture Including Children“ value of at least 250."
+          ],
+          "Rewards": [
+            "For the following cycle, the governors of all states fulfilling the conditions are allowed to view the map and get to place their state at a location all of them agree on before the server starts. They are not allowed to share any information about the map."
+          ]
+        },
+        "Culture": {
+          "Achieved": false,
+          "Conditions": [
+            "All buildings in the government district of Unica must be built to be iconic and merge their gameplay functionality with aesthetic and roleplay supporting decorations in a manner that makes the buildings look like a usable prestigious real-life counterpart.",
+            "The Presidential Square in Unica must be upgraded to a monumental Presidential Palace and feature a realistic civil defense bunker for the general public underground.",
+            "The Federation must reach a “Culture Including Children” value of at least 2500."
+          ],
+          "Rewards": [
+            "For the following cycle, the recipes for T4 building materials and furniture are changed to make their costs on par with T3 materials and furniture."
+          ]
+        }
+      },
+      "Subtext": "Natural Disaster Cycle",
+      "NotableEvents": [
+        "Higher tax rates than usual",
+        "The Trading Guild was founded by DarkMukke",
+        "A hurricane was simulated ingame resulting in many fallen trees"
+
+      ],
+      "HasScoreboard": true,
+      "HasThumbnail": true
+    },
+    {
       "Id": "48",
       "Title": "WT48",
       "StartDate": "20/03/2025",
