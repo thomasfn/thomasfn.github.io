@@ -1,6 +1,68 @@
 ﻿{
   "TimelineEntries": [
     {
+      "Id": "55",
+      "Title": "WT55",
+      "StartDate": "27/03/2026",
+      "Victory": true,
+      "Victories": {
+        "Domination": {
+          "Achieved": false,
+          "Conditions": [
+            "Best Paths: Same PM Each Week OR Complete the Laser Recipe in a good weekly cadence."
+          ],
+          "Rewards": [
+            "For the following cycle, the current Prime Minister may choose to become Federal President and to slightly adjust the server concept with Game Master's Consent."
+          ]
+        },
+        "Religion": {
+          "Achieved": false,
+          "Conditions": [
+            "Best Paths: Religious conversions and holy sites."
+          ],
+          "Rewards": [
+            "For the following cycle, the religion with the most followers at the end of the cycle becomes the state religion with a tax funded government office to facilitate endeavors typical for that religion. Players will spawn with 20 wheat seeds, 20 huckleberry seeds, 5 bread and 5 fish."
+          ]
+        },
+        "Science": {
+          "Achieved": false,
+          "Conditions": [
+            "Best Paths: Proliferation of technical skills amongst the population and duplicate skill books."
+          ],
+          "Rewards": [
+            "For the following cycle, players spawn with a full set of iron tools, a soil sampler, 20 charred sausages, 20 topped porridge and a selection of seeds. The T3 Skill Books for Advanced Baking, Advanced Cooking, Advanced Masonry, Composites, Electronics, Industry, and Oil Drilling cost 50% less to craft."
+          ]
+        },
+        "Diplomatic": {
+          "Achieved": false,
+          "Conditions": [
+            "Best Paths: Multiple Settlements and Dinner Parties."
+          ],
+          "Rewards": [
+            "For the following cycle, the governors of all states fulfilling the conditions are allowed to view the map and get to place their state at a location all of them agree on before server start. No information is allowed to be shared about the map."
+          ]
+        },
+        "Culture": {
+          "Achieved": false,
+          "Conditions": [
+            "Best Paths: Cultural Builds."
+          ],
+          "Rewards": [
+            "For the following cycle, recipes for T5 building materials and furniture are changed to make their costs on par with T4 materials and furniture."
+          ]
+        }
+      },
+      "Subtext": "Scarcity Cycle",
+      "NotableEvents": [
+        "Playtest cycle for Eco 13",
+        "Company restrictions were lifted though many companies were still founded",
+        "Many recipes were more expensive with the update and a general lack of resources ensued",
+        "Endgame research was very late"
+      ],
+      "HasScoreboard": true,
+      "HasThumbnail": true
+    },
+    {
       "Id": "54",
       "Title": "WT54",
       "StartDate": "06/02/2026",
